@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1,Suluk® → SKYNET SPORTS HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/203.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1,Suluk® → SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1,Suluk® → SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,Suluk® → SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD1 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/149.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD2 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD2 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/152.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD3 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/153.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD3 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/154.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD4 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD4 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/156.m3u8
+#EXTINF:-1,Suluk® → HBO HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Suluk® → SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX MOVIES PREMIUM
+http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX MOVIES
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/59.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX FAMILY MOVIES HD
+http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
+
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
