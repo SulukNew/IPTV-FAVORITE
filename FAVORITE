@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1,Suluk® → SKYNET SPORTS HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/203.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORTS TH HD
+http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/20991.ts
+#EXTINF:-1,Suluk® → STAR SPORTS 1 HD
+http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/4548.ts
+#EXTINF:-1,Suluk® → STAR SPORTS 2 HD
+http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/10945.ts
+#EXTINF:-1,Suluk® → STAR SPORTS SELECT 2 HD
+http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/29496.ts
+#EXTINF:-1,Suluk® → STAR SPORTS SELECT 2 HD
+http://king-box.club:80/live/V3nfUdBAR4/gIOQaVRHeJ/10944.ts
 #EXTINF:-1,Suluk® → SONY TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1,Suluk® → SONY TEN 2 HD
@@ -43,10 +53,27 @@ http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/59.m3u8
 #EXTINF:-1,Suluk® → TRUE FOX FAMILY MOVIES HD
 http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
-
+#EXTINF:-1,Suluk® → BALKANIKA
+http://31.41.20.14:4054
 #EXTINF:-1,Suluk® → NAT GEO WILD
 http://103.242.13.90:5555/udp/239.4.1.62:10000
 #EXTINF:-1,Suluk® → DISCOVERY WORLD HD
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 #EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
 http://103.242.13.90:5555/udp/239.4.1.61:10000
+#EXTINF:-1,Suluk® → REN TV
+http://89.28.21.90/RenTV/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Suluk® → CCTV5- WC
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1,Suluk® → CCTV5+ WC
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1,Suluk® → CCTV5- WC2
+rtmp://58.200.131.3:1935/livetv/cctv5hd
+#EXTINF:-1,Suluk® → CCTV5- WC3
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1,Suluk® → CCTV1- WC
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1,Suluk® → РОССИЯ 24
+http://185.76.81.12:8008/play/a008
+#EXTINF:-1,Suluk® → РОССИЯ 1 HD
+http://185.76.81.12:8008/play/a02i
