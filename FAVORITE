@@ -57,8 +57,8 @@ http://103.242.13.90:5555/udp/239.4.1.62:10000
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 #EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
 http://103.242.13.90:5555/udp/239.4.1.61:10000
-#EXTINF:-1,Suluk® → REN TV
-http://89.28.21.90/RenTV/tracks-v1a1/index.m3u8?token=44355e583e06b265de71f575f34567634efbb78c
+#EXTINF:-1,Suluk® → РЕН-ТВ
+http://91.210.24.70:88/tv_sochi_ren_tv/video.m3u8
 #EXTINF:-1,Suluk® → РОССИЯ 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
 #EXTINF:-1,Suluk® → МАТЧ!
