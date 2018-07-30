@@ -19,16 +19,19 @@ http://183.89.90.254:9981/stream/channelid/459391936?ticket=d8a2b7d563f7a6de3f0a
 http://139.99.38.15:443/sd-skynetsportshd_720/index.m3u8
 
 #EXTINF:-1,Suluk® → STAR SPORTS 1 HD
-http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
+
+#EXTINF:-1,Suluk® → STAR SPORTS 1 HD
+http://216.144.250.174/Star_Sport_Hd_o3/index.m3u8
 
 #EXTINF:-1,Suluk® → STAR SPORTS 2 HD
-http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
 #EXTINF:-1,Suluk® → STAR SPORTS SELECT 1 HD
-http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
 #EXTINF:-1,Suluk® → STAR SPORTS SELECT 2 HD
-http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
 #EXTINF:-1,Suluk® → TRUE SPORT HD 1
 http://139.99.38.15:443/hd-tsport1_720/index.m3u8
