@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, **SULUK FAVORITE**
+#EXTINF:-1,== SULUK IPTV ==
+http://bit.ly/SulukLogo1
+
+#EXTINF:-1,Suluk® → FTV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
 #EXTINF:-1,Suluk® → ASTRO SPORT 1
