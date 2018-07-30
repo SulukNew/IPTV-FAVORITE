@@ -3,6 +3,30 @@
 #EXTINF:-1, == SULUK IPTV ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 
+#EXTINF:-1,Suluk® → SKY SPORT 1 4K
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+
+#EXTINF:-1,Suluk® → SKY SPORT 2 4K
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+
+#EXTINF:-1,Suluk® → SKY SPORT 3 4K
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+
+#EXTINF:-1,Suluk® → SKY SPORT 4 4K
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+
+#EXTINF:-1,Suluk® → SKY SPORT 5 4K
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+
+#EXTINF:-1,Suluk® → SPORT MIX 4K
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+
+#EXTINF:-1,Suluk® → SKY SPORTS 4K CRICKET
+http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
+
+#EXTINF:-1,Suluk® → SKY SPORTS HD
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/3.ts
+
 #EXTINF:-1,Suluk® → FTV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
@@ -63,11 +87,38 @@ http://139.99.38.15:443/epl-bein3_1080/index.m3u8
 #EXTINF:-1,Suluk® → BEIN SPORT HD 4 TRUE
 http://139.99.38.15:443/epl-bein4_1080/index.m3u8
 
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+
 #EXTINF:-1,Suluk® → ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1,Suluk® → FOX SPORT HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/174.m3u8
+
+#EXTINF:-1,Suluk® → BT Sport 1 HD
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+
+#EXTINF:-1,Suluk® → BT Sport 2 HD
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+
+#EXTINF:-1,Suluk® → BT Sport Extra HD
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847  #EXTINF:1.06812,SkyFootball
+
+#EXTINF:-1,Suluk® → SPORT TV 1 HD
+http://77.54.248.94:9981/stream/channelid/2135667?ticket=4728F57616F4DF9E11BFCBB9626ACC40EA0217FB&profile=pass
+
+#EXTINF:-1,Suluk® → SPORT TV 2 HD
+http://82.79.218.142:8089/sport_tv_2-
+
+#EXTINF:-1,Suluk® → SPORT TV 3  HD
+http://82.79.218.142:8089/sport_tv_3-
+
+#EXTINF:-1,Suluk® → SPORT TV 4  HD
+http://82.79.218.142:8091/sport_tv_4-
 
 #EXTINF:-1,Suluk® → SKYNET SPORT 1
 http://139.99.38.15:443/sd-skynetsports1_480/index.m3u8
@@ -225,6 +276,36 @@ http://persik.by/stream/3903/293564/10268.m3u8
 #EXTINF:-1,Suluk® → Матур ТВ (Уфа) HD
 http://streamer.rtcommufa.ru:1935/matur/matur1/playlist.m3u8
 
+#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD
+http://80.211.189.193/live/get.php?stream=17&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD
+http://80.211.189.193/live/get.php?stream=18&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD
+http://80.211.189.193/live/get.php?stream=19&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 4 HD
+http://80.211.189.193/live/get.php?stream=20&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 5 HD
+http://80.211.189.193/live/get.php?stream=21&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 6 HD
+http://80.211.189.193/live/get.php?stream=22&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 7 HD
+http://80.211.189.193/live/get.php?stream=23&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 8 HD
+http://80.211.189.193/live/get.php?stream=24&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 9 HD
+http://80.211.189.193/live/get.php?stream=25&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 10 HD
+http://80.211.189.193/live/get.php?stream=26&username=44568677836059&password=44568677836059
+
 #EXTINF:-1,Suluk® → HBO
 http://139.99.38.15:443/hd-hboeng_720/index.m3u8
 
@@ -300,18 +381,6 @@ http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/
 #EXTINF:-1,Suluk® → Fox Sports 2 HD
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
 
-#EXTINF:-1,Suluk® → BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BT Sport 3 HD
-http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BT Sports ESPN HD
-http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
 #EXTINF:-1,Suluk® → Dsport
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
 
@@ -324,170 +393,7 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1,Suluk® → TVRI Sports
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
 
-#EXTINF:-1,Suluk® → TSN 1 HD
-http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
 
-#EXTINF:-1,Suluk® → TSN 2 HD
-http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → TSN 3 HD
-http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → TSN 4 HD
-http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → TSN 5 HD
-http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BeIN Sports USA HD
-http://vapi.vaders.tv/play/2563.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → ESPNews HD
-http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → ESPN HD
-http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → ESPN 2 HD
-http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → ESPN U HD
-http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Sports 1 HD
-http://vapi.vaders.tv/play/2568.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Sports 2 HD
-http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports News HD
-http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Eir Sports 1 HD
-http://vapi.vaders.tv/play/2593.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet 360 HD
-http://vapi.vaders.tv/play/2669.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet West HD
-http://vapi.vaders.tv/play/2671.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet One HD
-http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet Ontario HD
-http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet Pacific HD
-http://vapi.vaders.tv/play/2674.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet East HD
-http://vapi.vaders.tv/play/2694.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → MLB Network HD
-http://vapi.vaders.tv/play/2787.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → CBS Sports Network HD
-http://vapi.vaders.tv/play/2789.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → LFC TV HD
-http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sony Six HD
-http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → EuroSport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → EuroSport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Racing UK HD
-http://vapi.vaders.tv/play/19295.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Premier Sports HD
-http://vapi.vaders.tv/play/19296.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → At The Races
-http://vapi.vaders.tv/play/19297.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → YES Network HD
-http://vapi.vaders.tv/play/33511.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Premier League
-http://vapi.vaders.tv/play/39824.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports News
-http://vapi.vaders.tv/play/39826.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Mix
-http://vapi.vaders.tv/play/39827.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BT Sports 1
-http://vapi.vaders.tv/play/39828.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BT Sports ESPN
-http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → PAC 12 Network HD
-http://vapi.vaders.tv/play/39848.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → PAC 12 Mountain HD
-http://vapi.vaders.tv/play/39852.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → PAC 12 Bay Area HD
-http://vapi.vaders.tv/play/39854.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Big Ten Network HD
-http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BeIN Sports 11 HD
-http://vapi.vaders.tv/play/40879.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → BeIN Sports 12 HD
-http://vapi.vaders.tv/play/40880.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Arena 
-http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sky Sports Football
-http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Soccer Plus HD
-http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Deportes HD
-http://vapi.vaders.tv/play/52189.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Sports South HD
-http://vapi.vaders.tv/play/52200.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Fox Sports South East HD
-http://vapi.vaders.tv/play/52201.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Spectrum SportsNet LA HD
-http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Spectrum SportsNet HD
-http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → Sportsnet New York HD
-http://vapi.vaders.tv/play/79279.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
-
-#EXTINF:-1,Suluk® → PTV Sports
-http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
 
 #EXTINF:-1,Suluk® → AFN SPORTS (US)
 http://163.172.15.141:9732/live?channelId=240&uid=2001&deviceUser=19040&devicePass=180917
