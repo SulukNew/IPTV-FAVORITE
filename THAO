@@ -1,0 +1,316 @@
+#EXTM3U
+
+#EXTINF:-1, ## SULUK SPORT ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png 
+#EXTINF:-1,Suluk® → SKYNET SPORT HD
+http://km.cdnth.com/dggroup/skynethd_720p/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
+http://50.7.92.2:8278/bein1_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
+http://50.7.92.2:8278/bein2_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
+http://50.7.92.2:8278/bein3_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET HD
+http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 4 HD
+http://145.129.238.137:7000/play/a00i
+#EXTINF:-1,Suluk® → MATCH!
+http://persik.by/stream/3903/293564/276.m3u8
+#EXTINF:-1,Suluk® → MATCH! arena
+http://persik.by/stream/2944/263250/261.m3u8
+#EXTINF:-1,Suluk® → MATCH! a game
+http://persik.by/stream/2944/263250/10270.m3u8
+#EXTINF:-1,Suluk® → MATCH! football
+http://persik.by/stream/2944/263250/346.m3u8
+#EXTINF:-1,Suluk® → MATCH! football 1 HD
+http://persik.by/stream/2944/263250/10266.m3u8
+#EXTINF:-1,Suluk® → MATCH! football 2 HD
+http://persik.by/stream/2944/263250/10267.m3u8
+#EXTINF:-1,Suluk® → MATCH! football 3
+http://persik.by/stream/2944/263250/10218.m3u8
+#EXTINF:-1,Suluk® → FOX SPORTS HD
+http://171.250.160.37:8889/rtp/232.84.2.141:10666
+#EXTINF:-1,Suluk® → FOX SPORTS 2 HD
+http://171.250.160.37:8889/rtp/232.84.2.142:10672
+#EXTINF:-1,Suluk® → SKYNET SPORT 1
+http://km.cdnth.com/dggroup/skynet1/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 2
+http://km.cdnth.com/dggroup/skynet2/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 3
+http://km.cdnth.com/dggroup/skynet3/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 4
+http://km.cdnth.com/dggroup/skynet4/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 5
+http://km.cdnth.com/dggroup/skynet5/playlist.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 6
+http://km.cdnth.com/dggroup/skynet6/playlist.m3u8
+#EXTINF:-1,Suluk® → SETANTA SPORT HD
+http://persik.by/stream/1418/252987/10316.m3u8
+#EXTINF:-1,Suluk® →  SETANTA SPORT + HD 
+http://persik.by/stream/1418/252987/10314.m3u8
+#EXTINF:-1,Suluk® →  Sport 1 (Ukraine)
+http://persik.by/stream/1418/252987/270.m3u8
+#EXTINF:-1,Suluk® →  Sport 2 (Ukraine)
+http://persik.by/stream/1418/252987/91.m3u8
+#EXTINF:-1,Suluk® → Viasat Sport
+http://persik.by/stream/3903/293564/10249.m3u8
+#EXTINF:-1,Suluk® →  Football
+http://persik.by/stream/1418/252987/440.m3u8
+#EXTINF:-1,Suluk® →  KHL
+http://persik.by/stream/1418/252987/485.m3u8
+#EXTINF:-1 group-title="Vietcago",True Sport 3
+http://tv1.vietcago.net:5555/udp/239.4.2.56:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",SKY Sport Premier League
+http://tv.vietcago.net:8080/iptv/ch937?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Football
+http://tv.vietcago.net:8080/iptv/ch922?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Main Event
+http://tv.vietcago.net:8080/iptv/ch914?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Mix
+http://tv.vietcago.net:8080/iptv/ch931?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Action
+http://tv.vietcago.net:8080/iptv/ch915?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports F1
+http://tv.vietcago.net:8080/iptv/ch7?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1 group-title="Vietcago",Sky Sports Golf
+http://tv.vietcago.net:8080/iptv/ch916?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686 
+#EXTINF:-1,Suluk® → BT Sport 2
+http://tv.vietcago.net:8080/iptv/ch1829?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → BT Sport 3
+http://tv.vietcago.net:8080/iptv/ch1830?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → Euro Sport 2
+http://tv.vietcago.net:8080/iptv/ch918?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → Fox Sports
+http://tv1.vietcago.net:5555/udp/239.4.2.47:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → Fox Sports 2
+http://tv1.vietcago.net:5555/udp/239.4.2.48:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → Fox Sports 3
+http://tv1.vietcago.net:5555/udp/239.4.2.108:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → Astro Super Sports 3
+http://tv1.vietcago.net:5555/udp/239.4.1.148:10000?secret=_XfIo7bd3T4bxCEvFiFTTw&u=1529954686
+#EXTINF:-1,Suluk® → SCTV1 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV7-SHOW
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV8-VITV
+http://vtsstr4.sctv.vn:1935/testlive/SCTV8_SD.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → SCTV9 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimChauA.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV10-AZ SHOP
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_4
+#EXTINF:-1,Suluk® → SCTV12 HD
+http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV14 HD-PHIMVIET
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimViet.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV15-SSPORT2
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV17-SSPORT
+http://vtsstr4.sctv.vn:1935/testlive/SCTV17_HD.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → SCTV19-CHANNEL T
+http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD.smil/playlist.m3u8
+#EXTINF:-1,Suluk® → BTV5-SSPORT3
+http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1,Suluk® →  fighter
+http://persik.by/stream/1418/252987/310.m3u8
+#EXTINF:-1,Suluk® → Extreme Sports
+http://persik.by/stream/3903/293564/99.m3u8
+#EXTINF:-1,Suluk® → Telekom Sport 1 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Telekom Sport 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Telekom Sport 3 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Telekom Sport 4 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
+
+#EXTINF:-1, ## SULUK VTV ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png 
+#EXTINF:-1,Suluk® → VTV1 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv1.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV2 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv2.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV3 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV4 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV5 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv5.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV6 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv6.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV7 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv7.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV8 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv8.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Suluk® → VTV9 HD
+http://liverestreamobj.9a8f447e.viettel-cdn.vn/vtv9.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1, ## SULUK VTC ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png 
+#EXTINF:-1,Suluk® → VTC1 HD
+http://171.250.160.37:8889/rtp/232.84.1.71:8400
+#EXTINF:-1,Suluk® → VTC2
+http://171.250.160.37:8889/rtp/232.84.1.57:8322
+#EXTINF:-1,Suluk® → VTC3 HD
+http://171.250.160.37:8889/rtp/232.84.1.81:8460
+#EXTINF:-1,Suluk® → VTC4
+http://171.250.160.37:8889/rtp/232.84.2.37:10630
+#EXTINF:-1,Suluk® → VTC5 HD
+http://171.250.160.37:8889/rtp/232.84.2.150:10720
+#EXTINF:-1,Suluk® → VTC6
+http://171.250.160.37:8889/rtp/232.84.1.58:8328
+#EXTINF:-1,Suluk® → VTC7 HD
+http://171.250.160.37:8889/rtp/232.84.1.213:9252
+#EXTINF:-1,Suluk® → VTC8 HD
+http://171.250.160.37:8889/rtp/232.84.2.39:10642
+#EXTINF:-1,Suluk® → VTC9 HD
+http://171.250.160.37:8889/rtp/232.84.1.59:8334
+#EXTINF:-1,Suluk® → VTC10 HD
+http://113.172.155.105:4022/rtp/232.84.1.214:9258
+#EXTINF:-1,Suluk® → VTC11-kids TV
+http://113.172.155.105:4022/rtp/232.84.1.61:8340
+#EXTINF:-1,Suluk® → VTC12
+http://171.250.160.37:8889/rtp/232.84.1.202:9186
+#EXTINF:-1,Suluk® → VTC13 HD
+http://171.250.160.37:8889/rtp/232.84.1.74:8418
+#EXTINF:-1,Suluk® → VTC14
+http://113.172.155.105:4022/rtp/232.84.1.216:9270
+#EXTINF:-1,Suluk® → VTC16
+http://113.172.155.105:4022/rtp/232.84.1.215:9264
+
+#EXTINF:-1, ## SULUK VTV CABLE ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png 
+#EXTINF:-1,Suluk® → VTVCab1-Giải trí TV
+http://14.174.40.50:4022/rtp/232.84.1.143:8832
+#EXTINF:-1,Suluk® → VTVCab10-O2TV
+http://14.174.40.50:4022/rtp/232.84.1.26:8130
+#EXTINF:-1,Suluk® → VTVCab12-Style TV
+http://14.174.40.50:4022/rtp/232.84.1.244:9438
+#EXTINF:-1,Suluk® → VTVCab14-Lotte
+http://14.174.40.50:4022/rtp/232.84.1.140:10356
+#EXTINF:-1,Suluk® → VTVCab17-yeah1 TV
+http://14.174.40.50:4022/rtp/232.84.1.217:9276
+#EXTINF:-1,Suluk® → VTVCab2-Phim Việt
+http://14.174.40.50:4022/rtp/232.84.1.168:8982
+#EXTINF:-1,Suluk® → VTVCab20-VFamily
+http://14.174.40.50:4022/rtp/232.84.1.245:10344
+#EXTINF:-1,Suluk® → VTVCab4-Văn hóa
+http://14.174.40.50:4022/rtp/232.84.1.169:8988
+#EXTINF:-1,Suluk® → VTVcab19-Film TV
+http://171.250.160.37:8889/rtp/232.84.1.169:8988
+#EXTINF:-1,Suluk® → VTVCab6-Hay TV
+http://14.174.40.50:4022/rtp/232.84.1.220:9294
+#EXTINF:-1,Suluk® → VTVCab7-Dramas
+http://14.174.40.50:4022/rtp/232.84.1.205:9204
+#EXTINF:-1,Suluk® → VTVCab7-Dramas
+http://14.174.40.50:4022/rtp/232.84.1.205:9204
+#EXTINF:-1,Suluk® → VTVCap13-HYUNDAI
+http://14.174.40.50:4022/rtp/232.84.1.142:10386
+
+#EXTINF:-1, ## SULUK ENTERT ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png 
+#EXTINF:-1,Suluk® → HBO HD
+http://171.250.160.37:8889/rtp/232.84.2.138:10648
+#EXTINF:-1,Suluk® → Max By HBO HD
+http://171.250.160.37:8889/rtp/232.84.2.139:10654
+#EXTINF:-1,Suluk® → RED By HBO HD
+http://171.250.160.37:8889/rtp/232.84.1.9:8028
+#EXTINF:-1,Suluk® → FASHION TV HD
+http://171.250.160.37:8889/rtp/232.84.2.52:10522
+#EXTINF:-1,Suluk® → FOX MOVIES HD
+http://171.250.160.37:8889/rtp/232.84.1.77:8436
+#EXTINF:-1,Suluk® → ANIMAL PLANET HD
+http://171.250.160.37:8889/rtp/232.84.2.147:10702
+#EXTINF:-1,Suluk® → ARIRANG
+http://171.250.160.37:8889/rtp/232.84.1.43:8238
+#EXTINF:-1,Suluk® → ASIAN FOOD CHANNEL HD
+http://171.250.160.37:8889/rtp/232.84.2.129:9570
+#EXTINF:-1,Suluk® → AUSTRALIA PLUS
+http://171.250.160.37:8889/rtp/232.84.2.244:10482
+#EXTINF:-1,Suluk® → AXN HD
+http://171.250.160.37:8889/rtp/232.84.2.140:10660
+#EXTINF:-1,Suluk® → BBC WORLD NEWS
+http://171.250.160.37:8889/rtp/232.84.2.239:10452
+#EXTINF:-1,Suluk® → BLOOMBERG HD
+http://171.250.160.37:8889/rtp/232.84.2.146:10696
+#EXTINF:-1,Suluk® → CARTOON NETWORK HD
+http://171.250.160.37:8889/rtp/232.84.2.144:10684
+#EXTINF:-1,Suluk® → CHANNEL NEWS ASIA HD
+http://171.250.160.37:8889/rtp/232.84.2.55:10540
+#EXTINF:-1,Suluk® → CHANNEL [V] HD
+http://171.250.160.37:8889/rtp/232.84.2.132:9588
+#EXTINF:-1,Suluk® → CNN HD
+http://171.250.160.37:8889/rtp/232.84.2.145:10690
+#EXTINF:-1,Suluk® → DA VINCI LEARNING HD
+http://171.250.160.37:8889/rtp/232.84.2.131:9582
+#EXTINF:-1,Suluk® → DISCOVERY ASIA HD
+http://171.250.160.37:8889/rtp/232.84.2.53:10528
+#EXTINF:-1,Suluk® → DISCOVERY CHANNEL
+http://171.250.160.37:8889/rtp/232.84.1.47:8262
+#EXTINF:-1,Suluk® → DISNEY CHANNEL HD
+http://171.250.160.37:8889/rtp/232.84.2.143:10678
+#EXTINF:-1,Suluk® → DISNEY JUNIOR
+http://171.250.160.37:8889/rtp/232.84.1.90:10398
+#EXTINF:-1,Suluk® → DIVA HD
+http://171.250.160.37:8889/rtp/232.84.2.130:9576
+#EXTINF:-1,Suluk® → DW HD
+http://171.250.160.37:8889/rtp/232.84.2.233:10416
+#EXTINF:-1,Suluk® → FOX HD
+http://171.250.160.37:8889/rtp/232.84.2.120:8448
+#EXTINF:-1,Suluk® → FOX LIFE HD
+http://171.250.160.37:8889/rtp/232.84.1.78:8442
+#EXTINF:-1,Suluk® → HBO HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → HBO 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → HBO 3 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Cinemax HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Cinemax 2 HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Comedy Central
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Paramount Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,Suluk® → Cinema World
+http://fpttv.tk/iptv/hplus.php?id=cinema-world
+#EXTINF:-1,Suluk® → ZEE CINEMA HD
+https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
+#EXTINF:-1,Suluk® → FRANCE 24
+http://171.250.160.37:8889/rtp/232.84.2.135:9606
+#EXTINF:-1,Suluk® → SONY GEM HD
+http://171.250.160.37:8889/rtp/232.84.1.84:10392
+#EXTINF:-1,Suluk® → KBS WORLD
+http://171.250.160.37:8889/rtp/232.84.2.136:9612
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC HD
+http://171.250.160.37:8889/rtp/232.84.1.1:7980
+#EXTINF:-1,Suluk® → NAT GEO PEOPLE HD
+http://171.250.160.37:8889/rtp/232.84.1.76:8430
+#EXTINF:-1,Suluk® → NHK WORLD HD
+http://171.250.160.37:8889/rtp/232.84.1.72:8406
+#EXTINF:-1,Suluk® → OUTDOOR CHANNEL HD
+http://171.250.160.37:8889/rtp/232.84.1.107:10218
+#EXTINF:-1,Suluk® → TLC HD
+http://171.250.160.37:8889/rtp/232.84.2.148:10708
+#EXTINF:-1,Suluk® → Warner Bros TV
+http://171.250.160.37:8889/rtp/232.84.1.91:10404
+#EXTINF:-1,Suluk® → TV5MONDE ASIE
+http://171.250.160.37:8889/rtp/232.84.1.45:8250
+#EXTINF:-1,Suluk® → WARNER TV HD
+http://171.250.160.37:8889/rtp/232.84.2.51:10516
+
+
+
+
+
+
+
+
+
+
+
+
