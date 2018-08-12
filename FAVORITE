@@ -27,6 +27,27 @@ http://61.58.60.230:9000/live/102.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 4 HD
 http://145.129.238.137:7000/play/a00i
 
+#EXTINF:-1,Suluk® → YES SPORT_1 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7193.ts
+
+#EXTINF:-1,Suluk® → YES SPORT 2 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7194.ts
+
+#EXTINF:-1,Suluk® → YES SPORT 3 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/6758.ts
+
+#EXTINF:-1,Suluk® → YES SPORT 4 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7332.ts
+
+#EXTINF:-1,Suluk® → YES SPORT 5 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2945.ts
+
+#EXTINF:-1,Suluk® → YES SPORT 5 PLUS HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
+
+#EXTINF:-1,Suluk® → YES SPORT ONE HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7503.ts
+
 #EXTINF:-1,Suluk® → MATCH!
 http://persik.by/stream/3903/293564/276.m3u8
 
