@@ -4,7 +4,13 @@
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 
 #EXTINF:-1,Suluk® → SKYNET SPORT HD
-http://km.cdnth.com/dggroup/skynethd_720p/playlist.m3u8
+http://193.200.164.171:6969/live/iptvhenry/O1CPBlbZ6K/5178.ts
+
+#EXTINF:-1,Suluk® → SKYNET SPORT HD
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5178.ts
+
+#EXTINF:-1,Suluk® → SKYNET HD
+http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
 http://50.7.92.2:8278/bein1_pat/playlist.m3u8
@@ -15,14 +21,14 @@ http://50.7.92.2:8278/bein2_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
 http://50.7.92.2:8278/bein3_pat/playlist.m3u8
 
-#EXTINF:-1,Suluk® → SKYNET HD
-http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
-
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
 http://61.58.60.230:9000/live/75.m3u8
 
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 2 HD
 http://61.58.60.230:9000/live/102.m3u8
+
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 3 HD
+http://163.172.106.106:80/live?channelId=380&deviceMac=00:1A:79:3C:C9:56&uid=11905
 
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 4 HD
 http://145.129.238.137:7000/play/a00i
@@ -103,19 +109,31 @@ http://171.250.160.37:8889/rtp/232.84.2.141:10666
 http://171.250.160.37:8889/rtp/232.84.2.142:10672
 
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
+http://163.172.106.121:9001/live?channelId=132&deviceMac=00:1A:79:3C:C9:56&uid=11905
+
+#EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
 http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/22.ts
 
-#EXTINF:-1,Suluk® → PREMIER SPORT HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24609.ts
+#EXTINF:-1,Suluk® → SKY SPORTS MIX HD (UK)
+http://163.172.106.121:9001/live?channelId=129&deviceMac=00:1A:79:3C:C9:56&uid=11905
+
+#EXTINF:-1,Suluk® → SKY SPORTS ACTION HD (UK)
+http://62.210.214.33:80/live?channelId=117&deviceMac=00:1A:79:3C:C9:56&uid=11905
 
 #EXTINF:-1,Suluk® → SKY SPORTS ACTION HD (UK)
 http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/24.ts
 
 #EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD (UK)
+http://163.172.106.121:9001/live?channelId=128&deviceMac=00:1A:79:3C:C9:56&uid=11905
+
+#EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD (UK)
 http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/28.ts
 
 #EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24618.ts
+http://163.172.14.210:80/live?channelId=124&deviceMac=00:1A:79:3C:C9:56&uid=11905
+
+#EXTINF:-1,Suluk® → SKY SPORTS F1 (UK)
+http://163.172.106.121:9001/live?channelId=134&deviceMac=00:1A:79:3C:C9:56&uid=11905
 
 #EXTINF:-1,Suluk® → NBC Sport
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
@@ -254,3 +272,22 @@ http://163.172.15.141:9732/live?channelId=240&uid=2001&deviceUser=19040&devicePa
 
 #EXTINF:-1,Suluk® → AFN SPORTS 2 (US) 
 http://163.172.15.141:9732/live?channelId=241&uid=2001&deviceUser=19040&devicePass=180917
+
+==== HIBURAN ====
+#EXTINF:-1,Suluk® → STAR MOVIES (IN)
+http://109.236.82.41:2086/live/x2_JVEYS9/YzCmVUOd/829.ts
+#EXTINF:-1,Suluk® → AXN FHD
+http://145.129.238.137:8000/play/a045
+#EXTINF:-1,Suluk® → iCONCERT HD
+http://58.238.195.61:9981/stream/channelid/1279361599?ticket=DB42ABDE69F2EBB192A308D7EBAD0D0A651BF4BC&profile=pass
+#EXTINF:-1,Suluk® → HBO HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7220.ts
+#EXTINF:-1,Suluk® → HBO 2 HD
+http://145.129.238.137:8000/play/a05i
+#EXTINF:-1,Suluk® → HBO 3 HD
+http://145.129.238.137:8000/play/a05j
+#EXTINF:-1,Suluk® → AXN FHD
+http://145.129.238.137:8000/play/a045
+#EXTINF:-1,Suluk® → MTV HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7192.ts
+
