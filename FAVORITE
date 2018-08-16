@@ -13,13 +13,13 @@ http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5178.ts
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
-http://50.7.92.2:8278/bein1_pat/playlist.m3u8
+http://50.7.92.22:8278/bein1_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
-http://50.7.92.2:8278/bein2_pat/playlist.m3u8
+http://50.7.92.22:8278/bein2_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
-http://50.7.92.2:8278/bein3_pat/playlist.m3u8
+http://50.7.92.22:8278/bein3_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
 http://61.58.60.230:9000/live/75.m3u8
@@ -34,13 +34,13 @@ http://163.172.106.106:80/live?channelId=380&deviceMac=00:1A:79:3C:C9:56&uid=119
 http://145.129.238.137:7000/play/a00i
 
 #EXTINF:-1,Suluk® → YES SPORT_1 FHD
-http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7193.ts
+http://paliptv.net:25461/live/LC5N41Qqvj2/vKsttb0aix/7193.ts
 
 #EXTINF:-1,Suluk® → YES SPORT 2 FHD
-http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7194.ts
+http://paliptv.net:25461/live/LC5N41Qqvj2/vKsttb0aix/7194.ts
 
 #EXTINF:-1,Suluk® → YES SPORT 3 HD
-http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/6758.ts
+http://paliptv.net:25461/live/LC5N41Qqvj2/vKsttb0aix/6758.ts
 
 #EXTINF:-1,Suluk® → YES SPORT 4 FHD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7332.ts
@@ -109,7 +109,7 @@ http://171.250.160.37:8889/rtp/232.84.2.141:10666
 http://171.250.160.37:8889/rtp/232.84.2.142:10672
 
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
-http://163.172.106.121:9001/live?channelId=132&deviceMac=00:1A:79:3C:C9:56&uid=11905
+http://163.172.106.121:90012/live?channelId=132&deviceMac=00:1A:79:3C:C9:56&uid=11905
 
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
 http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/22.ts
@@ -145,13 +145,13 @@ http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/3.ts
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
 #EXTINF:-1,Suluk® → ASTRO SPORT 1
-http://183.89.90.254:9981/stream/channelid/2069286798?ticket=91727c34d5112beb0a9921a0677994ea029647d6&profile=pass
+http://183.89.90.254:99812/stream/channelid/2069286798?ticket=91727c34d5112beb0a9921a0677994ea029647d6&profile=pass
 
 #EXTINF:-1,Suluk® → ASTRO SPORT 2
-http://183.89.90.254:9981/stream/channelid/407580676?ticket=f8f81d2c71854d036ccc682cf55645a500b91aef&profile=pass
+http://183.89.90.254:99812/stream/channelid/407580676?ticket=f8f81d2c71854d036ccc682cf55645a500b91aef&profile=pass
 
 #EXTINF:-1,Suluk® → ASTRO SPORT 3
-http://183.89.90.254:9981/stream/channelid/459391936?ticket=d8a2b7d563f7a6de3f0a06ed610c019df7cc1464&profile=pass
+http://183.89.90.254:99812/stream/channelid/459391936?ticket=d8a2b7d563f7a6de3f0a06ed610c019df7cc1464&profile=pass
 
 #EXTINF:-1,Suluk® → ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
