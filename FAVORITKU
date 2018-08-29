@@ -75,18 +75,48 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",BEIN 1 TH
 http://103.89.176.45:8278/bein1_pat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS PREMIER LEAGUE
-http://163.172.43.30:8081/live/skpre/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS FOOTBALL
-http://163.172.43.30:8081/live/skfoot/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS GOLF
-http://163.172.43.30:8081/live/skgolf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS CRICKET
-http://163.172.43.30:8081/live/skhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS ARENA
-http://163.172.43.30:8081/live/skaren/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",SKY SPORTS ACTION
-http://163.172.43.30:8081/live/skacti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",Sky Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports News
+http://62.210.99.158:80/live?channelId=137&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT", Sky Sports Box
+http://62.210.99.158:80/live?channelId=139&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",YES SPORT_1 FHD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7193.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",YES SPORT 2 FHD
@@ -146,3 +176,6 @@ http://62.210.214.28:80/live?channelId=144&uid=1732&deviceMac=00:1A:79:3C:C0:90
 http://62.210.214.28:80/live?channelId=145&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/td7fvznod/IPTV_SPORT.png" group-title="SULUK SPORT",BT Sport ESPN HD
 http://62.210.214.28:80/live?channelId=147&uid=1732&deviceMac=00:1A:79:3C:C0:90
+
+
+
