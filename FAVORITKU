@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",SULUK INTRO
+http://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png, group-title="SULUK IPTV",ASIAN GAMES
+http://cdn0-a.production.vidio.static6.com/uploads/1447534/via-20vallen-20v-8cdc-b600.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",TRACE URBAN
+http://pro.iptvforall.net:25461/live/bora-leadiptv@uk/Kmc151@bora-leadiptv/4982.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
+http://31.41.20.14:4054
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="TRANSVIS",HBO INDO
+http://103.89.176.45:8278/Hbohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",Trans TV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",TRANS 7
+http://185.21.216.166:8554/whale/trans7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",ANTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",RCTI
+http://185.21.216.166:8554/whale/rcti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",MNCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",Indosiar
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",SCTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",GLOBALTV
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",TVONE
+http://202.80.222.4:80/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",Animax
+http://210.210.155.35/session/873789ac-6d81-11e8-83d2-b82a72d63267/uq2663/h/h18/02.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="SULUK TRANSVIS",SBSIN
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASSP1
+http://183.88.82.254:9981/stream/channelid/2069286798?ticket=80a850d42fedaf048b97cdbed191cd55f1914266&profile=pass
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASSP2
+http://183.88.82.254:9981/stream/channelid/407580676?ticket=6e6cf7a80018a6fcf28ec9345a1c68d535fc85b2&profile=pass
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASSP3
+http://183.88.82.254:9981/stream/channelid/459391936?ticket=5633ec3fbc1fc7d934294e8e570d0f4a3f8ba39c&profile=pass
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASTRO SUPERSPORT LIVE HD 
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASTRO SUPERSPORT LIVE HD 
+http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASTRO SUPERSPORT LIVE HD 
+http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASTRO SUPERSPORT HD
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ASTRO ARENA HD 
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BEIN 1 HD USEETV 
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BEIN 1 TH
+http://103.89.176.45:8278/bein1_pat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS PREMIER LEAGUE
+http://163.172.43.30:8081/live/skpre/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS FOOTBALL
+http://163.172.43.30:8081/live/skfoot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS GOLF
+http://163.172.43.30:8081/live/skgolf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS CRICKET
+http://163.172.43.30:8081/live/skhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS ARENA
+http://163.172.43.30:8081/live/skaren/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SKY SPORTS ACTION
+http://163.172.43.30:8081/live/skacti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT_1 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7193.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT 2 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7194.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT 3 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/6758.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT 4 FHD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7332.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT 5 HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2945.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT 5 PLUS HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",YES SPORT ONE HD
+http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7503.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH!
+http://persik.by/stream/3903/293564/276.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! arena
+http://persik.by/stream/2944/263250/261.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! a game
+http://persik.by/stream/2944/263250/10270.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! football
+http://persik.by/stream/2944/263250/346.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! football 1 HD
+http://persik.by/stream/2944/263250/10266.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! football 2 HD
+http://persik.by/stream/2944/263250/10267.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",MATCH! football 3
+http://persik.by/stream/2944/263250/10218.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",ON Football VTV HD
+https://saigonrtmp.tulix.tv/vchannel11/vchannel11/chunklist_w307808862.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SSPORT 2 - SCTV15
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",KANTIPUR HD
+http://ktvhd88249.ekantipur.com:8081/fifaktvhdedgecdn/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SONY TEN 3 HD
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 1 SD
+http://62.210.214.28:80/live?channelId=140&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 2 SD
+http://62.210.214.28:80/live?channelId=142&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 3 SD
+http://62.210.214.28:80/live?channelId=144&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/3wy22rzj1/IPTV_SPORT_A.jpg" group-title="SULUK SPORT",BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=1732&deviceMac=00:1A:79:3C:C0:90
