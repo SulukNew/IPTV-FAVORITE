@@ -9,6 +9,8 @@ http://cdn0-a.production.vidio.static6.com/uploads/1447534/via-20vallen-20v-8cdc
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
 http://31.41.20.14:4054
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MOTO GP FOX3
+http://www.iptv.wang/wtv.php?id=77
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="INDONESIA",SULUK LOGO
 http://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png.m3u8
@@ -670,9 +672,9 @@ http://103.242.13.90:5555/udp/239.4.1.84:10000
 http://103.242.13.90:5555/udp/239.4.1.83:10000
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER",FOX LIFE
 http://103.242.13.90:5555/udp/239.4.1.82:10000
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER", Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER",Fox Sports 3 HD
 http://103.242.13.90:5555/udp/239.4.1.44:10000
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER", Fox Sports HD
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER",Fox Sports HD
 http://103.242.13.90:5555/udp/239.4.1.47:10000
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/5gncundvh/DOC.png" group-title="OTHER",Fox Sports 2
 http://103.242.13.90:5555/udp/239.4.1.48:10000
