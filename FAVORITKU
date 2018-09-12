@@ -222,14 +222,18 @@ http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
 http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ASSP LIVE HD3
 http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT Premier League
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE HD
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1
 http://163.172.106.121:9001/live?channelId=133&deviceMac=00:1A:79:3C:C9:56&uid=11905
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT Premier League HD
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1 HD
 http://163.172.106.121:9001/live?channelId=134&deviceMac=00:1A:79:3C:C9:56&uid=11905
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT Football
-http://163.172.106.121:9001/live?channelId=125&deviceMac=00:1A:79:3C:C9:56&uid=11905
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT Football HD
-http://163.172.106.121:9001/live?channelId=126&deviceMac=00:1A:79:3C:C9:56&uid=11905
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL
+http://62.210.99.158:80/live?channelId=125&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL HD
+http://62.210.99.158:80/live?channelId=126&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 2 HD
@@ -246,8 +250,6 @@ http://61.58.60.230:9000/live/75.m3u8
 http://61.58.60.230:9000/live/102.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 4 HD
 http://145.129.238.137:7000/play/a00i
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Ziggo Sp 1 Voetbal HD
-http://213.204.251.100:9981/stream/channelid/798013593?ticket=5804B356A400430BB936F4BC3F73A1AA7AA6ACC7&profile=iptv
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! HD
 http://46.8.159.250:44489/channel48.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
@@ -264,8 +266,6 @@ http://37.187.175.211:1923/live/ssiptv.net/vipteam.me/94.ts
 http://persik.by/stream/1418/252987/10314.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Setanta Sport + HD
 http://persik.by/stream/1418/252987/10316.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",STAR SPORT KR
-http://39.120.45.46:9981/stream/channelid/813723924
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 1 (Ukraine)
 http://persik.by/stream/1418/252987/270.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 2 (Ukraine)
@@ -276,14 +276,6 @@ http://persik.by/stream/1418/252987/144.m3u8
 http://persik.by/stream/1418/252987/309.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",VIASAT SP
 http://persik.by/stream/3903/293564/10249.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Telekom Sport 1 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Telekom Sport 2 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Telekom Sport 3 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Telekom Sport 4 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Eurosport 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Eurosport 2
@@ -332,14 +324,12 @@ http://163.172.105.25:80/live?channelId=187&uid=2454&deviceMac=00:1A:79:3C:C9:29
 http://163.172.105.25:80/live?channelId=188&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BEIN SPORT 12
 http://163.172.105.25:80/live?channelId=189&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BeIN Sport TH HD1
-http://sulukhbo.myftp.biz:8278/bein1_pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOX SP US
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SPOR TV1 PT
 http://iptv87.ddns.net:8000/live/aplicacao/BuLwwWau08/2528.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SPOR TV2 PT
-{"name":"T","logoPath":"https://s20.postimg.cc/kqn81pjml/SPORT.png","playUrl":"http://iptv87.ddns.net:8000/live/aplicacao/BuLwwWau08/2527.ts
+http://iptv87.ddns.net:8000/live/aplicacao/BuLwwWau08/2527.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SPOR TV3 PT
 http://iptv87.ddns.net:8000/live/aplicacao/BuLwwWau08/2526.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SPOR TV4 PT
@@ -400,6 +390,7 @@ http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7332.ts
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2945.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",YES SPORT 5 PLUS HD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="MOVIE",SULUK LOGO
 http://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="MOVIE",HBO HD INDO
