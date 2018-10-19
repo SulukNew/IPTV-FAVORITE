@@ -1,1076 +1,1208 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",WELCOME SULUK IPTV
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SULUK INTRO
+http://bit.ly/2MMn4Uf
 
-#EXTM3U
-#EXTINF:-1,TF1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3555.ts
-#EXTINF:-1,M6
-http://pro.smartgotv.com:8005/live/mondher/mondher/3589.ts
-#EXTINF:-1,W9
-http://pro.smartgotv.com:8005/live/mondher/mondher/3545.ts
-#EXTINF:-1,FRANCE_2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3603.ts
-#EXTINF:-1,FRANCE_3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3602.ts
-#EXTINF:-1,FRANCE_4
-http://pro.smartgotv.com:8005/live/mondher/mondher/3601.ts
-#EXTINF:-1,FRANCE_5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3600.ts
-#EXTINF:-1,FRANCE_O
-http://pro.smartgotv.com:8005/live/mondher/mondher/3598.ts
-#EXTINF:-1,FRANCE_INFO
-http://pro.smartgotv.com:8005/live/mondher/mondher/3599.ts
-#EXTINF:-1,FRANCE_24 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/5179.ts
-#EXTINF:-1,C8
-http://pro.smartgotv.com:8005/live/mondher/mondher/3631.ts
-#EXTINF:-1,TF1-Series-Films
-http://pro.smartgotv.com:8005/live/mondher/mondher/3593.ts
-#EXTINF:-1,TFX
-http://pro.smartgotv.com:8005/live/mondher/mondher/3576.ts
-#EXTINF:-1,6TER
-http://pro.smartgotv.com:8005/live/mondher/mondher/3652.ts
-#EXTINF:-1,CSTAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3618.ts
-#EXTINF:-1,NUMERO_23
-http://pro.smartgotv.com:8005/live/mondher/mondher/3575.ts
-#EXTINF:-1,EURONEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3607.ts
-#EXTINF:-1,ARTE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3647.ts
-#EXTINF:-1,TV5_MONDE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3549.ts
-#EXTINF:-1,BFM_BUSINESS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3643.ts
-#EXTINF:-1,BFM_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/3642.ts
-#EXTINF:-1,CANAL_NEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3632.ts
-#EXTINF:-1,LCP
-http://pro.smartgotv.com:8005/live/mondher/mondher/5178.ts
-#EXTINF:-1,ACTION
-http://pro.smartgotv.com:8005/live/mondher/mondher/3649.ts
-#EXTINF:-1,RTL9
-http://pro.smartgotv.com:8005/live/mondher/mondher/3567.ts
-#EXTINF:-1,RTS_DEUX
-http://pro.smartgotv.com:8005/live/mondher/mondher/3566.ts
-#EXTINF:-1,RTS_UN
-http://pro.smartgotv.com:8005/live/mondher/mondher/3565.ts
-#EXTINF:-1,SYFY FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3558.ts
-#EXTINF:-1,AB1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3651.ts
-#EXTINF:-1,AB3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3650.ts
-#EXTINF:-1,CHERIE_25
-http://pro.smartgotv.com:8005/live/mondher/mondher/3629.ts
-#EXTINF:-1,RFM_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/3569.ts
-#EXTINF:-1,TCM_CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/3557.ts
-#EXTINF:-1,TMC
-http://pro.smartgotv.com:8005/live/mondher/mondher/3553.ts
-#EXTINF:-1,TV_BREIZH
-http://pro.smartgotv.com:8005/live/mondher/mondher/3550.ts
-#EXTINF:-1,13EME_RUE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3653.ts
-#EXTINF:-1,USHUAIA_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/3548.ts
-#EXTINF:-1,VOYAGE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3546.ts
-#EXTINF:-1,ANIMAUX
-http://pro.smartgotv.com:8005/live/mondher/mondher/3648.ts
-#EXTINF:-1,SEASONS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3563.ts
-#EXTINF:-1,CRIME_DISTRICT
-http://pro.smartgotv.com:8005/live/mondher/mondher/3619.ts
-#EXTINF:-1,HISTOIRE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3592.ts
-#EXTINF:-1,DISCOVERY FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3617.ts
-#EXTINF:-1,DISCOVERY_SC FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3616.ts
-#EXTINF:-1,NATGEO FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3580.ts
-#EXTINF:-1,NATGEO_WILD FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3581.ts
-#EXTINF:-1,PARAMOUNT_CHANNEL FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3574.ts
-#EXTINF:-1,PLANETE+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3572.ts
-#EXTINF:-1,PLANETE_A&E
-http://pro.smartgotv.com:8005/live/mondher/mondher/3571.ts
-#EXTINF:-1,PLANETE+_CI
-http://pro.smartgotv.com:8005/live/mondher/mondher/3570.ts
-#EXTINF:-1,RMC_DECOUVERTE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3568.ts
-#EXTINF:-1,SCIENCES&VIE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3564.ts
-#EXTINF:-1,AB_MOTEUR
-http://pro.smartgotv.com:8005/live/mondher/mondher/5184.ts
-#EXTINF:-1,beIN_SPORTS_1 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4038.ts
-#EXTINF:-1,beIN_SPORTS_2 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4037.ts
-#EXTINF:-1,beIN_SPORTS_3 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4036.ts
-#EXTINF:-1,EQUIDIA_LIVE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3608.ts
-#EXTINF:-1,EUROSPORT_1 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3605.ts
-#EXTINF:-1,EUROSPORT_2 FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3606.ts
-#EXTINF:-1,EXTREME_SPORTS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3604.ts
-#EXTINF:-1,GOLF+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3596.ts
-#EXTINF:-1,GOLF_CHANNEL
-http://pro.smartgotv.com:8005/live/mondher/mondher/3595.ts
-#EXTINF:-1,INFOSPORT+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3591.ts
-#EXTINF:-1,L'EQUIPE_21
-http://pro.smartgotv.com:8005/live/mondher/mondher/3590.ts
-#EXTINF:-1,RMC SPORT 1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3562.ts
-#EXTINF:-1,RMC SPORT 2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3561.ts
-#EXTINF:-1,RMC SPORT 3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3560.ts
-#EXTINF:-1,RMC SPORT 5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3559.ts
-#EXTINF:-1,CANAL+_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3639.ts
-#EXTINF:-1,CANAL+_CINEMA_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3638.ts
-#EXTINF:-1,CANAL+_DECALE_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3637.ts
-#EXTINF:-1,CANAL+_FAMILY_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3636.ts
-#EXTINF:-1,CANAL+_SERIES_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3635.ts
-#EXTINF:-1,CANAL+_SPORT_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3634.ts
-#EXTINF:-1,CINE+_CLASSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/3627.ts
-#EXTINF:-1,CINE+_CLUB
-http://pro.smartgotv.com:8005/live/mondher/mondher/3626.ts
-#EXTINF:-1,CINE+_EMOTION
-http://pro.smartgotv.com:8005/live/mondher/mondher/3625.ts
-#EXTINF:-1,CINE+_FAMIZ
-http://pro.smartgotv.com:8005/live/mondher/mondher/3624.ts
-#EXTINF:-1,CINE+_FRISSON
-http://pro.smartgotv.com:8005/live/mondher/mondher/3623.ts
-#EXTINF:-1,CINE+_PREMIER
-http://pro.smartgotv.com:8005/live/mondher/mondher/3628.ts
-#EXTINF:-1,CINE_FX
-http://pro.smartgotv.com:8005/live/mondher/mondher/3622.ts
-#EXTINF:-1,CINE+_POLAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3621.ts
-#EXTINF:-1,COMEDIE+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3620.ts
-#EXTINF:-1,BOING FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3641.ts
-#EXTINF:-1,BOOMERANG FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3640.ts
-#EXTINF:-1,CANAL_J
-http://pro.smartgotv.com:8005/live/mondher/mondher/3633.ts
-#EXTINF:-1,CARTOON_NETWORK
-http://pro.smartgotv.com:8005/live/mondher/mondher/3630.ts
-#EXTINF:-1,DISNEY_CHANNEL FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3615.ts
-#EXTINF:-1,DISNEY_CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/3614.ts
-#EXTINF:-1,DISNEY_JUNIOR FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3613.ts
-#EXTINF:-1,DISNEY_XD FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3612.ts
-#EXTINF:-1,GAME_ONE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3597.ts
-#EXTINF:-1,GULLI
-http://pro.smartgotv.com:8005/live/mondher/mondher/3594.ts
-#EXTINF:-1,MANGAS
-http://pro.smartgotv.com:8005/live/mondher/mondher/3588.ts
-#EXTINF:-1,NICK_Jr FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3578.ts
-#EXTINF:-1,NICKELODEON FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3579.ts
-#EXTINF:-1,PIWI+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3573.ts
-#EXTINF:-1,TELETOON+
-http://pro.smartgotv.com:8005/live/mondher/mondher/3556.ts
-#EXTINF:-1,TIJI
-http://pro.smartgotv.com:8005/live/mondher/mondher/3554.ts
-#EXTINF:-1,TOONAMI
-http://pro.smartgotv.com:8005/live/mondher/mondher/3544.ts
-#EXTINF:-1,TREK
-http://pro.smartgotv.com:8005/live/mondher/mondher/3551.ts
-#EXTINF:-1,BBlack_AFRICA
-http://pro.smartgotv.com:8005/live/mondher/mondher/3583.ts
-#EXTINF:-1,E!ENTERTAINMENT FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3611.ts
-#EXTINF:-1,ELLE_GIRL
-http://pro.smartgotv.com:8005/live/mondher/mondher/3610.ts
-#EXTINF:-1,MTV_HITS
-http://pro.smartgotv.com:8005/live/mondher/mondher/5182.ts
-#EXTINF:-1,BET
-http://pro.smartgotv.com:8005/live/mondher/mondher/5190.ts
-#EXTINF:-1,MCM
-http://pro.smartgotv.com:8005/live/mondher/mondher/3587.ts
-#EXTINF:-1,MCM_TOP
-http://pro.smartgotv.com:8005/live/mondher/mondher/3586.ts
-#EXTINF:-1,MEZZO FR
-http://pro.smartgotv.com:8005/live/mondher/mondher/3585.ts
-#EXTINF:-1,MEZZO_LIVE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3584.ts
-#EXTINF:-1,MTV_FRANCE
-http://pro.smartgotv.com:8005/live/mondher/mondher/3582.ts
-#EXTINF:-1,NRJ12
-http://pro.smartgotv.com:8005/live/mondher/mondher/3577.ts
-#EXTINF:-1,TRACE_URBAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/3552.ts
-#EXTINF:-1,VH1_CLASSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/3547.ts
-#EXTINF:-1,BRAVA
-http://pro.smartgotv.com:8005/live/mondher/mondher/5181.ts
-#EXTINF:-1,TF1_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1080.ts
-#EXTINF:-1,M6_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1109.ts
-#EXTINF:-1,FRANCE.2_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1461.ts
-#EXTINF:-1,FRANCE.3_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1460.ts
-#EXTINF:-1,FRANCE.4_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1459.ts
-#EXTINF:-1,FRANCE.5_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1458.ts
-#EXTINF:-1,FRANCE.O_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1457.ts
-#EXTINF:-1,W9_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1053.ts
-#EXTINF:-1,C8_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1137.ts
-#EXTINF:-1,TFX_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1098.ts
-#EXTINF:-1,6TER_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1151.ts
-#EXTINF:-1,TF1-Series-Films_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1117.ts
-#EXTINF:-1,LCI
-http://pro.smartgotv.com:8005/live/mondher/mondher/1110.ts
-#EXTINF:-1,NRJ.12_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1099.ts
-#EXTINF:-1,PARIS-PREMIERE SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9418.ts
-#EXTINF:-1,13EME-RUE SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9417.ts
-#EXTINF:-1,Numero23_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1097.ts
-#EXTINF:-1,PARIS_PREMIERE
-http://pro.smartgotv.com:8005/live/mondher/mondher/1057.ts
-#EXTINF:-1,SYFY SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9419.ts
-#EXTINF:-1,ACTION SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9421.ts
-#EXTINF:-1,TEVA SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9420.ts
-#EXTINF:-1,TMC_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1078.ts
-#EXTINF:-1,ARTE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1070.ts
-#EXTINF:-1,OCS_CHOC
-http://pro.smartgotv.com:8005/live/mondher/mondher/1154.ts
-#EXTINF:-1,OCS_CITY
-http://pro.smartgotv.com:8005/live/mondher/mondher/1096.ts
-#EXTINF:-1,OCS_GEANTS
-http://pro.smartgotv.com:8005/live/mondher/mondher/1095.ts
-#EXTINF:-1,OCS_MAX
-http://pro.smartgotv.com:8005/live/mondher/mondher/1153.ts
-#EXTINF:-1,CANAL+_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4035.ts
-#EXTINF:-1,CANAL+_CINEMA_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4034.ts
-#EXTINF:-1,CANAL+_DECALE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4032.ts
-#EXTINF:-1,CANAL+_FAMILY_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4033.ts
-#EXTINF:-1,CANAL+_SERIES_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4031.ts
-#EXTINF:-1,CANAL+_SPORT_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4030.ts
-#EXTINF:-1,CINE+_EMOTION SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6602.ts
-#EXTINF:-1,CINE+_FAMIZ SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6601.ts
-#EXTINF:-1,CINE+_FRISSON SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6600.ts
-#EXTINF:-1,CINE+_PREMIER SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6599.ts
-#EXTINF:-1,CINE+_CLASSIC SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9416.ts
-#EXTINF:-1,13EME_RUE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6593.ts
-#EXTINF:-1,ACTION_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6595.ts
-#EXTINF:-1,CSTAR_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6592.ts
-#EXTINF:-1,SYFY_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6591.ts
-#EXTINF:-1,TEVA_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6594.ts
-#EXTINF:-1,CHASSE.&.PECHE
-http://pro.smartgotv.com:8005/live/mondher/mondher/1064.ts
-#EXTINF:-1,RMC_DECOUVERTE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1089.ts
-#EXTINF:-1,TOUTE_L.HISTOIRE
-http://pro.smartgotv.com:8005/live/mondher/mondher/1077.ts
-#EXTINF:-1,USHUAIA.TV_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1054.ts
-#EXTINF:-1,HISTOIRE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1116.ts
-#EXTINF:-1,RTL9_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1056.ts
-#EXTINF:-1,SERIE-CLUB
-http://pro.smartgotv.com:8005/live/mondher/mondher/1152.ts
-#EXTINF:-1,TEVA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1081.ts
-#EXTINF:-1,TV-BREIZH SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1075.ts
-#EXTINF:-1,FOOT+
-http://pro.smartgotv.com:8005/live/mondher/mondher/1120.ts
-#EXTINF:-1,BFM_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2225.ts
-#EXTINF:-1,L.EQUIPE21_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1112.ts
-#EXTINF:-1,EQUIDIA_LIVE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1121.ts
-#EXTINF:-1,RMC SPORT 1 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6596.ts
-#EXTINF:-1,RMC SPORT 2 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6597.ts
-#EXTINF:-1,RMC SPORT 3 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/6598.ts
-#EXTINF:-1,GAME_ONE_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1119.ts
-#EXTINF:-1,BeIN_SPORTS_1 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/684.ts
-#EXTINF:-1,BeIN_SPORTS_2 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/683.ts
-#EXTINF:-1,BeIN_SPORTS_3 FR SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/682.ts
-#EXTINF:-1,beIN-SPORTS-MAX4
-http://pro.smartgotv.com:8005/live/mondher/mondher/681.ts
-#EXTINF:-1,beIN-SPORTS-MAX5
-http://pro.smartgotv.com:8005/live/mondher/mondher/680.ts
-#EXTINF:-1,beIN-SPORTS-MAX6
-http://pro.smartgotv.com:8005/live/mondher/mondher/679.ts
-#EXTINF:-1,beIN-SPORTS-MAX7
-http://pro.smartgotv.com:8005/live/mondher/mondher/678.ts
-#EXTINF:-1,beIN-SPORTS-MAX8
-http://pro.smartgotv.com:8005/live/mondher/mondher/677.ts
-#EXTINF:-1,beIN-SPORTS-MAX9
-http://pro.smartgotv.com:8005/live/mondher/mondher/676.ts
-#EXTINF:-1,beIN-SPORTS-MAX10
-http://pro.smartgotv.com:8005/live/mondher/mondher/675.ts
-#EXTINF:-1,DISNEY-CHANNEL SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1059.ts
-#EXTINF:-1,PIWI+ SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10914.ts
-#EXTINF:-1,TIJI-SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10915.ts
-#EXTINF:-1,GULLI_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1058.ts
-#EXTINF:-1,TRACE_URBAN_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2852.ts
-#EXTINF:-1,M6_MUSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/1108.ts
-#EXTINF:-1,MTV_DANCE
-http://pro.smartgotv.com:8005/live/mondher/mondher/1106.ts
-#EXTINF:-1,NRJ_HITS_SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1101.ts
-#EXTINF:-1,OM-tv SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9452.ts
-#EXTINF:-1,OL-tv SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9453.ts
-#EXTINF:-1,BRAVA SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9454.ts
-#EXTINF:-1,J-ONE SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/9455.ts
-#EXTINF:-1,#FR A+
-http://pro.smartgotv.com:8005/live/mondher/mondher/9970.ts
-#EXTINF:-1,BOING SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10930.ts
-#EXTINF:-1,BOOMERANG SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10929.ts
-#EXTINF:-1,CARTOON-NETWORK SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10928.ts
-#EXTINF:-1,DISNEY_Jr SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10927.ts
-#EXTINF:-1,DISNEY-CINEMA SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10925.ts
-#EXTINF:-1,DISNEY-XD SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10926.ts
-#EXTINF:-1,EUROSPORT-1 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10921.ts
-#EXTINF:-1,EUROSPORT-2 SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10922.ts
-#EXTINF:-1,MANGAS SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10917.ts
-#EXTINF:-1,NATGEO SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10932.ts
-#EXTINF:-1,NICKELODEON SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10923.ts
-#EXTINF:-1,NICKELODEON-Jr SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10924.ts
-#EXTINF:-1,PLANETE+ SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10920.ts
-#EXTINF:-1,SCIENCES&VIE SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10919.ts
-#EXTINF:-1,SERIE-CLUB SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10916.ts
-#EXTINF:-1,TCM-CINEMA SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10933.ts
-#EXTINF:-1,TELETOON+ SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10934.ts
-#EXTINF:-1,TOONAMI SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10931.ts
-#EXTINF:-1,TOUTE-L.HISTOIRE SD
-http://pro.smartgotv.com:8005/live/mondher/mondher/10918.ts
-#EXTINF:-1,beIN-SPORTS-News HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3047.ts
-#EXTINF:-1,beIN-SPORTS HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/3046.ts
-#EXTINF:-1,beIN SPORTS HD11
-http://pro.smartgotv.com:8005/live/mondher/mondher/8259.ts
-#EXTINF:-1,beIN SPORTS HD12
-http://pro.smartgotv.com:8005/live/mondher/mondher/8260.ts
-#EXTINF:-1,beIN-SPORTS HD1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3066.ts
-#EXTINF:-1,beIN-SPORTS HD2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3065.ts
-#EXTINF:-1,beIN-SPORTS HD3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3064.ts
-#EXTINF:-1,beIN-SPORTS HD4
-http://pro.smartgotv.com:8005/live/mondher/mondher/3063.ts
-#EXTINF:-1,beIN-SPORTS HD5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3062.ts
-#EXTINF:-1,beIN-SPORTS HD6
-http://pro.smartgotv.com:8005/live/mondher/mondher/3061.ts
-#EXTINF:-1,beIN-SPORTS HD7
-http://pro.smartgotv.com:8005/live/mondher/mondher/3060.ts
-#EXTINF:-1,beIN-SPORTS HD8
-http://pro.smartgotv.com:8005/live/mondher/mondher/3059.ts
-#EXTINF:-1,beIN-SPORTS HD9
-http://pro.smartgotv.com:8005/live/mondher/mondher/3058.ts
-#EXTINF:-1,beIN-SPORTS HD10
-http://pro.smartgotv.com:8005/live/mondher/mondher/3057.ts
-#EXTINF:-1,beIN-SPORTS SD1
-http://pro.smartgotv.com:8005/live/mondher/mondher/3076.ts
-#EXTINF:-1,beIN-SPORTS SD2
-http://pro.smartgotv.com:8005/live/mondher/mondher/3075.ts
-#EXTINF:-1,beIN-SPORTS SD3
-http://pro.smartgotv.com:8005/live/mondher/mondher/3074.ts
-#EXTINF:-1,beIN-SPORTS SD4
-http://pro.smartgotv.com:8005/live/mondher/mondher/3073.ts
-#EXTINF:-1,beIN-SPORTS SD5
-http://pro.smartgotv.com:8005/live/mondher/mondher/3072.ts
-#EXTINF:-1,beIN-SPORTS SD6
-http://pro.smartgotv.com:8005/live/mondher/mondher/3071.ts
-#EXTINF:-1,beIN-SPORTS SD7
-http://pro.smartgotv.com:8005/live/mondher/mondher/3070.ts
-#EXTINF:-1,beIN-SPORTS SD8
-http://pro.smartgotv.com:8005/live/mondher/mondher/3069.ts
-#EXTINF:-1,beIN-SPORTS SD9
-http://pro.smartgotv.com:8005/live/mondher/mondher/3068.ts
-#EXTINF:-1,beIN-SPORTS SD10
-http://pro.smartgotv.com:8005/live/mondher/mondher/3067.ts
-#EXTINF:-1,beIN_MOVIES-1 HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1474.ts
-#EXTINF:-1,beIN_MOVIES-2 HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1473.ts
-#EXTINF:-1,beIN_MOVIES-3 HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1472.ts
-#EXTINF:-1,beIN_MOVIES-4 HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1471.ts
-#EXTINF:-1,BeIN SERIES HD 1
-http://pro.smartgotv.com:8005/live/mondher/mondher/1469.ts
-#EXTINF:-1,beIN-SERIES-HD2
-http://pro.smartgotv.com:8005/live/mondher/mondher/5177.ts
-#EXTINF:-1,beIN-DRAMA-HD1
-http://pro.smartgotv.com:8005/live/mondher/mondher/5051.ts
-#EXTINF:-1,beIN_BARAEM HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1464.ts
-#EXTINF:-1,BeIN_DREAMWORKS_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2239.ts
-#EXTINF:-1,beIN JEEM HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1462.ts
-#EXTINF:-1,BeIN_JUNIOR_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2241.ts
-#EXTINF:-1,BeIN_AMC_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2237.ts
-#EXTINF:-1,BeIN_ANIMAL-PLANET
-http://pro.smartgotv.com:8005/live/mondher/mondher/1466.ts
-#EXTINF:-1,beIN-DISCOVERY
-http://pro.smartgotv.com:8005/live/mondher/mondher/2547.ts
-#EXTINF:-1,BeIN_DISCOVERY_SC
-http://pro.smartgotv.com:8005/live/mondher/mondher/1468.ts
-#EXTINF:-1,beIN-DMAX HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2238.ts
-#EXTINF:-1,BeIN_DTX_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2240.ts
-#EXTINF:-1,BeIN_FATAFEAT_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1465.ts
-#EXTINF:-1,BeIN_GOURMET_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1692.ts
-#EXTINF:-1,BeIN_HGTV_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2242.ts
-#EXTINF:-1,FILM_BOX
-http://pro.smartgotv.com:8005/live/mondher/mondher/2250.ts
-#EXTINF:-1,FILM_BOX_ARTHOUSE
-http://pro.smartgotv.com:8005/live/mondher/mondher/2249.ts
-#EXTINF:-1,FOX_REWAYAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2251.ts
-#EXTINF:-1,FOX_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2252.ts
-#EXTINF:-1,FOX_MOVIES
-http://pro.smartgotv.com:8005/live/mondher/mondher/1470.ts
-#EXTINF:-1,FOX_MOVIES_FAMILY
-http://pro.smartgotv.com:8005/live/mondher/mondher/2548.ts
-#EXTINF:-1,TN_TUNISIE-NAT1
-http://pro.smartgotv.com:8005/live/mondher/mondher/1791.ts
-#EXTINF:-1,TN_TUNISIE-NAT2
-http://pro.smartgotv.com:8005/live/mondher/mondher/1790.ts
-#EXTINF:-1,TN_ElHIWAR-ETTOUNSI
-http://pro.smartgotv.com:8005/live/mondher/mondher/1789.ts
-#EXTINF:-1,TN_ATTESSIA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1788.ts
-#EXTINF:-1,TN_NESSMA-Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1786.ts
-#EXTINF:-1,TN_Hannibal-Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1785.ts
-#EXTINF:-1,TN_Al-INSEN
-http://pro.smartgotv.com:8005/live/mondher/mondher/1777.ts
-#EXTINF:-1,TN_SAHEL-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/7846.ts
-#EXTINF:-1,TN_Aljanoubia-Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1784.ts
-#EXTINF:-1,TN_AlMUSTAKILLAH_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1778.ts
-#EXTINF:-1,TN_Carthage-plus
-http://pro.smartgotv.com:8005/live/mondher/mondher/1781.ts
-#EXTINF:-1,TN_TALVZA-Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1780.ts
-#EXTINF:-1,TN_TUNESNA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1787.ts
-#EXTINF:-1,TN_ZiTOUNA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1782.ts
-#EXTINF:-1,AR_SAMA-TV SYRIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4910.ts
-#EXTINF:-1,AR_ROTANA_AFLAM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2280.ts
-#EXTINF:-1,AR_ROTANA_CINEMA EGY
-http://pro.smartgotv.com:8005/live/mondher/mondher/2279.ts
-#EXTINF:-1,AR_ROTANA_CLASSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/2276.ts
-#EXTINF:-1,AR_ROTANA_CLIP
-http://pro.smartgotv.com:8005/live/mondher/mondher/2275.ts
-#EXTINF:-1,AR_ROTANA_MUSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/2274.ts
-#EXTINF:-1,TN_M-TUNISIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1779.ts
-#EXTINF:-1,AR | QURAN_MEKKAH
-http://pro.smartgotv.com:8005/live/mondher/mondher/2264.ts
-#EXTINF:-1,AR | RAYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/5053.ts
-#EXTINF:-1,AR_KSA-SPORTS-1
-http://pro.smartgotv.com:8005/live/mondher/mondher/4918.ts
-#EXTINF:-1,AR | SOUDAN AL SHOUROUK
-http://pro.smartgotv.com:8005/live/mondher/mondher/4906.ts
-#EXTINF:-1,AR | SPACETOON
-http://pro.smartgotv.com:8005/live/mondher/mondher/2545.ts
-#EXTINF:-1,AR | SYRIA HALAB TODAY
-http://pro.smartgotv.com:8005/live/mondher/mondher/4913.ts
-#EXTINF:-1,AR_TOYUR-ALJANAH
-http://pro.smartgotv.com:8005/live/mondher/mondher/2546.ts
-#EXTINF:-1,AR_TRT ARABIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/4915.ts
-#EXTINF:-1,AR | ZEE_AFLAM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2452.ts
-#EXTINF:-1,AR | ZEE_ALWAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2453.ts
-#EXTINF:-1,AR | star tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4358.ts
-#EXTINF:-1,AR: Nabaa TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/4304.ts
-#EXTINF:-1,AR: Tayba-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/3889.ts
-#EXTINF:-1,AR_4G_AFLAM
-http://pro.smartgotv.com:8005/live/mondher/mondher/7733.ts
-#EXTINF:-1,AR_4G_CIMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/7732.ts
-#EXTINF:-1,AR_4G_CLASSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/7731.ts
-#EXTINF:-1,AR_4G_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/7730.ts
-#EXTINF:-1,AR_4G_FILM
-http://pro.smartgotv.com:8005/live/mondher/mondher/7729.ts
-#EXTINF:-1,AR_ABU_DHABI_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/2538.ts
-#EXTINF:-1,AR_AD-alEMARAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2540.ts
-#EXTINF:-1,AR_AD_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2539.ts
-#EXTINF:-1,AR_ALARABIYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2258.ts
-#EXTINF:-1,AR_ALFORAT_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/2521.ts
-#EXTINF:-1,AR_ALGHAD_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4749.ts
-#EXTINF:-1,AR_ALHADATH
-http://pro.smartgotv.com:8005/live/mondher/mondher/4892.ts
-#EXTINF:-1,AR_ALHAYAT_1
-http://pro.smartgotv.com:8005/live/mondher/mondher/2533.ts
-#EXTINF:-1,AR_ALHAYAT_2
-http://pro.smartgotv.com:8005/live/mondher/mondher/2534.ts
-#EXTINF:-1,AR_ALHAYAT_MOSALSALAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2535.ts
-#EXTINF:-1,AR_ALHURRA_NEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/2537.ts
-#EXTINF:-1,AR_ALJAZEERA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2260.ts
-#EXTINF:-1,AR_ALJAZEERA_DOC
-http://pro.smartgotv.com:8005/live/mondher/mondher/3888.ts
-#EXTINF:-1,AR_ALJAZEERA_ENG
-http://pro.smartgotv.com:8005/live/mondher/mondher/2522.ts
-#EXTINF:-1,AR_ALJAZEERA_MUBASHER
-http://pro.smartgotv.com:8005/live/mondher/mondher/4931.ts
-#EXTINF:-1,AR_ALKAHERA_WANNAS
-http://pro.smartgotv.com:8005/live/mondher/mondher/2524.ts
-#EXTINF:-1,AR_ALKASS-FIVE
-http://pro.smartgotv.com:8005/live/mondher/mondher/4316.ts
-#EXTINF:-1,AR_ALKASS-ONE
-http://pro.smartgotv.com:8005/live/mondher/mondher/4317.ts
-#EXTINF:-1,AR_ALKASS-ONLINE
-http://pro.smartgotv.com:8005/live/mondher/mondher/4315.ts
-#EXTINF:-1,AR_ALKASS-TWO
-http://pro.smartgotv.com:8005/live/mondher/mondher/4314.ts
-#EXTINF:-1,AR_ALMAAREF_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/5150.ts
-#EXTINF:-1,AR_ALMADRASA E
-http://pro.smartgotv.com:8005/live/mondher/mondher/4903.ts
-#EXTINF:-1,AR_ALMASRIYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2526.ts
-#EXTINF:-1,AR_ALQUDS
-http://pro.smartgotv.com:8005/live/mondher/mondher/4905.ts
-#EXTINF:-1,AR_ALRAI_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4757.ts
-#EXTINF:-1,AR_ALSALAM_PALASTIN
-http://pro.smartgotv.com:8005/live/mondher/mondher/4920.ts
-#EXTINF:-1,AR_AL_HIWAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/5095.ts
-#EXTINF:-1,AR_ALMAJD-QURAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2270.ts
-#EXTINF:-1,AR_AL_NAHAR_CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2528.ts
-#EXTINF:-1,AR_AL_NAHAR_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2529.ts
-#EXTINF:-1,AR_AL_NAHAR_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2531.ts
-#EXTINF:-1,AR_AL_NAHAR_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2527.ts
-#EXTINF:-1,AR_AL_RESSALA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2265.ts
-#EXTINF:-1,AR_ANN
-http://pro.smartgotv.com:8005/live/mondher/mondher/4896.ts
-#EXTINF:-1,AR_AQSA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4309.ts
-#EXTINF:-1,AR_ARABICA
-http://pro.smartgotv.com:8005/live/mondher/mondher/5042.ts
-#EXTINF:-1,AR_ARAB_GEORGRAPHY
-http://pro.smartgotv.com:8005/live/mondher/mondher/4899.ts
-#EXTINF:-1,AR_ASHARIQA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4909.ts
-#EXTINF:-1,AR_B4U-AFLAM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2508.ts
-#EXTINF:-1,AR_B4U_PLUS
-http://pro.smartgotv.com:8005/live/mondher/mondher/2287.ts
-#EXTINF:-1,AR_BAHRAIN_Int.
-http://pro.smartgotv.com:8005/live/mondher/mondher/4349.ts
-#EXTINF:-1,AR_BBC_ARABIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/4891.ts
-#EXTINF:-1,AR_BELQEES
-http://pro.smartgotv.com:8005/live/mondher/mondher/4372.ts
-#EXTINF:-1,AR_CAIRO_CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2509.ts
-#EXTINF:-1,AR_CAIRO_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2510.ts
-#EXTINF:-1,AR_CAIRO_ONE_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2511.ts
-#EXTINF:-1,AR_CBC
-http://pro.smartgotv.com:8005/live/mondher/mondher/2282.ts
-#EXTINF:-1,AR_CBC_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2283.ts
-#EXTINF:-1,AR_CBC_EXTRA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2284.ts
-#EXTINF:-1,AR_CBC_SOFRA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2285.ts
-#EXTINF:-1,AR_CIMA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/2512.ts
-#EXTINF:-1,AR_CNBC_ARABIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2513.ts
-#EXTINF:-1,AR_DMC_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2444.ts
-#EXTINF:-1,AR_DMC_HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/2445.ts
-#EXTINF:-1,AR_DMC_SPORTS
-http://pro.smartgotv.com:8005/live/mondher/mondher/2443.ts
-#EXTINF:-1,AR_DREAM_1
-http://pro.smartgotv.com:8005/live/mondher/mondher/2499.ts
-#EXTINF:-1,AR_DREAM_2
-http://pro.smartgotv.com:8005/live/mondher/mondher/2500.ts
-#EXTINF:-1,AR_DUBAI_ONE
-http://pro.smartgotv.com:8005/live/mondher/mondher/2503.ts
-#EXTINF:-1,AR_DUBAI_RACING
-http://pro.smartgotv.com:8005/live/mondher/mondher/5160.ts
-#EXTINF:-1,AR_DUBAI_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/5041.ts
-#EXTINF:-1,AR_DUBAI_SPORT_2
-http://pro.smartgotv.com:8005/live/mondher/mondher/5162.ts
-#EXTINF:-1,AR_DUBAI_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/2504.ts
-#EXTINF:-1,AR_DUBAI_ZAMAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2505.ts
-#EXTINF:-1,AR_DW-ARABIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/5169.ts
-#EXTINF:-1,AR_ELSHARQ_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/5156.ts
-#EXTINF:-1,AR_FAN_ALHAYAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/4902.ts
-#EXTINF:-1,AR_FELISTINI
-http://pro.smartgotv.com:8005/live/mondher/mondher/4900.ts
-#EXTINF:-1,AR_FRANCE-24
-http://pro.smartgotv.com:8005/live/mondher/mondher/2257.ts
-#EXTINF:-1,AR_IRAQ-ALRASHID
-http://pro.smartgotv.com:8005/live/mondher/mondher/5048.ts
-#EXTINF:-1,AR_IRAQ-ALSUMARIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4785.ts
-#EXTINF:-1,AR_IRAQ-ALTAGHIIR
-http://pro.smartgotv.com:8005/live/mondher/mondher/5105.ts
-#EXTINF:-1,AR_IRAQ-HURRA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4784.ts
-#EXTINF:-1,AR_IRAQ-ISHTAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/5106.ts
-#EXTINF:-1,AR_IRAQ-Music-AlHaneen
-http://pro.smartgotv.com:8005/live/mondher/mondher/4787.ts
-#EXTINF:-1,AR_IRAQ-NABA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4789.ts
-#EXTINF:-1,AR_IRAQ-SIRAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/5154.ts
-#EXTINF:-1,AR_IRAQ_ALANBAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/4747.ts
-#EXTINF:-1,AR_IRAQ_ALESHRAQ.
-http://pro.smartgotv.com:8005/live/mondher/mondher/5151.ts
-#EXTINF:-1,AR_IRAQ_ALIRAQIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4783.ts
-#EXTINF:-1,AR_IRAQ_ALRAFIDAIN
-http://pro.smartgotv.com:8005/live/mondher/mondher/4368.ts
-#EXTINF:-1,AR_IRAQ_ALTURQMANIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4979.ts
-#EXTINF:-1,AR_IRAQ_ANB
-http://pro.smartgotv.com:8005/live/mondher/mondher/4894.ts
-#EXTINF:-1,AR_IRAQ_ASHARQYIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4886.ts
-#EXTINF:-1,AR_IRAQ_Al-AHAD_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4367.ts
-#EXTINF:-1,AR_IRAQ_DIJLA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4943.ts
-#EXTINF:-1,AR_IRAQ_HUNA-BAGHDAD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4887.ts
-#EXTINF:-1,AR_IRAQ_SHARQYIA-NEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/4348.ts
-#EXTINF:-1,AR_ISALAM_BAHRAIN_QURAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2262.ts
-#EXTINF:-1,AR_ISLAM-ALMAHER
-http://pro.smartgotv.com:8005/live/mondher/mondher/4901.ts
-#EXTINF:-1,AR_ISLAM-SAUDI-QURAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2269.ts
-#EXTINF:-1,AR_ISLAM-WISAL
-http://pro.smartgotv.com:8005/live/mondher/mondher/4770.ts
-#EXTINF:-1,AR_ISLAM_AL-RAHMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4779.ts
-#EXTINF:-1,AR_ISLAM_AL-RISALA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4778.ts
-#EXTINF:-1,AR_ISLAM_ALFAJR TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/4781.ts
-#EXTINF:-1,AR_ISLAM_IQRAA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2272.ts
-#EXTINF:-1,AR_JORDAN-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2497.ts
-#EXTINF:-1,AR_KIDS_BABY-Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4756.ts
-#EXTINF:-1,AR_KIDS_BARAEM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2541.ts
-#EXTINF:-1,AR_KIDS_CN
-http://pro.smartgotv.com:8005/live/mondher/mondher/2542.ts
-#EXTINF:-1,AR_KIDS_JEEM tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/2543.ts
-#EXTINF:-1,AR_KIDS_KARAMEESH
-http://pro.smartgotv.com:8005/live/mondher/mondher/2544.ts
-#EXTINF:-1,AR_KUWAIT-1
-http://pro.smartgotv.com:8005/live/mondher/mondher/2492.ts
-#EXTINF:-1,AR_KUWAIT-2
-http://pro.smartgotv.com:8005/live/mondher/mondher/2491.ts
-#EXTINF:-1,AR_KUWAIT-ALARABI
-http://pro.smartgotv.com:8005/live/mondher/mondher/2493.ts
-#EXTINF:-1,AR_KUWAIT-ETHRAA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2494.ts
-#EXTINF:-1,AR_LIBYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4754.ts
-#EXTINF:-1,AR_LIBYA-218
-http://pro.smartgotv.com:8005/live/mondher/mondher/2484.ts
-#EXTINF:-1,AR_LIBYA-ALHADATH
-http://pro.smartgotv.com:8005/live/mondher/mondher/2487.ts
-#EXTINF:-1,AR_LIBYA-ALNABAA-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2488.ts
-#EXTINF:-1,AR_LIBYA-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2486.ts
-#EXTINF:-1,AR_LTC_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/4759.ts
-#EXTINF:-1,AR_MAZZIKA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2480.ts
-#EXTINF:-1,AR_MBC1
-http://pro.smartgotv.com:8005/live/mondher/mondher/1806.ts
-#EXTINF:-1,AR_MBC2
-http://pro.smartgotv.com:8005/live/mondher/mondher/1805.ts
-#EXTINF:-1,AR_MBC3
-http://pro.smartgotv.com:8005/live/mondher/mondher/1804.ts
-#EXTINF:-1,AR_MBC4
-http://pro.smartgotv.com:8005/live/mondher/mondher/1803.ts
-#EXTINF:-1,AR_MBC_ACTION
-http://pro.smartgotv.com:8005/live/mondher/mondher/1797.ts
-#EXTINF:-1,AR_MBC_BOLLYWOOD
-http://pro.smartgotv.com:8005/live/mondher/mondher/1798.ts
-#EXTINF:-1,AR_MBC_DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1799.ts
-#EXTINF:-1,AR_MBC_MASR
-http://pro.smartgotv.com:8005/live/mondher/mondher/1800.ts
-#EXTINF:-1,AR_MBC_MASR2
-http://pro.smartgotv.com:8005/live/mondher/mondher/1801.ts
-#EXTINF:-1,AR_MBC_MAX
-http://pro.smartgotv.com:8005/live/mondher/mondher/1802.ts
-#EXTINF:-1,AR_NOUR-SHAM
-http://pro.smartgotv.com:8005/live/mondher/mondher/5043.ts
-#EXTINF:-1,AR_SAUDI-2
-http://pro.smartgotv.com:8005/live/mondher/mondher/4917.ts
-#EXTINF:-1,AR_SAUDI-AJYAL
-http://pro.smartgotv.com:8005/live/mondher/mondher/2461.ts
-#EXTINF:-1,AR_SAUDIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2268.ts
-#EXTINF:-1,AR_SHARJAH_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2532.ts
-#EXTINF:-1,AR_SYRIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4371.ts
-#EXTINF:-1,AR_SYRIA-DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4911.ts
-#EXTINF:-1,AR_SYRIA-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2467.ts
-#EXTINF:-1,AR_TAHA-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/5149.ts
-#EXTINF:-1,AR_TAYBA-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2455.ts
-#EXTINF:-1,AR_TEN-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2456.ts
-#EXTINF:-1,AR_TOKTOK-CIMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2457.ts
-#EXTINF:-1,DZ_ALGERIA_3
-http://pro.smartgotv.com:8005/live/mondher/mondher/1675.ts
-#EXTINF:-1,DZ_ALGERIA_4
-http://pro.smartgotv.com:8005/live/mondher/mondher/1682.ts
-#EXTINF:-1,DZ_ALGERIA_5
-http://pro.smartgotv.com:8005/live/mondher/mondher/1683.ts
-#EXTINF:-1,DZ_ALMGHARIBIA 1
-http://pro.smartgotv.com:8005/live/mondher/mondher/5033.ts
-#EXTINF:-1,DZ_AlJAZAIRYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/5034.ts
-#EXTINF:-1,DZ_BAHIA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1680.ts
-#EXTINF:-1,DZ_BERBERE_JEUNESSE
-http://pro.smartgotv.com:8005/live/mondher/mondher/1681.ts
-#EXTINF:-1,DZ_BERBERE_MUSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/1679.ts
-#EXTINF:-1,DZ_BERBERE_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1678.ts
-#EXTINF:-1,DZ_BEUR_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1666.ts
-#EXTINF:-1,DZ_CANAL_ALG
-http://pro.smartgotv.com:8005/live/mondher/mondher/1687.ts
-#EXTINF:-1,DZ_CBC_BENNA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1668.ts
-#EXTINF:-1,DZ_DZAIR_News
-http://pro.smartgotv.com:8005/live/mondher/mondher/5035.ts
-#EXTINF:-1,DZ_DZAIR_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1689.ts
-#EXTINF:-1,DZ_ECHOUROUK_NEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/1684.ts
-#EXTINF:-1,DZ_ECHOUROUK_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1667.ts
-#EXTINF:-1,DZ_EL.BILAD_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1685.ts
-#EXTINF:-1,DZ_ENNAHAR_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1670.ts
-#EXTINF:-1,DZ_ENTV
-http://pro.smartgotv.com:8005/live/mondher/mondher/1686.ts
-#EXTINF:-1,DZ_ElHEDDAF_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1669.ts
-#EXTINF:-1,DZ_SAMIRA_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/1673.ts
-#EXTINF:-1,GM-ALWAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/8448.ts
-#EXTINF:-1,GM-CARTON
-http://pro.smartgotv.com:8005/live/mondher/mondher/8443.ts
-#EXTINF:-1,GM-CHAABI
-http://pro.smartgotv.com:8005/live/mondher/mondher/8449.ts
-#EXTINF:-1,GM-COMEDIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/8447.ts
-#EXTINF:-1,GM-DOCUMENTAIRE
-http://pro.smartgotv.com:8005/live/mondher/mondher/8446.ts
-#EXTINF:-1,GM-LIB-TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/8445.ts
-#EXTINF:-1,GM-MOVIES HD
-http://pro.smartgotv.com:8005/live/mondher/mondher/8450.ts
-#EXTINF:-1,GM-MUSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/8442.ts
-#EXTINF:-1,GM-NEWS
-http://pro.smartgotv.com:8005/live/mondher/mondher/8441.ts
-#EXTINF:-1,GM-TAMAZIGHT
-http://pro.smartgotv.com:8005/live/mondher/mondher/8444.ts
-#EXTINF:-1,GM-TECHNO
-http://pro.smartgotv.com:8005/live/mondher/mondher/8440.ts
-#EXTINF:-1,LEBANON_TV
-http://pro.smartgotv.com:8005/live/mondher/mondher/2288.ts
-#EXTINF:-1,MA_2M
-http://pro.smartgotv.com:8005/live/mondher/mondher/1814.ts
-#EXTINF:-1,MA_AFLAM-TV7
-http://pro.smartgotv.com:8005/live/mondher/mondher/8451.ts
-#EXTINF:-1,MA_ARRABIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1807.ts
-#EXTINF:-1,MA_ARRIADHIA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1808.ts
-#EXTINF:-1,MA_ASSADISSA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1810.ts
-#EXTINF:-1,MA_TAMAZIGHT
-http://pro.smartgotv.com:8005/live/mondher/mondher/4798.ts
-#EXTINF:-1,MA_alMAGHREBYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/1811.ts
-#EXTINF:-1,MA_alOula_MAROC
-http://pro.smartgotv.com:8005/live/mondher/mondher/1813.ts
-#EXTINF:-1,RTN_JAWHARA_FM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2800.ts
-#EXTINF:-1,AR | RT ARABIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/4893.ts
-#EXTINF:-1,AR_AL-ARABI
-http://pro.smartgotv.com:8005/live/mondher/mondher/6564.ts
-#EXTINF:-1,AR_AL-HAYAT-ALAAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/6567.ts
-#EXTINF:-1,AR_AL-KAHERA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6568.ts
-#EXTINF:-1,AR_ALKASS-FOUR
-http://pro.smartgotv.com:8005/live/mondher/mondher/7821.ts
-#EXTINF:-1,AR_alMASRAWEYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6577.ts
-#EXTINF:-1,AR_alMASRYA_alOLA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6578.ts
-#EXTINF:-1,AR_alMASRYA_alTHANIYA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6569.ts
-#EXTINF:-1,AR_alSHSHA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6570.ts
-#EXTINF:-1,AR_CINEMA_ALIBABA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6573.ts
-#EXTINF:-1,AR_CINEMA_PRO
-http://pro.smartgotv.com:8005/live/mondher/mondher/6574.ts
-#EXTINF:-1,AR_CINEMA_SATAR-2
-http://pro.smartgotv.com:8005/live/mondher/mondher/6572.ts
-#EXTINF:-1,AR_CINEMA-1
-http://pro.smartgotv.com:8005/live/mondher/mondher/6575.ts
-#EXTINF:-1,AR_ILSAM_ALARIFI_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/5125.ts
-#EXTINF:-1,AR_IRAQ_AL-DIYAR-SAT
-http://pro.smartgotv.com:8005/live/mondher/mondher/6566.ts
-#EXTINF:-1,AR_ISLAM_MECCA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6579.ts
-#EXTINF:-1,AR_ISLAM_QURAN
-http://pro.smartgotv.com:8005/live/mondher/mondher/4344.ts
-#EXTINF:-1,AR_KIDS_MICKEY
-http://pro.smartgotv.com:8005/live/mondher/mondher/6582.ts
-#EXTINF:-1,AR_KIDS_MODY
-http://pro.smartgotv.com:8005/live/mondher/mondher/6584.ts
-#EXTINF:-1,AR_MBC-PROSPORT1
-http://pro.smartgotv.com:8005/live/mondher/mondher/1796.ts
-#EXTINF:-1,AR_MBC-PROSPORT2
-http://pro.smartgotv.com:8005/live/mondher/mondher/1795.ts
-#EXTINF:-1,AR_MBC-PROSPORT3
-http://pro.smartgotv.com:8005/live/mondher/mondher/1794.ts
-#EXTINF:-1,AR_MBC-PROSPORT4
-http://pro.smartgotv.com:8005/live/mondher/mondher/1793.ts
-#EXTINF:-1,AR_MELODY_CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/6580.ts
-#EXTINF:-1,AR_MELODY_CLASSIC
-http://pro.smartgotv.com:8005/live/mondher/mondher/6581.ts
-#EXTINF:-1,AR_MIHWAR
-http://pro.smartgotv.com:8005/live/mondher/mondher/6583.ts
-#EXTINF:-1,AR_NATGEO-AD
-http://pro.smartgotv.com:8005/live/mondher/mondher/4890.ts
-#EXTINF:-1,AR_NILE_LIFE
-http://pro.smartgotv.com:8005/live/mondher/mondher/2477.ts
-#EXTINF:-1,AR_NILE_News
-http://pro.smartgotv.com:8005/live/mondher/mondher/6586.ts
-#EXTINF:-1,AR_NILE_Tv
-http://pro.smartgotv.com:8005/live/mondher/mondher/6585.ts
-#EXTINF:-1,AR_NILE-CINEMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2473.ts
-#EXTINF:-1,AR_NILE-COMEDY
-http://pro.smartgotv.com:8005/live/mondher/mondher/2474.ts
-#EXTINF:-1,AR_NILE-CULTURE
-http://pro.smartgotv.com:8005/live/mondher/mondher/2479.ts
-#EXTINF:-1,AR_NILE-DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2475.ts
-#EXTINF:-1,AR_NILE-FAMILY
-http://pro.smartgotv.com:8005/live/mondher/mondher/2476.ts
-#EXTINF:-1,AR_NILE-SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2478.ts
-#EXTINF:-1,AR_NOOR-DUBAI
-http://pro.smartgotv.com:8005/live/mondher/mondher/2502.ts
-#EXTINF:-1,AR_OMAN-CULTURAL
-http://pro.smartgotv.com:8005/live/mondher/mondher/5144.ts
-#EXTINF:-1,AR_OMAN-SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/5145.ts
-#EXTINF:-1,AR_OMAN-TV1
-http://pro.smartgotv.com:8005/live/mondher/mondher/5142.ts
-#EXTINF:-1,AR_OMAN3-MUBASHER
-http://pro.smartgotv.com:8005/live/mondher/mondher/5143.ts
-#EXTINF:-1,AR_ON_SPORT
-http://pro.smartgotv.com:8005/live/mondher/mondher/2447.ts
-#EXTINF:-1,AR_ON-DRAMA
-http://pro.smartgotv.com:8005/live/mondher/mondher/2446.ts
-#EXTINF:-1,AR_ON-E
-http://pro.smartgotv.com:8005/live/mondher/mondher/6587.ts
-#EXTINF:-1,AR_ON-live
-http://pro.smartgotv.com:8005/live/mondher/mondher/2448.ts
-#EXTINF:-1,AR_PALESTINE
-http://pro.smartgotv.com:8005/live/mondher/mondher/4763.ts
-#EXTINF:-1,AR_PALESTINE-KULANAS
-http://pro.smartgotv.com:8005/live/mondher/mondher/4924.ts
-#EXTINF:-1,AR_PALESTINE-LIVE
-http://pro.smartgotv.com:8005/live/mondher/mondher/4921.ts
-#EXTINF:-1,AR_PALESTINE-MUSAWA
-http://pro.smartgotv.com:8005/live/mondher/mondher/4923.ts
-#EXTINF:-1,AR_PANORAMA-DRAMA1
-http://pro.smartgotv.com:8005/live/mondher/mondher/2468.ts
-#EXTINF:-1,AR_PANORAMA-DRAMA2
-http://pro.smartgotv.com:8005/live/mondher/mondher/2469.ts
-#EXTINF:-1,AR_PANORAMA-FILM
-http://pro.smartgotv.com:8005/live/mondher/mondher/2470.ts
-#EXTINF:-1,AR_TOYUR-ALJANAH_Baby
-http://pro.smartgotv.com:8005/live/mondher/mondher/6563.ts
-#EXTINF:-1,AR_ROTANA_KHALIJIAH
-http://pro.smartgotv.com:8005/live/mondher/mondher/2277.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Action HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1362.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Premium MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1361.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX FAMILY MOVIES HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18592.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX LIFE HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18591.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX MOVIES HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18590.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",RED HBO HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18561.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sony Pix IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2821.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2852.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Star Movies HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2818.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sony Le PLEX HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16016.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Action Movies HD (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8649.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Family Movies HD (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Action (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Premium (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8646.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8659.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/408.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/407.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 3 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/406.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Action Movie FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/401.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Family Movie HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/400.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Movie HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/399.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/57.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/56.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie Action 1 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/55.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie Action 2 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/54.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Star Movie ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/36.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Star World ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/37.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Sundance ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/386.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 1 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12464.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 2 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12463.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 3 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12462.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 4 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12461.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Action & Adventure HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/351.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Action & Adventure UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/352.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Comedy HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/349.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Comedy UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/350.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Crime & Thriller UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/348.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Disney HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/346.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Disney UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/347.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Drama & Romance UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/345.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Family HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/343.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Family UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/344.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Greats UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/342.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Oscars UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1823.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Premiere +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1824.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Premiere UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/341.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Sci-Fi & Horror UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/340.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Select UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/339.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Family HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4481.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Gold HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4480.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Platin 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4479.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Premium 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4477.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Premium 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4478.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1126.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1125.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 3 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1124.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN IZ TV TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2072.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Action HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1129.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Family HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1130.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Festival HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1131.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Premiere 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1128.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Premiere 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1127.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Stars HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1132.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Turk HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1133.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Comedy HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/530.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO East US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/483.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Family HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7748.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/531.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Signature HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7747.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Signature US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/484.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7776.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 1 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12605.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 2 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12604.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 3 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12603.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 4 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12602.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World Action HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12601.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",LFC TV FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5710.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",LFCTV FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10859.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 1 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8510.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 1 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8506.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 2 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8509.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 2 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8505.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 3 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8508.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 3 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8504.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 4 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8507.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sports 4 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8503.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",ASTRO SUPERSPORTS 1 FHD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18623.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",ASTRO SUPERSPORTS 2 FHD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18622.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",ASTRO SUPERSPORTS 3 FHD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18621.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",ASTRO SUPERSPORTS 4 FHD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18620.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SkyNet Sports HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9113.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8518.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 1 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8516.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 2 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8515.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 3 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8514.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 4 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8513.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 5 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8512.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Skynet Sports 6 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8511.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 1 MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18589.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 2 MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18588.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 3 MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18587.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 1 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12636.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 2 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8688.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX SPORTS 3 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8687.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8690.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MIO FOX SPORTS 1 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8207.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MIO FOX SPORTS 2 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8206.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MIO FOX SPORTS 3 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8205.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sony Six Sport TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8682.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sport 2 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8681.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sport 3 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8680.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",True Sport 2 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8679.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",True Sport 3 HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8678.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",ESPN TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8602.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sony Six HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2820.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TEN 1 HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2809.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Star Sports 1 HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1344.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Star Sports 2 HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1343.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Star Sports 3 HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1342.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Star Sports 4 HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1341.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sony ESPN IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2823.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",PPTV 1 TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8669.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",YES Sport 1 HD IL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3806.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",YES Sport 2 HD IL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3807.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",YES Sport 5 FHD IL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3809.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",YES Sport 5+ Live HD IL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3808.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",YES Sport HD IL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3784.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TrueVision Tennis HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8502.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15039.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15045.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15044.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15043.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15042.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15041.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BoutQ Sports 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15040.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9544.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 1 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8776.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 2 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9541.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9542.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 2 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8775.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 3 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9539.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9540.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 3 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8774.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 4 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9537.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9538.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 4 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8773.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 5 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9535.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9536.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 5 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8772.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 6 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9533.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9534.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 6 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8771.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 7 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9531.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9532.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 7 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8770.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 8 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9529.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 8 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9530.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 8 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8769.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 9 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9527.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 9 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9528.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 9 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8768.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 10 SD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9525.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 10 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9526.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports 10 FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8767.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 11 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9524.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 12 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9523.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport 13 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9522.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Premier League FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5718.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Premier League FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10826.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Premier League HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10792.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Arena FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6202.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Arena FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10834.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Arena HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10799.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Box Office FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7601.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Box Office UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1820.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Cricket FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5721.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Cricket FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10833.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Cricket HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10798.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports F1 FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5717.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports F1 FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10832.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports F1 HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10797.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Football FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6205.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Football FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10831.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Football HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10796.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Golf FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5719.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Golf FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10830.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Golf HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10795.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Main Event FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5722.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Main Event FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10829.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Main Event HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10794.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Mix FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10828.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Mix HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10793.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports News FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10827.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN Premier League Extra 1 FHD  [ Match Time Only ]
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10568.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN Premier League Extra 2 FHD  [ Match Time Only ]
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10569.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN Premier League Extra 3 FHD  [ Match Time Only ]
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10570.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN Premier League Extra 4 FHD  [ Match Time Only ]
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10571.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN Premier League Extra 5 FHD  [ Match Time Only ]
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10572.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 1 GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2225.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 1 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5702.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 2 GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2224.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 2 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5703.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 3 GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2223.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 3 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5704.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 4 GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2222.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 4 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5705.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 5 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5706.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 6 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5707.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 7 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5708.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OTE Sport 8 HD GR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5709.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OSN Sport 1 Action ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OSN Sport 2 Action ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OSN Sport 3 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",OSN Sport 4 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 1 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/995.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/979.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6963.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 2 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/994.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/978.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6962.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 3 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/993.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 3 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/977.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6961.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 4 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/992.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 4 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/976.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6960.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 5 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/991.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 5 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/975.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6959.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 6 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/990.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 6 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/974.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6958.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 7 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/989.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 7 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/973.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6957.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 8 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/988.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 8 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/972.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 8 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6956.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 9 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/987.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 9 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/971.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 9 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6955.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 10 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/986.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 10 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/970.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 10 HD VIP ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6954.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 11 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/985.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 11 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/969.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 12 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/984.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 12 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/968.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 1 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12697.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 2 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12696.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1323.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1322.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12695.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1320.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 7 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1319.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 8 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12694.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 9 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8693.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Austria HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3176.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 1 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12700.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 2 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1330.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12699.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1328.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12698.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Bundesliga 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1326.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",K Sport 1 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/676.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",K Sport 2 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/675.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",K Sport 3 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/674.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",K Sport 4 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/673.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 1 HD AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/680.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 2 FHD AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/679.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 3 HD AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/678.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 4 HD AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/677.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 5 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5513.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 6 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5512.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport Kosova 1 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/682.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport Kosova 2 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/681.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Tring Sport 1 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/672.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Tring Sport 2 HD AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/671.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Tring Sport 3 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/670.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Tring Sport 4 AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/669.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",EuroSport 1 ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/594.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",EuroSport 2 ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/593.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 1 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2284.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 2 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2283.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 3 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2282.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 4 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2281.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 5 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2280.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 1 HR HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/589.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 2 HR HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/588.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 3 HR HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/587.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 4 HR HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/586.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Arena Sport 5 HR HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/585.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 1 SRB ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/592.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub HD 1 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2279.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 2 SRB ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/591.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub HD 2 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2278.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 3 SRB ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/590.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub HD 3 Srb ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2277.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 4 SR ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1173.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 5 SR ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1172.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 6 SR ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1171.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 1 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/244.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 1 FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/354.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 2 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12632.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 2 FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12633.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 3 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/242.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 3 FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6510.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 4 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/241.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 5 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/240.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 5 FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6511.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",FOX Sports 6 HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/239.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Extra 1 NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/238.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Extra 2 NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/237.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Golf NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/236.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Racing NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/235.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Select NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6112.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Select HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/234.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Select FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6514.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Ziggo Sport Voetbal NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/233.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eurosport 1 FHD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/246.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eurosport 2 NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/245.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Extreme Sports NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/232.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Motorsport TV NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/231.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",EDGE Sport HD NL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4531.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 1 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/370.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/369.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 2 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/368.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 2 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/367.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 3 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/366.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 3 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/365.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport ESPN HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1743.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport ESPN UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1819.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1818.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 2 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1817.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 3 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1816.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 4 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1815.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 5 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1814.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eurosport 1 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1812.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eurosport 2 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1811.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",GINX eSports TV UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1758.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premier Sports HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1807.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premier Sports UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1808.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Action HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/333.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Action UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/374.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Arena HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6201.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Arena UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6200.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Cricket HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/334.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Cricket UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/375.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports F1 HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/371.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports F1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/337.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Football HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6204.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Football UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6203.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Golf HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/332.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Golf UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/373.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Main Event HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/335.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Main Event UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/376.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Mix HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1821.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports News HQ UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/336.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Premier League HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/331.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sports Premier League UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/372.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Rai Sport 1 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1264.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Rai Sport 2 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1263.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 1 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5206.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 2 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5205.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 3 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5204.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 4 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5203.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 5 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5202.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Calcio 6 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5201.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Sport HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/312.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Premium Sport 2 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/311.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 1 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/307.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 2 IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/306.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 3 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5210.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 4 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5209.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 5 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5208.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 6 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5207.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Italia IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1261.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport 24 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/309.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport F1 HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/308.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Football HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/315.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport MotoGP HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/310.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport NBA HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1265.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Serie A FHD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15077.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Sport Uno FHD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/316.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Tennis HD IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1262.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 1 FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/417.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 1 SD+ FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7538.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 1 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/418.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 2 FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/415.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 2 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/416.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 3 FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/413.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS 3 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/414.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 4 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4090.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 5 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4089.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 6 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4088.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 7 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4087.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 8 FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7536.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS MAX 8 HD FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7537.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",A Sport HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1095.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",A Sport HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/442.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",A Sport FHD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6135.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 1 FHD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/830.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/836.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/835.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 3 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/834.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 4 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/833.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 91 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/832.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport 92 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/831.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports Max 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/17628.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports Max 1 FHD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/17629.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSports Max 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18802.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TiviBu Sport 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1094.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TiviBu Sport 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1093.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TiviBu Sport 3 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2082.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TiviBu Sport 4 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2081.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Smart Sport 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1092.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Smart Sport 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1091.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",NBCSN HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/555.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Soccer Plus HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6206.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Soccer Plus US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7785.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports 1 HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/553.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports 1 US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7786.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports 2 FHD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/554.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports 2 HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7759.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports 506 HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/571.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports College Central HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7756.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7760.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Fox Sports North HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7752.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",WWE HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/562.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",IRIB Varzesh TV HD IR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7605.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",IRIB TV 3 HD IR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7796.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Lemar IR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/620.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Digi Sport 1 RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/754.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Digi Sport 2 RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/763.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Digi Sport 3 RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/762.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Digi Sport 4 RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/761.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 1 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16351.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 2 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16352.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 3 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16353.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 4 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16356.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 5 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16354.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",TeleKom Sport 6 HD RO
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16355.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport HD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1043.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",bein Sport HD VIP ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9520.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN Sport FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4404.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN SPORTS LaLiga ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7428.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beINSport LaLiga HD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1042.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",beIN LA Liga FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4403.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",LaLiga 123 FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8694.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",LaLiga TV Bar ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1062.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",LaLigaTV FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/6069.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MovieStar F1 ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1035.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MoviStar F1 FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4401.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Movistar F1 FHD VIP ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/13960.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MoviStar Formula 1 FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4400.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MoviStar Golf  FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4402.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MovieStar MotoGP HD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1041.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MoviStar MotoGP FHD ES
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4399.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Viasat Fotboll HD SE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1174.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Viasat Motor HD SE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2929.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Viasat Sport SE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2952.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Viasat Sport Premium HD SE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1186.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Viasat Sport Premium FHD SE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1187.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 1 HD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7425.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 1 FHD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3618.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 2 PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2677.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 2 FHD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3617.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 3 PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2676.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 3 FHD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3616.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 4 PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2675.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 4 FHD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3615.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 4 4K PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15021.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 5 PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2674.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",SportTV 5 FHD PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/3614.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 1 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16066.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 2 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16065.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 4 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16063.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 3 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16064.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 5 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16062.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eleven Sports 6 HD VIP PT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16061.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 1 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8080.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 2/Sky 2 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8079.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 3/Sky 3 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8078.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 4/Sky 4 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8077.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 5/Sky 5 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8076.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 6/Sky 6 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8075.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 7/Sky 7 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8074.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 8/Sky 8 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8073.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",MySports 9/Sky 9 FHD CH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8072.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 1 FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5716.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 1 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10751.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 2 FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5715.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 2 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10749.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 3 FHD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/5714.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport 3 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10748.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport ESPN VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10750.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 1 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10752.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 2 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10741.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 3 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10742.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 4 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10743.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 5 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10744.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sport Extra 6 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10745.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 1 FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10878.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 1 HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10813.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 2 FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10820.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 2 HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10812.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 3 FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10877.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports 3 HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10811.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports ESPN FHD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10876.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",BT Sports ESPN HD VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10810.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eir Sport 1 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10717.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Eir Sport 2 VIP UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10630.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 1 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15165.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 1 VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15164.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 2 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15162.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 2 VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15161.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 3 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15160.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 4 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15159.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 5 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15158.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 6 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15157.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 7 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15156.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 8 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15155.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 9 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15154.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sky Calcio 10 HD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15163.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 1 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15979.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 2 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15977.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 3 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15976.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 4 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15975.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 5 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15974.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 6 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15973.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 7 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15972.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 8 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15971.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 9 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15970.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Dazn Sport 10 FHD VIP IT
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15978.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 1 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19446.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 2 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19445.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 3 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19444.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 4 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19443.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 5 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19442.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 6 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19441.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport 7 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19440.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport Kosova 1 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19449.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport Kosova 2 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19448.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Super Sport Kosova 3 FHD VIP AL
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19447.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",WIN SPORT FHD VIP Latin America
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/11403.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",WIN SPORT VIP Latin America
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/11676.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",RED BULL SPORT FHD VIP Latin America
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/11404.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Gol TV FHD VIP Latin America
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/11381.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Gol TV VIP Latin America
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/11728.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 1 FHD VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10900.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 1 HD VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/13966.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10884.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 2 HD VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10896.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10883.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="SPORT",Sport Klub 3 HD VIP ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/10897.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1834.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",Rap 2K Music TV UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1754.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV Base UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1836.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV Classic UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1837.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV Dance UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1838.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV Hits UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1839.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV Music UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1840.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",MTV UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1835.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",Trace Urban FR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4075.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",Trace Urban TV HD TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9366.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",True FX TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8640.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",True Music TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/9377.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ZZk17P/IPTVKu3.png" group-title="MUSIC",True Select TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8583.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Animal Planet ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/24.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Discovery HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/23.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Discovery History ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/22.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Discovery Science ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/21.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Discovery Xtra ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/405.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Disney Channel ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/17.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Disney Junior ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/15.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Disney XD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN H2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/397.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN History 1 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/25.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Nat Geo HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/20.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Nat Geo People HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",OSN Nat Geo Wild HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/19.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",beINMovies 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/983.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",beINMovies 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/982.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",beINMovies 3 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/981.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",beINMovies 4 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/980.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Animal Planet ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/190.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Crime & Investigation HD ex-Yu
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2322.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Channel +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1887.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Channel UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1886.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery History +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1872.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery History UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1873.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Home & Health +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1868.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Home & Health UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1826.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Science +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1874.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Science UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1875.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Shed UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1885.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Discovery Turbo UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1884.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgwb3jFF/IPTVKu4.png" group-title="DOCUMENTERY",Disney Channel +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1843.ts
