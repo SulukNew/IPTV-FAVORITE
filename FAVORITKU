@@ -26,10 +26,12 @@ http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c5
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",STAR SPORT SL.1
-http://50.7.196.130:6061/craft/starspselect1/chunks.m3u8?nimblesessionid=15531816&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjE5OjA4IEFNJmhhc2hfdmFsdWU9dlYza1hxeU9MbTdxaHBHd2ZIamNzQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",STAR SPORT SL.2
-http://50.7.196.130:6061/craft/starspselect2/chunks.m3u8?nimblesessionid=15533759&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjIwOjQ4IEFNJmhhc2hfdmFsdWU9bHl4UkJGd2NVd2FuTXJtVUFIVXpIUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 1 US
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 2 US
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",NBCSN US
+http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
