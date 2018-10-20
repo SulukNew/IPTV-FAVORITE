@@ -32,6 +32,20 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",NBCSN US
 http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 1 HD
+http://194.88.107.101:6204/live/zanyar/zanyar/8653.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 2 HD
+http://194.88.107.101:6204/live/zanyar/zanyar/8652.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 3 hd
+http://194.88.107.101:6204/live/zanyar/zanyar/8651.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes sport 4 hd
+http://194.88.107.101:6204/live/zanyar/zanyar/8650.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 Gold
+http://194.88.107.101:6204/live/zanyar/zanyar/8649.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 HD
+http://194.88.107.101:6204/live/zanyar/zanyar/8648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 Plus Live HD
+http://194.88.107.101:6204/live/zanyar/zanyar/8647.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
