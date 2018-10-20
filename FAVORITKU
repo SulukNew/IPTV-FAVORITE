@@ -9,8 +9,6 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 http://31.41.20.14:4054
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 2 INDO
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 1 Thai
-http://183.89.88.79:9981/stream/channelid/654276182
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",HBO TRANVISION
 http://bit.ly/SulukHBO2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIE HTV
