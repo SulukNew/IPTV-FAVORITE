@@ -1,14 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",SULUK INTRO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SULUK INTRO
 http://bit.ly/2MMn4Uf
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",SULUK YNWA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SULUK YNWA
 https://bit.ly/2NX1Jny
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",CH. MIX (BIG TV)
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",BALKANIKA
 http://31.41.20.14:4054
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 2 INDO
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 1 Thai
 http://183.89.88.79:9981/stream/channelid/654276182
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",HBO TRANVISION
+http://bit.ly/SulukHBO2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIE HTV
+http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIES ACTION HTV
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",BEIN 1 TRUEVIS
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12608082&tsum=b44b55209f0631f558c6ce61c85e9943
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",BEIN 2 TRUEVIS
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=18335390&tsum=874495e6a27d5565e934c2a78299157f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",BEIN 3 TRUEVIS
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c54abaacf01821fc1f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",BEIN 4 TRUEVIS
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",STAR SPORT SL.1
+http://50.7.196.130:6061/craft/starspselect1/chunks.m3u8?nimblesessionid=15531816&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjE5OjA4IEFNJmhhc2hfdmFsdWU9dlYza1hxeU9MbTdxaHBHd2ZIamNzQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORER",STAR SPORT SL.2
+http://50.7.196.130:6061/craft/starspselect2/chunks.m3u8?nimblesessionid=15533759&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjIwOjQ4IEFNJmhhc2hfdmFsdWU9bHl4UkJGd2NVd2FuTXJtVUFIVXpIUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
