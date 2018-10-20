@@ -16,6 +16,21 @@ http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12608082&tsum=b44b55209f0631f558c6ce61c85e9943
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 2 TRUE VISION
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=18335390&tsum=874495e6a27d5565e934c2a78299157f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 3 TRUE VISION
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c54abaacf01821fc1f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 4 TRUE VISION
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",STAR SPORT SL.1
+http://50.7.196.130:6061/craft/starspselect1/chunks.m3u8?nimblesessionid=15531816&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjE5OjA4IEFNJmhhc2hfdmFsdWU9dlYza1hxeU9MbTdxaHBHd2ZIamNzQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",STAR SPORT SL.2
+http://50.7.196.130:6061/craft/starspselect2/chunks.m3u8?nimblesessionid=15533759&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA4OjIwOjQ4IEFNJmhhc2hfdmFsdWU9bHl4UkJGd2NVd2FuTXJtVUFIVXpIUT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",MNC
