@@ -43,13 +43,13 @@ http://edge.okezone.com/live/inewsokezone.com.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",GLOBALTV
 http://ez-tracker.net/tv/GTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",SCTV
-http://ez-tracker.net/tv/SCTV
+https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",INDOSIAR
-http://ez-tracker.net/tv/Indosiar
+https://tv.rumahstreaming.stream/5ecf9ba5789f4de8indosiar/lives/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",TRANS TV
 http://rr2.dens.tv/s/s05/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",TRANS 7
-http://ez-tracker.net/tv/Trans7
+https://tv.rumahstreaming.stream/47b7cb0281e09253tran7/lives/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",NET
