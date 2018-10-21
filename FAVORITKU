@@ -17,35 +17,22 @@ http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12608082&tsum=b44b55209f0631f558c6ce61c85e9943
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=18944861&tsum=233b761cf3fa1bb38c28734d14a76598
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=18335390&tsum=874495e6a27d5565e934c2a78299157f
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=15099482&tsum=0e19e63417b92b13fff50da04881992c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c54abaacf01821fc1f
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12209465&tsum=4b3397487773757c4d6fa175d57a51af
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=11587884&tsum=e5680058efe9e4694636738aaeca2ae8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15979094&tsum=6f0d4f33773896421261fd6c39a3b062
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",NBCSN US
 http://23.237.22.82:8086/udp/127.0.0.1:56016
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 1 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/8653.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 2 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/8652.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 3 hd
-http://194.88.107.101:6204/live/zanyar/zanyar/8651.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes sport 4 hd
-http://194.88.107.101:6204/live/zanyar/zanyar/8650.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 Gold
-http://194.88.107.101:6204/live/zanyar/zanyar/8649.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/8648.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",#EXTINF:-1,Yes Sport 5 Plus Live HD
-http://194.88.107.101:6204/live/zanyar/zanyar/8647.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
