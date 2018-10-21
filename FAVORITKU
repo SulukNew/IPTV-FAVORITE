@@ -41,7 +41,7 @@ http://bit.do/MNC_TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",INEWS
 http://edge.okezone.com/live/inewsokezone.com.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",GLOBALTV
-http://ez-tracker.net/tv/GTV
+https://tv.rumahstreaming.stream/1a9fd12295670b1fglobaltv/lives/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",SCTV
 https://tv.rumahstreaming.stream/7f9e32101b1f4579sctv/lives/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",INDOSIAR
