@@ -16,6 +16,24 @@ http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",LIGA GOJEK USEETV
+http://sg.ganteng.stream:8888/live/mawan/juli2018/693.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",DUNIA LAIN USEETV
+http://sg.ganteng.stream:8888/live/mawan/juli2018/837.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX MOVIE INDO
+http://sg.ganteng.stream:8888/live/mawan/juli2018/98.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX MOVIES ACT INDO
+http://sg.ganteng.stream:8888/live/mawan/juli2018/99.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",HBO HITZ
+http://sg.ganteng.stream:8888/live/mawan/juli2018/591.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 1 USEETV
+http://sg.ganteng.stream:8888/live/mawan/juli2018/728.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 2 USEETV
+http://sg.ganteng.stream:8888/live/mawan/juli2018/729.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 3 USEETV
+http://sg.ganteng.stream:8888/live/mawan/juli2018/730.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",GINX SPORT
+http://sg.ganteng.stream:8888/live/mawan/juli2018/532.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=14341117&tsum=792db14694baf4c4a6a76a317ff160f8
