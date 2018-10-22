@@ -16,6 +16,32 @@ http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",True Sport HD1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",True Sport HD2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",True Sport HD3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",MATCH HD
+http://persik.by/stream/1418/252987/276.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",MATCH FOOTBALL 1 HD
+http://persik.by/stream/8460/291680/10266.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",MATCH FOOTBALL 2 HD
+http://persik.by/stream/3903/293564/10267.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",MATCH FOOTBALL 3 HD
+http://persik.by/stream/8460/291680/10268.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SETANTA SPORT+
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SETANTA SPORT
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",ELEVEN SPORT 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",ELEVEN SPORT 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",ON Football VTV HD
+https://saigonrtmp.tulix.tv/vchannel11/vchannel11/chunklist_w307808862.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",LIGA GOJEK USEETV
 http://sg.ganteng.stream:8888/live/mawan/juli2018/693.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",DUNIA LAIN USEETV
