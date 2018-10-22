@@ -34,6 +34,12 @@ http://sg.ganteng.stream:8888/live/mawan/juli2018/729.ts
 http://sg.ganteng.stream:8888/live/mawan/juli2018/730.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",GINX SPORT
 http://sg.ganteng.stream:8888/live/mawan/juli2018/532.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 1 INDO
+http://sg.ganteng.stream:8888/live/mawan/juli2018/51.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 2 INDO
+http://sg.ganteng.stream:8888/live/mawan/juli2018/102.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",FOX SPORT 3 INDO
+http://sg.ganteng.stream:8888/live/mawan/juli2018/101.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcqB279R/IPTVKu6.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=14341117&tsum=792db14694baf4c4a6a76a317ff160f8
