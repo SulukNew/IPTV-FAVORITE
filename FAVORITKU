@@ -18,6 +18,8 @@ http://bit.ly/SulukHBO2
 http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",HBO INDO
+http://5.79.87.234:8278/Hbohd/playlist.m3u8?tid=m529e14e13b1818600395&ct=17829&tsum=d478cbe998416298a02dc59202ace8c6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",HBO FHD [FPT]
 http://streams.iptv.zone/p/354817/c/265/u/89117/23Mu0wPzF04G1BERRjDFCWw2uUsd3W
