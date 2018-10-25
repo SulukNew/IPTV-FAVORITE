@@ -189,38 +189,121 @@ http://lihattv.com/?play=43394
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA",THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sport_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_1HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_2HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_3HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_4HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_5HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_6HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_7HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_8HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_9HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_10HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_11HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_12HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_13HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_14HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein_Sports_15HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64231.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64232.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64233.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64234.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 5 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64235.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 6 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 7 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64237.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 8 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64239.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 9 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64240.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 10 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64241.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR: beIN Sports 11 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/64242.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 1
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220790.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 2
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220789.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 3
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220788.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 4
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220787.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 5
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220786.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 6
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220785.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 7
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220784.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeoutQ HD 8
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220783.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",OSN Sports 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220763.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",OSN SPORT 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220762.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",OSN Sports 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220761.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",OSN Sports 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220760.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78512.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78511.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78510.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78509.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 5 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78508.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Fox Sports 6 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78507.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Ziggo Sport Extra 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/80309.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Ziggo Sport Extra 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/80308.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Ziggo Sport Select HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/80305.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Ziggo Sport Racing
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/80306.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",NL: Ziggo Sport Voetbal
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/80304.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: BT Sports 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/81508.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: BT Sports 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/81509.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: BT Sports 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/81510.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: BT Sport ESPN HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/81511.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: Sky Sports News HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/84215.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: Sky Sports Main Event HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78499.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: Sky Sports Cricket HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78498.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",UK: Sky Sports F1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78494.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RO: Digi Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78506.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RO: Digi Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78505.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RO: Digi Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RO: Digi Sport 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78503.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Arena Sport 1 HD SR
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/77928.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Arena Sport 2 HD SR
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/77926.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Arena Sport 3 HD SR
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/77924.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Arena Sport 4 HD SR
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/77922.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Arena Sport 5 HD SR
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/77920.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Sport Klub 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78540.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Sport Klub 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78539.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Sport Klub 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78538.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: Sport Klub 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/78537.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Super SPORT 1 HD
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/48.ts
@@ -240,28 +323,6 @@ http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/45.ts
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/46.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Tring Sport 4 HD
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/47.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sportss MIX HD
-http://173.249.53.3:8000/live/Diotv/Diotv/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sportss Football HD
-http://173.249.53.3:8000/live/Diotv/Diotv/260.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sportss F1 HD
-http://173.249.53.3:8000/live/Diotv/Diotv/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sportss Arena HD
-http://173.249.53.3:8000/live/Diotv/Diotv/258.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports Prem League HD
-http://173.249.53.3:8000/live/Diotv/Diotv/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports News HD
-http://173.249.53.3:8000/live/Diotv/Diotv/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports MIX HD
-http://173.249.53.3:8000/live/Diotv/Diotv/255.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports Main HD
-http://173.249.53.3:8000/live/Diotv/Diotv/254.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports Golf HD
-http://173.249.53.3:8000/live/Diotv/Diotv/253.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports Cricket HD
-http://173.249.53.3:8000/live/Diotv/Diotv/252.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sports Action HD
-http://173.249.53.3:8000/live/Diotv/Diotv/251.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",WWE
 http://163.172.15.141:9732/live?channelId=256&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sport 1 DE
@@ -282,96 +343,69 @@ http://207.180.212.115:8080/live/sportest/testport/439.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Sky Sport Moto GP HD (IT)
 http://207.180.212.115:8080/live/sportest/testport/438.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BT_Sport_2_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/570.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BT_Sport_1_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/569.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BT_Sports_2_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/572.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BT_Sports_1_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/571.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",DIGI_Sport_4_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/580.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",DIGI_Sport_3_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/579.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",DIGI_Sport_2_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/578.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",DIGI_Sport_1_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/577.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",SPORT_TV_5_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/576.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",SPORT_TV_4_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/575.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",SPORT_TV_3_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/574.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",SPORT_TV_1_HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/573.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RMC SPORT 1 HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/566.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RMC SPORT 2 HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",RMC SPORT 3 HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/568.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beINSPORTS-1HD-Fr
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/553.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beINSPORTS-1-H.265-TR
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/558.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beINSPORTS-2HD-Fr
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/554.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beINSPORTS-2-H.265-TR
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/559.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beINSPORTS-3-H.265-TR
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/560.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beIN-MAX-06HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/557.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beIN-MAX-05HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/556.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",beIN-MAX-04HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/555.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS News-HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/546.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 5HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/550.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 3HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/549.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 2HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/548.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 1HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/547.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 12HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/552.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",BeinSPORTS 11HD [ AR ]
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/551.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR_MBC-SPORT-2HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/565.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",AR_MBC-SPORT-1HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/564.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Abu.Dhabi.Sports-3-HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/563.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Abu.Dhabi.Sports-2-HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/562.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Abu.Dhabi.Sports-1-HD
-http://207.180.212.115:8080/live/alspoghgghhh/allspogfdghjjjj/561.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 1 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/763.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 2 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/765.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 3 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/767.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 4 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/769.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 5 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/771.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 6 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/773.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 7 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 8 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/777.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 9 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/779.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",Bein SPORTS 10 HD 
-http://163.172.211.229:8000/live/beintst/beintesrt/781.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172323.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91716.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91715.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91714.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 5 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91713.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 6 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172324.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",GR: Ote Sport 7 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172325.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Bein Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/103331.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Bein Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/70182.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Bein Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/70183.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Tivibu Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/129946.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Tivibu Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/129947.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Tivibu Sport 3
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/129948.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",TR: Tivibu Sport 4
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/129949.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",USA: TSN-Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/204978.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",USA: TSN-Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/204977.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",USA: TSN-Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/204976.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",USA: TSN-Sport 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/204975.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",USA: TSN-Sport 5 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/204974.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/117523.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/117522.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/117524.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport  Max 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/118010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport  Max 5 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/118011.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport  Max 6 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/118012.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",FR: Bein Sport  Max 7 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/118013.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: SPORT TV 1 HD SLO
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190095.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: SPORT TV 2 HD SLO
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190094.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="SPORT",EX-YU: SPORT TV 3 HD SLO
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190093.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="DOC",beIN MOVIES HD1 (PREMIERE)
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3119.ts
