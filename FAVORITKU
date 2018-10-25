@@ -26,8 +26,6 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=meaaa21feb3f315765632&ct=17828&tsum=c3ec2693113b2bad6c290ffbe08847aa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV",SONY TEN 1 HD
 http://bit.do/SulukTEN1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV",SONY TEN 2 HD
@@ -72,28 +70,18 @@ http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=1782
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV",FOX 3 HD (TW)
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY TEN 1 HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14065.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY TEN 2 HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14064.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY TEN 3 HD
-htthttp://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14063.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY SIX HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14061.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY ESPN HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14060.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",RMC SPORT 1 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",RMC SPORT 2 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",RMC SPORT 3 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",RMC SPORT 4 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SKY SPORTS HD PREMIER LEAGUE
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY PIX HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14042.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SONY ROX HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14041.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",PTV SPORTS
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/13891.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",HBO HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/13956.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",STAR WORLD PREMEIR HD
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:8884/derons100/14071.ts
-
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/6515.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12608082&tsum=b44b55209f0631f558c6ce61c85e9943
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",BEIN 2 TRUE VISION
@@ -104,13 +92,6 @@ http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c5
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",FOX SPORT 1 US
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",FOX SPORT 2 US
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY",NBCSN US
-http://23.237.22.82:8086/udp/127.0.0.1:56016
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
