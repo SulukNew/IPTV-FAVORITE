@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1, WELCOME - SULUK INTRO
+http://bit.ly/2MMn4Uf
+#EXTINF:-1, WELCOME - SULUK YNWA
+https://bit.ly/2NX1Jny
 
-#EXTINF:-1, Suluk - HBO TRANSVISION
-http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 #EXTINF:-1, Suluk - FOX MOVIE HTV
 http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1, Suluk - FOX MOVIES ACTION HTV
@@ -15,24 +17,22 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1, Suluk - SONY PIX
 http://125.17.129.15/PLTV/88888888/224/3221226486/04.m3u8?icpid=88888888&from=1&hms_devid=63
 
-#EXTINF:-1, Suluk - MATCH FOOTBALL 1 HD
-http://persik.by/stream/3602/287583/10266.m3u8
-#EXTINF:-1, Suluk - MATCH FOOTBALL 2 HD
-http://persik.by/stream/3602/287583/10267.m3u8
-#EXTINF:-1, Suluk - MATCH FOOTBALL 3 HD
-http://persik.by/stream/3602/287583/10268.m3u8
-#EXTINF:-1, Suluk - MATCH ARENA
-http://persik.by/stream/3602/287583/261.m3u8
-#EXTINF:-1, Suluk - MATCH
-http://persik.by/stream/3602/287583/276.m3u8
-#EXTINF:-1, Suluk - MATCH
-http://persik.by/stream/3602/287583/1077.m3u8
-#EXTINF:-1, Suluk - Extreme Sports
-http://persik.by/stream/3602/287583/99.m3u8
-#EXTINF:-1, Suluk - FOOTBALL
-http://persik.by/stream/176/296165/10294.m3u8
-#EXTINF:-1, Suluk - MATCH ARENA
-http://persik.by/stream/176/296165/261.m3u8
+#EXTINF:-1,BeoutQ HD 1
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220790.ts
+#EXTINF:-1,BeoutQ HD 2
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220789.ts
+#EXTINF:-1,BeoutQ HD 3
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220788.ts
+#EXTINF:-1,BeoutQ HD 4
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220787.ts
+#EXTINF:-1,BeoutQ HD 5
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220786.ts
+#EXTINF:-1,BeoutQ HD 6
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220785.ts
+#EXTINF:-1,BeoutQ HD 7
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220784.ts
+#EXTINF:-1,BeoutQ HD 8
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220783.ts
 
 #EXTINF:-1, Suluk - SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/04.m3u8
@@ -51,10 +51,12 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1, Suluk - NBCSN
 http://bit.do/Suluk_nbcsn
-#EXTINF:-1, Suluk - CCTV 5+
-http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
-#EXTINF:-1, Suluk - FOX 3 HD (TW)
-http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
+#EXTINF:-1,Ote Sport 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172323.ts
+#EXTINF:-1, Ote Sport 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91716.ts
+#EXTINF:-1,Ote Sport 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91715.ts
 
 #EXTINF:-1, Suluk - SPORT TV+ HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/529
