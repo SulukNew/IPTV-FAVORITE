@@ -422,253 +422,170 @@ http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190094.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="▶️ SPORT ◀️",EX-YU: SPORT TV 3 HD SLO
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190093.ts
 
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Action
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Action
 http://62.210.99.158:9989/live?channelId=119&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Action HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Action HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Action HD
 http://62.210.99.158:9989/live?channelId=120&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Arena
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Arena
 http://62.210.99.158:9989/live?channelId=121&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Arena HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Arena HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Arena HD
 http://62.210.99.158:9989/live?channelId=122&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Cricket" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Cricket
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Cricket
 http://62.210.99.158:9989/live?channelId=123&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Cricket HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Cricket HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Cricket HD
 http://62.210.99.158:9989/live?channelId=124&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Football
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Football
 http://62.210.99.158:9989/live?channelId=125&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Football HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Football HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Football HD
 http://62.210.99.158:9989/live?channelId=126&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Golf" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Golf
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Golf
 http://62.210.99.158:9989/live?channelId=127&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Golf HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Golf HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Golf HD
 http://62.210.99.158:9989/live?channelId=128&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Main" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Main
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Main
 http://62.210.99.158:9989/live?channelId=129&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Main HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Main HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Main HD
 http://62.210.99.158:9989/live?channelId=130&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Mix" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Mix
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Mix
 http://62.210.99.158:9989/live?channelId=131&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Mix HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Mix HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Mix HD
 http://62.210.99.158:9989/live?channelId=132&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports PL" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports PL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Premier League
 http://62.210.99.158:9989/live?channelId=133&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports PL HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports PL HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Premier League HD
 http://62.210.99.158:9989/live?channelId=134&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports F1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports F1
 http://62.210.99.158:9989/live?channelId=135&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sly Spts F1 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sly Spts F1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports F1 HD
 http://62.210.99.158:9989/live?channelId=136&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports News" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports News
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports News
 http://62.210.99.158:9989/live?channelId=137&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports News HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports News HD
 http://62.210.99.158:9989/live?channelId=138&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Sky Sports Box Office" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Box Office
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Sky Sports Box Office
 http://62.210.99.158:9989/live?channelId=139&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 1
 http://62.210.214.28:9989/live?channelId=140&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 1 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 1 HD 
 http://62.210.214.28:9989/live?channelId=141&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 2
 http://62.210.214.28:9989/live?channelId=142&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 2 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 2 HD
 http://62.210.214.28:9989/live?channelId=143&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 3
 http://62.210.214.28:9989/live?channelId=144&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport 3 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport 3 HD
 http://62.210.214.28:9989/live?channelId=145&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport ESPN" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport ESPN
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport ESPN
 http://62.210.214.28:9989/live?channelId=146&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport ESPN HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport ESPN HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport ESPN HD
 http://62.210.214.28:9989/live?channelId=147&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 1
 http://62.210.214.28:9989/live?channelId=148&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 2
 http://62.210.214.28:9989/live?channelId=149&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 3
 http://62.210.214.28:9989/live?channelId=150&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 4" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 4
 http://62.210.214.28:9989/live?channelId=151&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 5" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 5
 http://62.210.214.28:9989/live?channelId=152&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BT Sport Extra 6" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 6
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BT Sport Extra 6
 http://62.210.214.28:9989/live?channelId=153&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="eir Sport 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",eir Sport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",eir Sport 1
 http://62.210.214.28:9989/live?channelId=154&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="eir Sport 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",eir Sport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",eir Sport 2
 http://62.210.214.28:9989/live?channelId=155&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Eurosport 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Eurosport 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Eurosport 1
 http://62.210.214.28:9989/live?channelId=156&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Eurosport 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Eurosport 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Eurosport 2
 http://62.210.214.28:9989/live?channelId=157&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="FreeSports" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",FreeSports
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",FreeSports
 http://62.210.214.28:9989/live?channelId=158&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="MOTOGP LIVE 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 1
 http://62.210.214.28:9989/live?channelId=165&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="MOTOGP LIVE 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 2
 http://62.210.214.28:9989/live?channelId=166&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="MOTOGP LIVE 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",MOTOGP LIVE 3 
 http://62.210.214.28:9989/live?channelId=167&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Motorsport TV" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Motorsport TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Motorsport TV 
 http://62.210.214.28:9989/live?channelId=168&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Premier Sports" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Premier Sports
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Premier Sports 
 http://62.210.214.28:9989/live?channelId=169&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="Premier Sports HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Premier Sports HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",Premier Sports HD 
 http://62.210.214.28:9989/live?channelId=170&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="bein france 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 1 
 http://163.172.105.25:9989/live?channelId=175&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="bein france 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 2
 http://163.172.105.25:9989/live?channelId=176&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="bein france 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",bein france 3 
 http://163.172.105.25:9989/live?channelId=177&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 1 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 1 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 1 HD 
 http://163.172.105.25:9989/live?channelId=178&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 2 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 2 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 2 HD 
 http://163.172.105.25:9989/live?channelId=179&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 3 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 3 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 3 HD 
 http://163.172.105.25:9989/live?channelId=180&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 4 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 4 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 4 HD
 http://163.172.105.25:9989/live?channelId=181&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 5 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 5 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 5 HD
 http://163.172.105.25:9989/live?channelId=182&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 6 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 6 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 6 HD
 http://163.172.105.25:9989/live?channelId=183&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 7 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 7 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 7 HD 
 http://163.172.105.25:9989/live?channelId=184&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 8 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 8 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 8 HD 
 http://163.172.105.25:9989/live?channelId=185&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 9 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 9 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 9 HD 
 http://163.172.105.25:9989/live?channelId=186&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 10 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 10 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 10 HD
 http://163.172.105.25:9989/live?channelId=187&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 11 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 11 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 11 HD
 http://163.172.105.25:9989/live?channelId=188&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="beINSport 12 HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 12 HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",beINSport 12 HD 
 http://163.172.105.25:9989/live?channelId=189&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Sports EPL 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 1
 http://163.172.105.25:9989/live?channelId=190&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Sports EPL 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 2
 http://163.172.105.25:9989/live?channelId=191&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Sports EPL 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Sports EPL 3
 http://163.172.105.25:9989/live?channelId=192&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="TSN 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 1
 http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="TSN 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 2
 http://163.172.15.141:9732/live?channelId=218&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="TSN 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 3
 http://163.172.15.141:9732/live?channelId=219&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="TSN 4" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 4
 http://163.172.15.141:9732/live?channelId=220&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="TSN 5" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",TSN 5 
 http://163.172.15.141:9732/live?channelId=221&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SPORTSNET ONE" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SPORTSNET ONE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SPORTSNET ONE
 http://163.172.15.141:9732/live?channelId=231&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SPORTSNET ONE HD" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SPORTSNET ONE HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SPORTSNET ONE HD
 http://163.172.15.141:9732/live?channelId=232&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="USA FOX SPORTS 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",USA FOX SPORTS 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",USA FOX SPORTS 1 
 http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="USA FOX SPORTS 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",USA FOX SPORTS 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",USA FOX SPORTS 2 
 http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 2
 http://62.210.114.98:9989/live?channelId=383&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 3
 http://62.210.114.98:9989/live?channelId=384&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 4" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 4
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 4
 http://62.210.114.98:9989/live?channelId=385&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 5" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 5
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 5
 http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="SKYNET 6" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 6
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",SKYNET 6
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Football 1" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 1
 http://163.172.105.25:9989/live?channelId=391&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Football 2" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 2
 http://163.172.105.25:9989/live?channelId=392&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1,tvg-ID="" tvg-name="BEin Football 3" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/15hijih.jpg" group-title="▶️ SPORT UK-US ◀️",BEin Football 3
 http://163.172.105.25:9989/live?channelId=393&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",World Fashion HD
 http://persik.by/stream/3602/287583/313.m3u8
