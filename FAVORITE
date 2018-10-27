@@ -1,107 +1,108 @@
 #EXTM3U
-#EXTINF:-1, WELCOME - SULUK INTRO
+#EXTINF:-1, group-title="WELCOME", SULUK INTRO
 http://bit.ly/2MMn4Uf
-#EXTINF:-1, WELCOME - SULUK YNWA
+#EXTINF:-1, group-title="WELCOME", SULUK YNWA
 https://bit.ly/2NX1Jny
 
-#EXTINF:-1, Suluk - FOX MOVIE HTV
+#EXTINF:-1, group-title="RELAX", FOX MOVIE HTV
 http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
-#EXTINF:-1, Suluk - FOX MOVIES ACTION HTV
+#EXTINF:-1, group-title="RELAX", FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
-#EXTINF:-1, Suluk - &FLIX HD
+#EXTINF:-1, group-title="RELAX", &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Suluk - &PRIVE HD
+#EXTINF:-1, group-title="RELAX", &PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Suluk - &PICTURES HD
+#EXTINF:-1, group-title="RELAX", &PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1, Suluk - SONY PIX
+#EXTINF:-1, group-title="RELAX", SONY PIX
 http://125.17.129.15/PLTV/88888888/224/3221226486/04.m3u8?icpid=88888888&from=1&hms_devid=63
+#EXTINF:-1, group-title="RELAX", CH. MIX (BIG TV)
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1, group-title="RELAX", BALKANIKA
+http://31.41.20.14:4054
+#EXTINF:-1, group-title="RELAX", FOX 2 INDO
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
-#EXTINF:-1,BeoutQ HD 1
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 1
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220790.ts
-#EXTINF:-1,BeoutQ HD 2
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 2
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220789.ts
-#EXTINF:-1,BeoutQ HD 3
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 3
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220788.ts
-#EXTINF:-1,BeoutQ HD 4
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 4
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220787.ts
-#EXTINF:-1,BeoutQ HD 5
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 5
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220786.ts
-#EXTINF:-1,BeoutQ HD 6
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 6
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220785.ts
-#EXTINF:-1,BeoutQ HD 7
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 7
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220784.ts
-#EXTINF:-1,BeoutQ HD 8
+#EXTINF:-1, group-title="SPORT", BeoutQ HD 8
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220783.ts
 
-#EXTINF:-1, Suluk - SETANTA SPORT+
+#EXTINF:-1, group-title="SPORT", SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1, Suluk - SETANTA SPORT
+#EXTINF:-1, group-title="SPORT", SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1, Suluk - ELEVEN SPORT 1 HD
+#EXTINF:-1, group-title="SPORT", ELEVEN SPORT 1 HD
 http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:-1, Suluk - ELEVEN SPORT 2 HD
+#EXTINF:-1, group-title="SPORT", ELEVEN SPORT 2 HD
 http://61.58.60.230:9000/live/102.m3u8
 
-#EXTINF:-1, Suluk - Fox Sports 1 US
+#EXTINF:-1, group-title="SPORT", Fox Sports 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1, Suluk - Fox Sports 2 US
+#EXTINF:-1, group-title="SPORT", Fox Sports 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:-1, Suluk - Fox Sports Racing US
+#EXTINF:-1, group-title="SPORT", Fox Sports Racing US
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, Suluk - NBCSN
+#EXTINF:-1, group-title="SPORT", NBCSN
 http://bit.do/Suluk_nbcsn
-#EXTINF:-1,Ote Sport 1 HD
+#EXTINF:-1, group-title="SPORT", OTE Sport 1 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172323.ts
 #EXTINF:-1, Ote Sport 2 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91716.ts
-#EXTINF:-1,Ote Sport 3 HD
+#EXTINF:-1, group-title="SPORT", OTE Sport 3 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91715.ts
 
-#EXTINF:-1, Suluk - SPORT TV+ HD
+#EXTINF:-1, group-title="SPORT", SPORT TV+ HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/529
-#EXTINF:-1, Suluk - SPORT TV 1 HD
+#EXTINF:-1, group-title="SPORT", SPORT TV 1 HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/530
-#EXTINF:-1, Suluk - SPORT TV 2 HD
+#EXTINF:-1, group-title="SPORT", SPORT TV 2 HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/531
-#EXTINF:-1, Suluk - SPORT TV 3 HD
+#EXTINF:-1, group-title="SPORT", SPORT TV 3 HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/532
-#EXTINF:-1, Suluk - SPORT TV 4 HD
+#EXTINF:-1, group-title="SPORT", SPORT TV 4 HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/533
-#EXTINF:-1, Suluk - SPORT TV 4 HD
+#EXTINF:-1, group-title="SPORT", SPORT TV 4 HD
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/534
-#EXTINF:-1, Suluk - K SPORT 1
+#EXTINF:-1, group-title="SPORT", K SPORT 1
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/841
-#EXTINF:-1, Suluk - K SPORT 2
+#EXTINF:-1, group-title="SPORT", K SPORT 2
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/842
-#EXTINF:-1, Suluk - K SPORT 3
+#EXTINF:-1, group-title="SPORT", K SPORT 3
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/843
-#EXTINF:-1, Suluk - K SPORT 4
+#EXTINF:-1, group-title="SPORT", K SPORT 4
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/844
 
-#EXTINF:-1, Suluk - RMC SPORT 1 HD
+#EXTINF:-1, group-title="SPORT", RMC SPORT 1 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
-#EXTINF:-1, Suluk - RMC SPORT 2 HD
+#EXTINF:-1, group-title="SPORT", RMC SPORT 2 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1267.ts
-#EXTINF:-1, Suluk - RMC SPORT 3 HD
+#EXTINF:-1, group-title="SPORT", RMC SPORT 3 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
-#EXTINF:-1, Suluk - RMC SPORT 4 HD
+#EXTINF:-1, group-title="SPORT", RMC SPORT 4 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
-#EXTINF:-1, Suluk - SKY SPORTS HD PREMIER LEAGUE
+#EXTINF:-1, group-title="SPORT", SKY SPORTS HD PREMIER LEAGUE
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
 
-#EXTINF:-1, Suluk - BEIN 1 TRUE VISION
+#EXTINF:-1, group-title="SPORT", BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13712075&tsum=f45afd5c0830d99eb78b1db71e186313
-#EXTINF:-1, Suluk - BEIN 2 TRUE VISION
+#EXTINF:-1, group-title="SPORT", BEIN 2 TRUE VISION
 http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=15920284&tsum=c1d0a236312d418b571a3b7f9eda7970
-#EXTINF:-1, Suluk - BEIN 3 TRUE VISION
+#EXTINF:-1, group-title="SPORT", BEIN 3 TRUE VISION
 http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=17617519&tsum=0a5c15a6ca1618405c27000646b0d6bc
-#EXTINF:-1, Suluk - BEIN 4 TRUE VISION
+#EXTINF:-1, group-title="SPORT", BEIN 4 TRUE VISION
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=14041520&tsum=350f90b2eb9fd6f89163d9442214c209
-#EXTINF:-1, Suluk - SKYNET
+#EXTINF:-1, group-title="SPORT", SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13411397&tsum=14e2bf9f3cb137ef0e25438983110998
-
-
-
-
-
