@@ -18,6 +18,10 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1, BeIN Movies 1 HD 
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3119.ts
+#EXTINF:-1, BeIN Movies 2 HD 
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3120.ts
 #EXTINF:-1, SONY PIX
 http://125.17.129.15/PLTV/88888888/224/3221226486/04.m3u8?icpid=88888888&from=1&hms_devid=63
 #EXTINF:-1, CH. MIX (BIG TV)
@@ -99,6 +103,50 @@ http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
 #EXTINF:-1, SKY SPORTS HD PREMIER LEAGUE
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
+
+#EXTINF:-1, beIN SPORTS 1 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1.ts
+#EXTINF:-1, beIN SPORTS 2 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3.ts
+#EXTINF:-1, beIN SPORTS 3 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/5.ts
+#EXTINF:-1, beIN SPORTS 4 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/7.ts
+#EXTINF:-1, beIN SPORTS 5 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/9.ts
+#EXTINF:-1, beIN SPORTS 6 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11.ts
+#EXTINF:-1, beIN SPORTS 7 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/13.ts
+#EXTINF:-1, beIN SPORTS 8 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/15.ts
+#EXTINF:-1, beIN SPORTS 9 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/17.ts
+#EXTINF:-1, beIN SPORTS 10 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/19.ts
+#EXTINF:-1, beIN SPORTS 11 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/21.ts
+#EXTINF:-1, beIN SPORTS 12 HD
+http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/22.ts
+
+#EXTINF:-1, Super Sport 1 HD
+http://163.172.211.229:8000/live/testueisas/alemania/48.ts
+#EXTINF:-1, Super Sport 2 HD
+http://163.172.211.229:8000/live/testueisas/alemania/49.ts
+#EXTINF:-1, Super Sport 3 HD
+http://163.172.211.229:8000/live/testueisas/alemania/50.ts
+#EXTINF:-1, Super Sport 4 HD
+http://163.172.211.229:8000/live/testueisas/alemania/51.ts
+#EXTINF:-1, Super Sport 5 HD
+http://163.172.211.229:8000/live/testueisas/alemania/48.ts
+#EXTINF:-1, Tring Sport 1 HD
+http://163.172.211.229:8000/live/testueisas/alemania/44.ts
+#EXTINF:-1, Tring Sport 2 HD
+http://163.172.211.229:8000/live/testueisas/alemania/45.ts
+#EXTINF:-1, Tring Sport 3 HD
+http://163.172.211.229:8000/live/testueisas/alemania/46.ts
+#EXTINF:-1, Tring Sport 4 HD
+http://163.172.211.229:8000/live/testueisas/alemania/47.ts
 
 #EXTINF:-1, BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13712075&tsum=f45afd5c0830d99eb78b1db71e186313
