@@ -8,6 +8,8 @@ https://bit.ly/2NX1Jny
 http://bit.do/MNC_TV
 #EXTINF:-1, RCTI
 http://bit.do/RCTI_OKE
+#EXTINF:-1, INDOSIAR
+http://bit.do/PSM_Arema
 #EXTINF:-1, FOX MOVIE HTV
 http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
 #EXTINF:-1, FOX MOVIES ACTION HTV
@@ -30,6 +32,25 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 http://31.41.20.14:4054
 #EXTINF:-1, FOX 2 INDO
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:-1, SONY TEN 1 HD
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30415.ts
+#EXTINF:-1, SONY TEN 2 HD
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30414.ts
+#EXTINF:-1, SONY TEN 3 HD
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30413.ts
+#EXTINF:-1, STAR SPORT HD 1
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30953.ts
+#EXTINF:-1, STAR SPORT 2
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30419.ts
+#EXTINF:-1, DIGI SPORT HD 1
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30561.ts
+#EXTINF:-1, DIGI SPORT HD 2
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30560.ts
+#EXTINF:-1, DIGI SPORT HD 3
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30559.ts
+#EXTINF:-1, DIGI SPORT HD 3
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30558.ts
 
 #EXTINF:-1, BeoutQ HD 1
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220790.ts
@@ -67,7 +88,7 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 http://bit.do/Suluk_nbcsn
 #EXTINF:-1, OTE Sport 1 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/172323.ts
-#EXTINF:-1, Ote Sport 2 HD
+#EXTINF:-1, OTE Sport 2 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91716.ts
 #EXTINF:-1, OTE Sport 3 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/91715.ts
@@ -103,6 +124,8 @@ http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
 #EXTINF:-1, SKY SPORTS HD PREMIER LEAGUE
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
+#EXTINF:-1, ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, beIN SPORTS 1 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1.ts
@@ -128,6 +151,16 @@ http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/19.ts
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/21.ts
 #EXTINF:-1, beIN SPORTS 12 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/22.ts
+#EXTINF:-1, TSN 1
+http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, TSN 2
+http://163.172.15.141:9732/live?channelId=218&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, TSN 3
+http://163.172.15.141:9732/live?channelId=219&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, TSN 4
+http://163.172.15.141:9732/live?channelId=220&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, TSN 5
+http://163.172.15.141:9732/live?channelId=221&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 
 #EXTINF:-1, Super Sport 1 HD
 http://163.172.211.229:8000/live/testueisas/alemania/48.ts
@@ -147,6 +180,20 @@ http://163.172.211.229:8000/live/testueisas/alemania/45.ts
 http://163.172.211.229:8000/live/testueisas/alemania/46.ts
 #EXTINF:-1, Tring Sport 4 HD
 http://163.172.211.229:8000/live/testueisas/alemania/47.ts
+#EXTINF:-1, MOVISTAR MOTOGP
+http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30762.ts
+#EXTINF:-1, SKYNET 1
+http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, SKYNET 2
+http://62.210.114.98:9989/live?channelId=383&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, SKYNET 3
+http://62.210.114.98:9989/live?channelId=384&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, SKYNET 4
+http://62.210.114.98:9989/live?channelId=385&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, SKYNET 5
+http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1, SKYNET 6
+http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 
 #EXTINF:-1, BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13712075&tsum=f45afd5c0830d99eb78b1db71e186313
