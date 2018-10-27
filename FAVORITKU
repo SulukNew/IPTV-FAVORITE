@@ -48,14 +48,31 @@ https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",True Sport HD3
 https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH HD
-http://persik.by/stream/1418/252987/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 1
+http://persik.by/stream/3602/287583/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 2
+http://persik.by/stream/3602/287583/10217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 3
+http://persik.by/stream/3602/287583/10218.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 1 HD
-http://persik.by/stream/8460/291680/10266.m3u8
+http://persik.by/stream/3602/287583/10266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 2 HD
-http://persik.by/stream/3903/293564/10267.m3u8
+http://persik.by/stream/3602/287583/10267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH FOOTBALL 3 HD
-http://persik.by/stream/8460/291680/10268.m3u8
+http://persik.by/stream/3602/287583/10268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH ARENA
+http://persik.by/stream/3602/287583/261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH
+http://persik.by/stream/3602/287583/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH
+http://persik.by/stream/3602/287583/1077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",Extreme Sports
+http://persik.by/stream/3602/287583/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",FOOTBALL
+http://persik.by/stream/176/296165/10294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",MATCH ARENA
+http://persik.by/stream/176/296165/261.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",SETANTA SPORT
@@ -99,15 +116,15 @@ http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SONY PIX HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/6515.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12608082&tsum=b44b55209f0631f558c6ce61c85e9943
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13712075&tsum=f45afd5c0830d99eb78b1db71e186313
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=18335390&tsum=874495e6a27d5565e934c2a78299157f
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=15920284&tsum=c1d0a236312d418b571a3b7f9eda7970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12187679&tsum=500dee8c501da7c54abaacf01821fc1f
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=17617519&tsum=0a5c15a6ca1618405c27000646b0d6bc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13264611&tsum=f6605f8363df164d5163545936589e06
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=14041520&tsum=350f90b2eb9fd6f89163d9442214c209
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16321591&tsum=983be15e561a58c22336735fbf4f9229
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13411397&tsum=14e2bf9f3cb137ef0e25438983110998
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SKYNET HD
 http://142.44.213.159:25461/live/expires_every/1.3_hours/108.m3u8
 
@@ -405,7 +422,16 @@ http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190094.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/vr4x6w.jpg" group-title="▶️ SPORT ◀️",EX-YU: SPORT TV 3 HD SLO
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/190093.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",World Fashion HD
+http://persik.by/stream/3602/287583/313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",National Geographic HD
+http://persik.by/stream/176/296165/10243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",History HD
+http://persik.by/stream/176/296165/10244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",Travel HD
+http://persik.by/stream/176/296165/10245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",Outdoor
+http://persik.by/stream/176/296165/10246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",beIN MOVIES HD1 (PREMIERE)
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3119.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",beIN MOVIES HD2 (ACTION)
@@ -512,6 +538,11 @@ http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4886.ts
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4896.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZS7gdPx/DOC.png" group-title="▶️ RELAX ◀️",MOVIES NOW FHD
 http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30434.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="▶️ MUSIC ◀️",MTV Hits
+http://persik.by/stream/3602/287583/10208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="▶️ MUSIC ◀️",MTV Rocks
+http://persik.by/stream/3602/287583/10227.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="▶️ MUSIC ◀️",TRACE URBAN Full HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/5091.ts
