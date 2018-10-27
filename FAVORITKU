@@ -95,14 +95,27 @@ http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=1782
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="▶️ SULUK IPTV ◀️",FOX 3 HD (TW)
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",FOX SPORT 1 HD [ASIA]
-http://iptvhosting.org.uk:83/live/LaurJ19xxx87/4345xc3w4r5a32xx/314851.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",FOX SPORT 2 HD [ASIA]
-http://iptvhosting.org.uk:83/live/LaurJ19xxx87/4345xc3w4r5a32xx/314852.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",FOX SPORT 3 HD [ASIA]
-http://iptvhosting.org.uk:83/live/LaurJ19xxx87/4345xc3w4r5a32xx/314853.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",GINX ESPORTS
-http://iptvhosting.org.uk:83/live/LaurJ19xxx87/4345xc3w4r5a32xx/306180.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV+ HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV 1 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV 2 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV 3 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV 4 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",SPORT TV 4 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",K SPORT 1
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",K SPORT 2
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",K SPORT 3
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",K SPORT 4
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/844
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",RMC SPORT 1 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="▶️ TEMPORARY ◀️",RMC SPORT 2 HD
