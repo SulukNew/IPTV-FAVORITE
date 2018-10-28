@@ -41,6 +41,13 @@ http://163.172.85.133:8080/TenS/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY TEN 3 HD
 http://125.17.129.13:80/PLTV/88888888/224/3221226330/04.m3u8?icpid=88888888&from=1&ocs=2_125.17.129.16_80&hms_devid=43
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 1 HD [Asia]
+http://bit.do/sulukfox1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 2 HD [Asia]
+http://bit.do/sulukfox2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 3 HD [Asia]
+http://bit.do/sulukfox3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",True Sport HD1
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",True Sport HD2
