@@ -115,6 +115,23 @@ http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/842
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/843
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",K SPORT 4
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",YES SPORT 1 HD
+http://194.88.107.101:6204/live/ali03/ali03/8653.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",YES SPORT 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/8652.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",YES SPORT 3 HD
+http://194.88.107.101:6204/live/ali03/ali03/8651.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",YES SPORT 4 HD
+http://194.88.107.101:6204/live/ali03/ali03/8650.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",YES SPORT 5 GOLD HD
+http://194.88.107.101:6204/live/ali03/ali03/8649.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",TEN 1 HD
+http://194.88.107.101:6204/live/ali03/ali03/8931.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",TEN 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/8930.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",TEN 3 HD
+http://194.88.107.101:6204/live/ali03/ali03/8929.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",RMC SPORT 1 HD
 http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
