@@ -52,6 +52,13 @@ http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30559.ts
 #EXTINF:-1, DIGI SPORT HD 3
 http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30558.ts
 
+#EXTINF:-1, Sky Calcio 1 HD
+http://173.249.53.3:8000/live/Itatest/Testita/196.ts
+#EXTINF:-1, Sky SPORT 1 [IT]
+http://173.249.53.3:8000/live/SPORT/Sport1/235.ts
+#EXTINF:-1, Sky FOOTBALL
+http://173.249.53.3:8000/live/SPORT/Sport1/500.ts
+
 #EXTINF:-1, OSN Sports 1 HD
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220763.ts
 #EXTINF:-1, OSN SPORT 2 HD
@@ -191,6 +198,13 @@ http://163.172.211.229:8000/live/testueisas/alemania/46.ts
 http://163.172.211.229:8000/live/testueisas/alemania/47.ts
 #EXTINF:-1, MOVISTAR MOTOGP
 http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30762.ts
+
+#EXTINF:-1, TEN 1 HD
+http://194.88.107.101:6204/live/ali03/ali03/8931.ts
+#EXTINF:-1, TEN 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/8930.ts
+#EXTINF:-1, TEN 3 HD
+http://194.88.107.101:6204/live/ali03/ali03/8929.ts
 #EXTINF:-1, SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1, SKYNET 2
