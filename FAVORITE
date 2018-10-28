@@ -52,6 +52,15 @@ http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30559.ts
 #EXTINF:-1, DIGI SPORT HD 3
 http://qualitycctv.xyz:8080/live/Hv7c4ewN/fDTTJQ64bz/30558.ts
 
+#EXTINF:-1, OSN Sports 1 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220763.ts
+#EXTINF:-1, OSN SPORT 2 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220762.ts
+#EXTINF:-1, OSN Sports 3 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220761.ts
+#EXTINF:-1, OSN Sports 4 HD
+http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220760.ts
+
 #EXTINF:-1, BeoutQ HD 1
 http://primotv.stream:25461/live/AgronZogijan/Ay8quKij9n/220790.ts
 #EXTINF:-1, BeoutQ HD 2
@@ -196,12 +205,12 @@ http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:3C:C9:5C&uid=330
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 
 #EXTINF:-1, BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13712075&tsum=f45afd5c0830d99eb78b1db71e186313
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=10826211&tsum=d317e6a44a7a45257240aac85b9ebde1 
 #EXTINF:-1, BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=15920284&tsum=c1d0a236312d418b571a3b7f9eda7970
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=16789668&tsum=cee75d8679466f494529466d5ceb3866
 #EXTINF:-1, BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=17617519&tsum=0a5c15a6ca1618405c27000646b0d6bc
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=16832580&tsum=adbba393e97c7f609b0d95141c35d685
 #EXTINF:-1, BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=14041520&tsum=350f90b2eb9fd6f89163d9442214c209
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=17000417&tsum=35cf522ce3a813a5abdbe53f22c776b3
 #EXTINF:-1, SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13411397&tsum=14e2bf9f3cb137ef0e25438983110998
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17145449&tsum=1a8cea833402a6f9811ab4b76d72c40f
