@@ -130,43 +130,36 @@ http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/843
 #EXTINF:-1, K SPORT 4
 http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/844
 
-#EXTINF:-1, RMC SPORT 1 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
-#EXTINF:-1, RMC SPORT 2 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1267.ts
-#EXTINF:-1, RMC SPORT 3 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
-#EXTINF:-1, RMC SPORT 4 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
-#EXTINF:-1, SKY SPORTS HD PREMIER LEAGUE
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
 #EXTINF:-1, ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1, SPORT 1 US HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/878
+#EXTINF:-1, SKY SPORTS PREMIER LEAGUE HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/887
+#EXTINF:-1, SKY SPORTS MAIN EVENT HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/883
+#EXTINF:-1, SKY SPORT ARENA HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/879
+#EXTINF:-1, SKY SPORTS ACTION HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/880
+#EXTINF:-1, SKY SPORTS MIX HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/884
+#EXTINF:-1, SKY SPORTS GOLF HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/886
+#EXTINF:-1, SKY SPORTS FOOTBALL HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/882
+#EXTINF:-1, SKY SPORTS CRICKET HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/881
+#EXTINF:-1, SKY SPORTS F1 HD
+http://163.172.26.197:8000/Buritv/Z5bQ7LCyZn/885
 
-#EXTINF:-1, beIN SPORTS 1 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1.ts
-#EXTINF:-1, beIN SPORTS 2 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/3.ts
-#EXTINF:-1, beIN SPORTS 3 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/5.ts
-#EXTINF:-1, beIN SPORTS 4 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/7.ts
-#EXTINF:-1, beIN SPORTS 5 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/9.ts
-#EXTINF:-1, beIN SPORTS 6 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11.ts
-#EXTINF:-1, beIN SPORTS 7 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/13.ts
-#EXTINF:-1, beIN SPORTS 8 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/15.ts
-#EXTINF:-1, beIN SPORTS 9 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/17.ts
-#EXTINF:-1, beIN SPORTS 10 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/19.ts
-#EXTINF:-1, beIN SPORTS 11 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/21.ts
-#EXTINF:-1, beIN SPORTS 12 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/22.ts
+#EXTINF:-1, beIN SPORTS 1 HD [FR]
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2569.ts
+#EXTINF:-1, beIN SPORTS 2 HD [FR]
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2556.ts
+#EXTINF:-1, beIN SPORTS 3 HD [FR]
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2590.ts
+
 #EXTINF:-1, TSN 1
 http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1, TSN 2
