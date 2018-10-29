@@ -140,18 +140,6 @@ http://194.88.107.101:6204/live/ali03/ali03/8930.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",TEN 3 HD
 http://194.88.107.101:6204/live/ali03/ali03/8929.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",RMC SPORT 1 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2590.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",RMC SPORT 2 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/1267.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",RMC SPORT 3 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/2595.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",RMC SPORT 4 HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/4194.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",SKY SPORTS HD PREMIER LEAGUE
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/11353.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",SONY PIX HD
-http://topiptv.net:5890/live/EFDYtN1nNj/bt5eQqJiV9/6515.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=16205740&tsum=19ef2b3a184b0786ffda90d82911c1b6 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 2 TRUE VISION
@@ -165,6 +153,8 @@ http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15598298&tsum=76d1fad3393
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",RCTI
 http://bit.do/RCTI_OKE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",RCTI HD
+http://bit.do/SulukRCTI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",MNC
 http://bit.do/MNC_TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",INEWS
