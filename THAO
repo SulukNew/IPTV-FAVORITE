@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/dnbkw0.jpg" group-title="WELCOME️",SULUK INTRO
 http://bit.ly/2MMn4Uf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/dnbkw0.jpg" group-title="WELCOME️",SULUK YNWA
-https://bit.ly/2NX1Jny
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",INTRO UCL
 https://bit.ly/2NUDl5P
@@ -27,24 +25,23 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY PIX
-http://125.17.129.15/PLTV/88888888/224/3221226486/04.m3u8?icpid=88888888&from=1&hms_devid=63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY LE PLEX
+http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY PIX HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX MOVIES [AR]
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY ESPN HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY SIX HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY TEN 1 HD
-http://bit.do/SulukTEN1
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY TEN 2 HD
-http://163.172.218.205:8081/2Ten/2/index.m3u8?token=MTM3Ljk3LjEzMi4xODMtdG9rZW4xLTE1Mzg0MjUzMTM=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",ZIGGO SPORT
-http://163.172.85.133:8080/TenS/2/index.m3u8
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY TEN 3 HD
-http://125.17.129.13:80/PLTV/88888888/224/3221226330/04.m3u8?icpid=88888888&from=1&ocs=2_125.17.129.16_80&hms_devid=43
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 1 HD [Asia]
-http://bit.do/sulukfox1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 2 HD [Asia]
-http://bit.do/sulukfox2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX SPORT 3 HD [Asia]
-http://bit.do/sulukfox3
+http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",True Sport HD1
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
@@ -107,6 +104,8 @@ http://46.40.5.99:8000/arena_4_high
 http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX 3 HD (TW)
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",RCTI
 http://bit.do/RCTI_OKE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",RCTI HD
@@ -186,63 +185,6 @@ http://lihattv.com/?play=43394
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Celestial Classic Movies (TOT)
-http://180.183.15.71:9981/stream/channelid/125096756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Cel
-http://180.183.15.71:9981/stream/channelid/1858063033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",CNN
-http://180.183.15.71:9981/stream/channelid/1364483887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Action Movie (TOT)
-http://180.183.15.71:9981/stream/channelid/2088878981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Action
-http://180.183.15.71:9981/stream/channelid/201060644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Sport1
-http://180.183.15.71:9981/stream/channelid/654276182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Sport2 (TOT)
-http://180.183.15.71:9981/stream/channelid/1067136145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Sport2
-http://180.183.15.71:9981/stream/channelid/2072939818
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Sport3 (TOT)
-http://180.183.15.71:9981/stream/channelid/1199508432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Fox Sport3
-http://180.183.15.71:9981/stream/channelid/856982948
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",foxnews
-http://180.183.15.71:9981/stream/channelid/223757383
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",kix
-http://180.183.15.71:9981/stream/channelid/682405144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",KIX HD(729)
-http://180.183.15.71:9981/stream/channelid/1052079995
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",KIX (TOT)
-http://180.183.15.71:9981/stream/channelid/176364202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",MTV (TOT)
-http://180.183.15.71:9981/stream/channelid/680546852
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",mtv
-http://180.183.15.71:9981/stream/channelid/1470926969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Nat Geo People HD
-http://180.183.15.71:9981/stream/channelid/142919002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",NAT GEO HD(573)
-http://180.183.15.71:9981/stream/channelid/117825685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Nat Geographic HD
-http://180.183.15.71:9981/stream/channelid/1121916230
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Nat Geo Wild HD
-http://180.183.15.71:9981/stream/channelid/1163761569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",NATGEO PPL HD(725)
-http://180.183.15.71:9981/stream/channelid/1441629868
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",NGWILD HD(550)
-http://180.183.15.71:9981/stream/channelid/1332135066
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",Nation TV
-http://180.183.15.71:9981/stream/channelid/820623836
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",THRILL (TOT)
-http://180.183.15.71:9981/stream/channelid/845217571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",thrill
-http://180.183.15.71:9981/stream/channelid/930017638
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",True sport HD2 480
-https://m88.intersteam-idc.com/live54/0x777_2sporthd2_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",True sport HD 480
-https://m88.intersteam-idc.com/live54/0x777_2sporthd1_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="THAILAND",True sport HD3 480
-https://m88.intersteam-idc.com/live54/0x777_2sporthd3_480p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",NL: FOX SPORTS 1 HD
 http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8928.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",NL: FOX SPORTS 2 
@@ -317,13 +259,13 @@ http://194.88.107.101:6204/live/ali03/ali03/9068.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Al- Tring Sport 4 HD
 http://194.88.107.101:6204/live/ali03/ali03/9067.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes Sport 1 HD
 http://194.88.107.101:6204/live/ali03/ali03/8653.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes Sport 2 HD
 http://194.88.107.101:6204/live/ali03/ali03/8652.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes Sport 3 HD
 http://194.88.107.101:6204/live/ali03/ali03/8651.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes Sport 4 HD
 http://194.88.107.101:6204/live/ali03/ali03/8650.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",Is- Yes Sport 5 Gold
 http://194.88.107.101:6204/live/ali03/ali03/8649.ts
