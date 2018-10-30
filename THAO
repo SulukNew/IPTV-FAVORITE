@@ -6,6 +6,10 @@ http://bit.ly/2MMn4Uf
 https://bit.ly/2NUDl5P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",CALIFORNIA MUSIC CH
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",BALKANIKA
 http://31.41.20.14:4054
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX 2 INDO
@@ -31,7 +35,6 @@ http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c4
 http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY ESPN HD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY SIX HD
@@ -74,6 +77,8 @@ http://persik.by/stream/3602/287583/99.m3u8
 http://persik.by/stream/176/296165/10294.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",MATCH ARENA
 http://persik.by/stream/176/296165/261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",ESPN HD
+http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/04.m3u8
@@ -104,7 +109,16 @@ http://46.40.5.99:8000/arena_4_high
 http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX 3 HD (TW)
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",DISCOVERY CH. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",CARTOON NETW
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",NASA TV
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",RCTI
 http://bit.do/RCTI_OKE
