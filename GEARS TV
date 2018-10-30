@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1,SULUK INTRO
+http://bit.ly/2MMn4Uf
+#EXTINF:-1,SULUK YNWA
+https://bit.ly/2NX1Jny
 #EXTINF:-1,[COLOR deepskyblue][B]5STAR[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1056.ts
 #EXTINF:-1,[COLOR deepskyblue][B]4SEVEN[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1070.ts
 #EXTINF:-1,[COLOR deepskyblue][B]ALIBI[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1071.ts
-#EXTINF:-1,[COLOR deepskyblue][B]*************PPV EVENTS WILL APPEAR HERE WHEN LIVE*************[/B][/COLOR]
+#EXTINF:-1,[COLOR deepskyblue][B]****PPV EVENTS WILL APPEAR HERE WHEN LIVE****[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1842.ts
 #EXTINF:-1,[COLOR deepskyblue][B]CBS ACTION[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1069.ts
@@ -45,7 +49,7 @@ http://gorilladick4.us:2086/live/isabel/isabel/1008.ts
 http://gorilladick4.us:2086/live/isabel/isabel/2145.ts
 #EXTINF:-1,[COLOR red][B]NESN[COLOR white] 1080[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1972.ts
-#EXTINF:-1,[COLOR white][B]*************NFL SUNDAY TICKET 10/28/2018*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]****NFL SUNDAY TICKET 10/28/2018****[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1942.ts
 #EXTINF:-1,[COLOR red][B]ABC ATLANTA[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1984.ts
@@ -775,10 +779,6 @@ http://gorilladick4.us:2086/live/isabel/isabel/1693.ts
 http://gorilladick4.us:2086/live/isabel/isabel/351.ts
 #EXTINF:-1,[COLOR deepskyblue][B]CINEMAX THRILLER MAX[COLOR white] 1080[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/397.ts
-#EXTINF:-1,[COLOR red][B]XXX BRAZZERS[COLOR white] 1080[/B][/COLOR]
-http://gorilladick4.us:2086/live/isabel/isabel/1936.ts
-#EXTINF:-1,[COLOR red][B]XXX PLAYBOY[COLOR white] 1080[/B][/COLOR]
-http://gorilladick4.us:2086/live/isabel/isabel/1935.ts
 #EXTINF:-1,[COLOR red][B]XXX REALITY KINGS[COLOR white] 1080[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1937.ts
 #EXTINF:-1,[COLOR deepskyblue][B]COMEDY CENTRAL UK[COLOR white] HD[/B][/COLOR]
@@ -809,8 +809,6 @@ http://gorilladick4.us:2086/live/isabel/isabel/1971.ts
 http://gorilladick4.us:2086/live/isabel/isabel/1970.ts
 #EXTINF:-1,[COLOR red][B]DECADES[COLOR white] 1080[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1934.ts
-#EXTINF:-1,[COLOR red][B]ABC MIAMI[COLOR white] HD[/B][/COLOR]
-http://gorilladick4.us:2086/live/isabel/isabel/1979.ts
 #EXTINF:-1,[COLOR red][B]ABC HOUSTON[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1994.ts
 #EXTINF:-1,[COLOR red][B]FOX SPORTS ARIZONA[COLOR white] (HD)[/B][/COLOR]
@@ -1137,9 +1135,9 @@ http://gorilladick4.us:2086/live/isabel/isabel/2049.ts
 http://gorilladick4.us:2086/live/isabel/isabel/2021.ts
 #EXTINF:-1,[COLOR red][B]NBC COLUMBIA[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/2112.ts
-#EXTINF:-1,[COLOR white][B]*************NHL GAMES FOR 10/29/2018*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]****NHL GAMES FOR 10/29/2018****[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/2240.ts
-#EXTINF:-1,[COLOR white][B]*************MLB 2018 SEASON OVER*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]****MLB 2018 SEASON OVER****[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1897.ts
 #EXTINF:-1,[COLOR red][B]TELEMUNDO L.A[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/2265.ts
@@ -1177,7 +1175,7 @@ http://gorilladick4.us:2086/live/isabel/isabel/2046.ts
 http://gorilladick4.us:2086/live/isabel/isabel/405.ts
 #EXTINF:-1,[COLOR red][B]NFL NETWORK[COLOR white] 720[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/1671.ts
-#EXTINF:-1,[COLOR white][B]*************NBA GAMES FOR 10/29/2018*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]****NBA GAMES FOR 10/29/2018****[/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/2280.ts
 #EXTINF:-1,[COLOR white][B]NBA 01 [COLOR red] HAWKS @ 76ERS 1080[B][COLOR white] 7:00 PM  ET [/B][/COLOR]
 http://gorilladick4.us:2086/live/isabel/isabel/2281.ts
