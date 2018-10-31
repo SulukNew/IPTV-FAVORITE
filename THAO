@@ -503,14 +503,16 @@ http://194.88.107.101:6204/live/ali03/ali03/984.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Nat People HD
 http://194.88.107.101:6204/live/ali03/ali03/2711.ts
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12928907&tsum=31b5882d456f911994eb4895e4781b9a
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=11303763&tsum=9e8aae37c2078ee8d993db84c06c7167
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=15476638&tsum=f8050ab57573cbd53d995e353e4e2089
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=16120849&tsum=8000f915b0df0182c5e3d426c9ead31f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=15879021&tsum=027e52643398eda5ec4588b92fa33db7
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=14286844&tsum=c374121d4f52ee06d84d010cc847cd50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18662364&tsum=95a88df9d7cc3eff0658b161271ec8e2
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=10173618&tsum=a76fc3adbd4e14f006ba6b4574115b33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17137143&tsum=334e366adf6bf2abec9ff6d65e73f6e4
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13759573&tsum=54d66ae3cf5dc36ae2da983bcc5abdfe
+
 
