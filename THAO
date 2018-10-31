@@ -38,6 +38,8 @@ http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",FOX 3 [Asia]
 http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi63.tinypic.com/i3tqfl.jpg" group-title="SULUK IPTV️",SONY ESPN HD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/02.m3u8
@@ -462,6 +464,17 @@ http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9229.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPH8c06t/IP6.png" group-title="SPORTS 2",GR: OTE_SPORT_08
 http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9228.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Movies HD 007
+http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/1962
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Star Movies HD
+http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/2574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Movies HD
+http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Movies Action HD
+http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",OSN Movies Action 2 HD
+http://topiptv.net:5890/4gZqUsDfzc/f0NmlHWbDA/29
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",Bein Box Offİce 1 Hd
 http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/129.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",Bein Box Offİce 2 Hd
@@ -475,7 +488,7 @@ http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/131.ts
 http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/9764.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",Bein Movies Action 2 HD
 http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/3196.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",Bein  Moviemax Premier HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",Bein Moviemax Premier HD
 http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/130.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d17bNCQw/IP5.png" group-title="RELAX",D-smart Movie Premium HD
@@ -527,5 +540,13 @@ http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=14286844&tsum=c374121d4f52ee06
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=10173618&tsum=a76fc3adbd4e14f006ba6b4574115b33
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13759573&tsum=54d66ae3cf5dc36ae2da983bcc5abdfe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",Bein Sport 1 HD
+http://190.2.130.6:8080/BeinSport1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",Bein Sport 2 HD 
+http://190.2.130.6:8080/BeinSport2HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",Bein Sport 3 HD 
+http://190.2.130.6:8080/BeinSport3HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi66.tinypic.com/ofa7ih.jpg" group-title="TEMPORARY️",Bein Sport 4 HD 
+http://190.2.130.6:8080/BeinSport4HD/index.m3u8
 
 
