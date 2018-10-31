@@ -171,6 +171,16 @@ http://lihattv.com/?play=43254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/jim83c.jpg" group-title="INDONESIA️",TVRI SPORT
 http://lihattv.com/?play=43422
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",AR: BEUOT Q SPORT 1 HD
+http://e2.iudtv.org:8080/live/tura/123456/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",AR: BEUOT Q SPORT 2 HD
+http://e2.iudtv.org:8080/live/tura/123456/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",AR: BEUOT Q SPORT 3 HD
+http://e2.iudtv.org:8080/live/tura/123456/2482.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",AR: BEUOT Q SPORT 4 HD
+http://e2.iudtv.org:8080/live/tura/123456/2483.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",AR: BEUOT Q SPORT 5 HD
+http://e2.iudtv.org:8080/live/tura/123456/2484.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",NL: FOX SPORTS 1 HD
 http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8928.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORTS",NL: FOX SPORTS 2 
