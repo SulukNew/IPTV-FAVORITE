@@ -464,33 +464,35 @@ http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9229.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_08
 http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9228.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Box Offİce 1 Hd
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/129.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Box Offİce 2 Hd
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/128.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Box Offİce 3 Hd
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Star Movies HD
+http://194.88.107.101:6204/live/ali03/ali03/7697.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Star World HD
+http://194.88.107.101:6204/live/ali03/ali03/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies HD
+http://194.88.107.101:6204/live/ali03/ali03/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies Action HD
+http://194.88.107.101:6204/live/ali03/ali03/139.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",VIP Channel
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/131.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies Action HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/9764.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies Action 2 HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/3196.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Moviemax Premier HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/130.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",D-smart Movie Premium HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/1833.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",D-smart Movie Premium 2 HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/1839.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Nat Geo People HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/13998.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Discovery Science HD
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/16611.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Outdoor Channel
-http://formen1.com:8080/live/pIlDqiZqK9/6dF2Z97Yzo/16612.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN History HD
+http://194.88.107.101:6204/live/ali03/ali03/13029.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery HD
+http://194.88.107.101:6204/live/ali03/ali03/7701.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Science HD
+http://194.88.107.101:6204/live/ali03/ali03/1162.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Animal Planet HD
+http://194.88.107.101:6204/live/ali03/ali03/2587.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo HD
+http://194.88.107.101:6204/live/ali03/ali03/8999.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo Wild HD
+http://194.88.107.101:6204/live/ali03/ali03/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat People HD
+http://194.88.107.101:6204/live/ali03/ali03/2711.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nickelodeon HD
+http://194.88.107.101:6204/live/ali03/ali03/8998.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Disney HD
+http://194.88.107.101:6204/live/ali03/ali03/7703.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Disney Junior HD
+http://194.88.107.101:6204/live/ali03/ali03/7592.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies HD1
 http://194.88.107.101:6204/live/ali03/ali03/2151.ts
@@ -503,20 +505,20 @@ http://194.88.107.101:6204/live/ali03/ali03/2712.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Star Movies HD
 http://194.88.107.101:6204/live/ali03/ali03/7697.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN History HD
-http://194.88.107.101:6204/live/ali03/ali03/13029.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery HD
-http://194.88.107.101:6204/live/ali03/ali03/7701.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery SC HD
-http://194.88.107.101:6204/live/ali03/ali03/1162.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Animal Planet HD
-http://194.88.107.101:6204/live/ali03/ali03/2587.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo HD
-http://194.88.107.101:6204/live/ali03/ali03/8999.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo Wild HD
-http://194.88.107.101:6204/live/ali03/ali03/984.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat People HD
-http://194.88.107.101:6204/live/ali03/ali03/2711.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES ACTION HD
+http://194.88.107.101:6204/live/ali03/ali03/13159.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES ACTION 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/13160.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES COMEDY HD
+http://194.88.107.101:6204/live/ali03/ali03/13158.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES FAMILY HD
+http://194.88.107.101:6204/live/ali03/ali03/13157.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES FESTIVAL HD
+http://194.88.107.101:6204/live/ali03/ali03/13156.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES PREMIER HD
+http://194.88.107.101:6204/live/ali03/ali03/13155.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES STARS HD
+http://194.88.107.101:6204/live/ali03/ali03/13154.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES ACTION
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=15778718&tsum=14aaed29fdf378953bc702c9ceda3099
