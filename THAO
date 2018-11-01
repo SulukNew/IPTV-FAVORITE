@@ -131,11 +131,11 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI
-http://bit.do/RCTI_OKE
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI HD
 http://bit.do/SulukRCTI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",MNC
-http://bit.do/MNC_TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",INEWS
 http://edge.okezone.com/live/inewsokezone.com.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",GLOBALTV
@@ -150,8 +150,6 @@ http://rr2.dens.tv/s/s05/index1.m3u8
 http://rr2.dens.tv/s/s06/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",NET
-http://lihattv.com/?play=43396
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",KOMPAS TV
@@ -168,8 +166,6 @@ http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTV
-http://lihattv.com/?play=43254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",TVRI SPORT
 http://lihattv.com/?play=43422
 
@@ -197,17 +193,26 @@ http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:3C:C8:DB&uid=417
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:3C:C8:DB&uid=4171
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 1 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8928.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 2 
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8929.ts
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1439.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 2 HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1436.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 3 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/11706.ts
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1434.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 4 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8932.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 5
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/11707.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 6
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/8934.ts
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1433.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 5 HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1431.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: FOX SPORTS 6 HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1429.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: Ziggo Sport Golf HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1427.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: Ziggo Sport Racing
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1425.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: Ziggo Sport Select HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1424.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: Ziggo Sport Voetbal HD
+http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1422.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR: Bein Sport 1 HD
 http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6527.ts
