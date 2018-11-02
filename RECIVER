@@ -162,6 +162,13 @@ http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/46.ts
 #EXTINF:-1,Tring Sport 4 HD
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/47.ts
 
+#EXTINF:-1,CINEMAX
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=14300210&tsum=5934123eba3094d853bc971fb0dfc1b7
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12732571&tsum=8be2901d3a522d759caf7f2732a5c79b
+#EXTINF:-1,HBO HITZ
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12627261&tsum=a8e5a2b31a5983540e638df69158148e
+
 #EXTINF:-1,BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=11039798&tsum=ab3290af6d3bf95460e14e626ac9680e
 #EXTINF:-1,BEIN 2 TRUE VISION
