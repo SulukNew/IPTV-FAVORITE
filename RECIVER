@@ -13,6 +13,12 @@ http://iptv.hrnet.id:8888/live/hrnet/hrnet/4.ts
 http://hplusliveall.e96bbe18.sabai.vn/9cd83c8299b031d070e5cb5712ed06d31541141511/foxmovies-720p.stream/playlist.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1,&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
