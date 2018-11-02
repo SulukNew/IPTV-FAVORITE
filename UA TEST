@@ -32,6 +32,10 @@ http://2.primatv.club:8080/live/MEINTVnhs55/TFL1io0abn11/30.ts
 http://2.primatv.club:8080/live/MEINTVnhs55/TFL1io0abn11/92.ts
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Discovery-ID-HD
+http://2.primatv.club:8080/live/MEINTVnhs55/TFL1io0abn11/25.ts
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR_beIN-Movies-1HD
 http://2.primatv.club:8080/live/MEINTVnhs55/TFL1io0abn11/187.ts
 
