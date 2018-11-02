@@ -179,6 +179,16 @@ http://e2.iudtv.org:8080/live/tura/123456/2482.ts
 http://e2.iudtv.org:8080/live/tura/123456/2483.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 5 HD
 http://e2.iudtv.org:8080/live/tura/123456/2484.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 1 HD
+http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/60.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 2 HD
+http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/61.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 3 HD
+http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/62.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C8:DB&uid=4171
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",SKYNET 2
@@ -517,14 +527,12 @@ http://194.88.107.101:6204/live/ali03/ali03/13155.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES STARS HD
 http://194.88.107.101:6204/live/ali03/ali03/13154.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",CINEMAX
 http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=14300210&tsum=5934123eba3094d853bc971fb0dfc1b7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES PREMIUM
 http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12732571&tsum=8be2901d3a522d759caf7f2732a5c79b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
 http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12627261&tsum=a8e5a2b31a5983540e638df69158148e
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=11039798&tsum=ab3290af6d3bf95460e14e626ac9680e
