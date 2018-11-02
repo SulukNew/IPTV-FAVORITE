@@ -15,14 +15,12 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",HBO TRANSVISION
 http://bit.ly/SulukHBO2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIE HTV
-http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
+http://hplusliveall.e96bbe18.sabai.vn/9cd83c8299b031d070e5cb5712ed06d31541141511/foxmovies-720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY MOVIES
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",HBO FHD [FPT]
-http://streams.iptv.zone/p/354817/c/265/u/89117/23Mu0wPzF04G1BERRjDFCWw2uUsd3W
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",&PRIVE HD
@@ -215,14 +213,6 @@ http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1425.ts
 http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1424.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",NL: Ziggo Sport Voetbal HD
 http://solking.pro:8080/live/dave.pain@hotmail.co.uk/Mh2j4bpr2W/1422.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR: Bein Sport 1 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6527.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR: Bein sport 2 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6528.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR: Bein Sport 3 HD
-http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6529.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR: Bein sport2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",Bein Sport HD1 720P
 http://194.88.107.101:6204/live/ali03/ali03/9022.ts
@@ -527,28 +517,23 @@ http://194.88.107.101:6204/live/ali03/ali03/13155.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES STARS HD
 http://194.88.107.101:6204/live/ali03/ali03/13154.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=17519731&tsum=53846e00a75b4b6680aefb51f249127e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=14336487&tsum=1ac87a2c0c3eb64f6309f8af0a2298d7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=18289913&tsum=150d4532b4af54abb52dede16cab3803
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=16727169&tsum=40d6c4e5a3cc4e2489bfbc37934cb55c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=14771461&tsum=32e574661a9c38352aba5bcec069ebee
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=15958218&tsum=6bcbc7d966ad4b7a307dcc73cf00821a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=14364573&tsum=cdb98ad7aa8ec0713115792157202c0e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=11981451&tsum=d0fbd5f88d00072a5cd9d30350eedfca
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",Bein Sport 1 HD
-http://190.2.130.6:8080/BeinSport1HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",Bein Sport 2 HD 
-http://190.2.130.6:8080/BeinSport2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",Bein Sport 3 HD 
-http://190.2.130.6:8080/BeinSport3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",Bein Sport 4 HD 
-http://190.2.130.6:8080/BeinSport4HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",CINEMAX
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=14300210&tsum=5934123eba3094d853bc971fb0dfc1b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES PREMIUM
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12732571&tsum=8be2901d3a522d759caf7f2732a5c79b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12627261&tsum=a8e5a2b31a5983540e638df69158148e
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,BEIN 1 TRUE VISION
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=11039798&tsum=ab3290af6d3bf95460e14e626ac9680e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,BEIN 2 TRUE VISION
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=16048847&tsum=bb4abc4ce10e55134124c9d4b33138f8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,BEIN 3 TRUE VISION
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=15964816&tsum=9e447aab14e056f7bd5c407203fe39d3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,BEIN 4 TRUE VISION
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13741629&tsum=6d0be09c65c7557137faff84cce770c8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",#EXTINF:-1,SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18192306&tsum=45a94facedc0da67e29fe43733826128
+
