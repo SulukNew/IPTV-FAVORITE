@@ -188,13 +188,11 @@ http://e2.iudtv.org:8080/live/tura/123456/2483.ts
 http://e2.iudtv.org:8080/live/tura/123456/2484.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 1 HD
-http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/60.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://e2.iudtv.org:8080/live/tura/123456/381.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 2 HD
-http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/61.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://e2.iudtv.org:8080/live/tura/123456/382.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 3 HD
-http://2.primatv.club:8080/live/RMD1055xpsd/25X110zaudfb/62.ts
+http://e2.iudtv.org:8080/live/tura/123456/383.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C8:DB&uid=4171
