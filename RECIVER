@@ -179,3 +179,13 @@ http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=15964816&tsum=9e447aab14e056f7
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13741629&tsum=6d0be09c65c7557137faff84cce770c8
 #EXTINF:-1,SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18192306&tsum=45a94facedc0da67e29fe43733826128
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR_RMC SPORT 1 HD
+http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/60.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR_RMC SPORT 2 HD
+http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/61.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR_RMC SPORT 3 HD
+http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/62.ts
