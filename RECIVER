@@ -1,11 +1,12 @@
+#EXTM3U
+#EXTINF:-1,SULUK INTRO
+http://bit.ly/2MMn4Uf
 #EXTINF:-1,INTRO UCL
 https://bit.ly/2NUDl5P
 #EXTINF:-1,CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1,BALKANIKA
-http://31.41.20.14:4054
-#EXTINF:-1,FOX 2 INDO
-http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,HBO HD
+http://iptv.hrnet.id:8888/live/hrnet/hrnet/4.ts
 #EXTINF:-1,FOX MOVIE HTV
 http://hplusliveall.e96bbe18.sabai.vn/9cd83c8299b031d070e5cb5712ed06d31541141511/foxmovies-720p.stream/playlist.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
@@ -24,6 +25,8 @@ http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c
 #EXTINF:-1,FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 #EXTINF:-1,SONY ESPN HD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/02.m3u8
 #EXTINF:-1,SONY SIX HD
@@ -34,6 +37,8 @@ http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:-1,SONY TEN 3 HD
 http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/02.m3u8
+#EXTINF:-1,FOX 2 INDO
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
 #EXTINF:-1,True Sport HD1
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
@@ -83,7 +88,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 #EXTINF:-1,Fox Sports Racing US
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1,NBCSN
-http://bit.do/Suluk_nbcsn
+http://23.237.22.82:8086/udp/127.0.0.1:56016
 #EXTINF:-1,ARENA SPORT 1
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,ARENA SPORT 2
@@ -180,12 +185,3 @@ http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=13741629&tsum=6d0be09c65c75571
 #EXTINF:-1,SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18192306&tsum=45a94facedc0da67e29fe43733826128
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FR_RMC SPORT 1 HD
-http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/60.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FR_RMC SPORT 2 HD
-http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/61.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FR_RMC SPORT 3 HD
-http://2.primatv.club:8080/live/FREE100hskd55/vKca100Ukjs11/62.ts
