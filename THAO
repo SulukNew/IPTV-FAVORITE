@@ -451,30 +451,38 @@ http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12317.ts
 http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12288.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: EirSport 2/Premier Sports
 http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12287.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: BT Sport 1 HD
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12301.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: BT Sport 2 HD
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12297.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: BT Sport 3 HD
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12293.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: BT Sport/ESPN
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/12290.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_01
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9235.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_02
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9234.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_03
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9233.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_04
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9232.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_05
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9231.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_06
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9230.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_07
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9229.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",GR: OTE_SPORT_08
-http://bfcnew.ddns.net:8000/live/GTnD4QtrUs/9Dy9T0KflG/9228.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sports 1
+http://rb-group-server.com:25461/yassine/yassine/4777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sports 2
+http://rb-group-server.com:25461/yassine/yassine/4776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sports 3
+http://rb-group-server.com:25461/yassine/yassine/4775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sport Extra_2
+http://rb-group-server.com:25461/yassine/yassine/4745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sport Extra 3
+http://rb-group-server.com:25461/yassine/yassine/4744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sport Extra 4
+http://rb-group-server.com:25461/yassine/yassine/4743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",BT Sport ESPN
+http://rb-group-server.com:25461/yassine/yassine/4742
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 1
+http://rb-group-server.com:25461/yassine/yassine/4999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 2
+http://rb-group-server.com:25461/yassine/yassine/4998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 3
+http://rb-group-server.com:25461/yassine/yassine/4997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 4
+http://rb-group-server.com:25461/yassine/yassine/4996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 5
+http://rb-group-server.com:25461/yassine/yassine/4995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 6 HD
+http://rb-group-server.com:25461/yassine/yassine/4994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Ote Sport 7
+http://rb-group-server.com:25461/yassine/yassine/4993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OTE Sport 8 HD
+http://rb-group-server.com:25461/yassine/yassine/4992
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Star Movies HD
 http://194.88.107.101:6204/live/ali03/ali03/7697.ts
@@ -550,7 +558,7 @@ http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=16999376&tsum=618e01a122a0628d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 2 TRUE VISION
 http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=17371727&tsum=ee556b3763805871e8d0a1e28a59c866
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=18132679&tsum=b0d9fdc7f65463498316b1afe9e5e6f
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=15240018&tsum=cb3ea420c326fc185343e4af45fd562e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 4 TRUE VISION
 http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=14260501&tsum=961b38e71cd7d425dbf02eb3ff31437b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",SKYNET HD
