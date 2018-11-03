@@ -176,23 +176,26 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",TVRI SPORT
 http://lihattv.com/?play=43422
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 1 HD
-http://e2.iudtv.org:8080/live/tura/123456/171.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 2 HD
-http://e2.iudtv.org:8080/live/tura/123456/174.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 3 HD
-http://e2.iudtv.org:8080/live/tura/123456/2482.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 4 HD
-http://e2.iudtv.org:8080/live/tura/123456/2483.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR: BEUOT Q SPORT 5 HD
-http://e2.iudtv.org:8080/live/tura/123456/2484.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 1 HD
-http://e2.iudtv.org:8080/live/tura/123456/381.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 2 HD
-http://e2.iudtv.org:8080/live/tura/123456/382.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",FR_RMC SPORT 3 HD
-http://e2.iudtv.org:8080/live/tura/123456/383.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 1
+http://nasaiptv.com:8000/live/Giz/Giz123/23545.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 2
+http://nasaiptv.com:8000/live/Giz/Giz123/23544.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 3
+http://nasaiptv.com:8000/live/Giz/Giz123/23543.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 4
+http://nasaiptv.com:8000/live/Giz/Giz123/23542.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 5
+http://nasaiptv.com:8000/live/Giz/Giz123/23541.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 6
+http://nasaiptv.com:8000/live/Giz/Giz123/23540.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 7
+http://nasaiptv.com:8000/live/Giz/Giz123/23539.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 8
+http://nasaiptv.com:8000/live/Giz/Giz123/23538.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 9
+http://nasaiptv.com:8000/live/Giz/Giz123/23537.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BeoutQ 10
+http://nasaiptv.com:8000/live/Giz/Giz123/23536.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:3C:C8:DB&uid=4171
