@@ -10,7 +10,7 @@ http://58.238.195.61:9981/stream/channelid/1279361599?ticket=DB42ABDE69F2EBB192A
 #EXTINF:-1,HBO HD
 http://bit.ly/SulukHBO2
 #EXTINF:-1,FOX MOVIE HTV
-http://hplusliveall.e96bbe18.sabai.vn/9cd83c8299b031d070e5cb5712ed06d31541141511/foxmovies-720p.stream/playlist.m3u8
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 #EXTINF:-1,THRILL
