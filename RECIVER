@@ -33,6 +33,25 @@ http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c
 #EXTINF:-1,FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
+#EXTINF:-1,FOX ACTION MOVIES
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/99
+#EXTINF:-1,FOX MOVIES
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/98
+#EXTINF:-1,HBO HITZ HD
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/591
+#EXTINF:-1,HBO FAMILY
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/592
+#EXTINF:-1,CINEMAX
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/796
+#EXTINF:-1,NAT GEO WILD
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/97
+#EXTINF:-1,GINX SPORT
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/532
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/165
+#EXTINF:-1,ANIMAL PLANET
+http://tvku.live:8888/kardiiptv/pBdqdDm5vn/358
+
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 #EXTINF:-1,SONY ESPN HD
