@@ -405,6 +405,8 @@ http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=16840725&tsum=d1d4f0db888426aa
 http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13928687&tsum=baed69db92ac3f00ff124522b63371a0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
 http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=13761789&tsum=6c17d68d4b2773342bc50ab05c94112e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=17273387&tsum=ab09d84d84b12cb74ca759bc3ba44980
