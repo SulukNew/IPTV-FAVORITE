@@ -47,7 +47,7 @@ http://180.183.53.229:9981/stream/channelid/654276182?ticket=c3324fbf0693baced85
 http://180.183.53.229:9981/stream/channelid/1067136145?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX SP.3 [Asia]
 http://180.183.53.229:9981/stream/channelid/1199508432?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️"FOX SP.3 HD [TW]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX SP.3 HD [TW]
 http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
