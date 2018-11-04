@@ -417,12 +417,12 @@ http://194.88.107.101:6204/live/ali03/ali03/13155.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Tr- beIN MOVIES STARS HD
 http://194.88.107.101:6204/live/ali03/ali03/13154.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",CINEMAX
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=16840725&tsum=d1d4f0db888426aaa270e2983e0377fb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13928687&tsum=baed69db92ac3f00ff124522b63371a0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=13761789&tsum=6c17d68d4b2773342bc50ab05c94112e
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=16467709&tsum=e470ae509a45bcb82f09c07694509dc2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES ACTION
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=13949155&tsum=7eeb71999ff607312c4b3775f9fdb324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",CINEMAX
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=13193670&tsum=cf2560818b701b2f6176655bcb93c208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
