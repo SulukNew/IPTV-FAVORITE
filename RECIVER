@@ -31,12 +31,30 @@ http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c
 #EXTINF:-1,FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
+#EXTINF:-1,SONY LE PLEX FHD
+http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/04.m3u8
+#EXTINF:-1,SONY PIX FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+
 #EXTINF:-1,FOX SPORT 1 [True] 
 http://180.183.53.229:9981/stream/channelid/654276182?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
 #EXTINF:-1,FOX SPORT 2 [True]
 http://180.183.53.229:9981/stream/channelid/1067136145?ticket=6c2776dd5d1f13e7443425dcc4e22035d11b457c&profile=pass
 #EXTINF:-1,FOX SPORT 3 [True]
 http://180.183.53.229:9981/stream/channelid/1199508432?ticket=131ea070b271d292570eea770d4dc17568293c5c&profile=pass
+
+#EXTINF:-1,SONY ESPN FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
+#EXTINF:-1,SONY SIX FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/04.m3u8
+#EXTINF:-1,SONY TEN 1 FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:-1,SONY TEN 2 FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
+#EXTINF:-1,SONY TEN 3 FHD
+http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,D SPORT FHD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
 
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
@@ -165,22 +183,26 @@ http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w202
 #EXTINF:-1,NAT. GEO WILD
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 
-#EXTINF:-1,CINEMAX
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=16840725&tsum=d1d4f0db888426aaa270e2983e0377fb
+#EXTINF:-1,FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1,FOX MOVIES ACTION
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=10460793&tsum=6647fce67b34a724020a1e69b16fba3c
 #EXTINF:-1,FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13928687&tsum=baed69db92ac3f00ff124522b63371a0
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=17140889&tsum=c3d31cc21685db8042d27fa5022dfe3d
 #EXTINF:-1,HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=13761789&tsum=6c17d68d4b2773342bc50ab05c94112e
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=16976832&tsum=1f8603e8d5bec4619537df6a3253dc7e
+#EXTINF:-1,CINEMAX
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10194737&tsum=5bfe78f957e27bf6c2b099896fa518ec
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=17273387&tsum=ab09d84d84b12cb74ca759bc3ba44980
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13980930&tsum=d1d56f00822ea341a8840d0f491f12fa
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=12779990&tsum=c46561ace53d90916d1095ad3592024b
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=16228124&tsum=477a16655cbbfd6848a27af31cde7fca
 #EXTINF:-1,BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=17827044&tsum=0461a9a6296734b25a146521a5e19939
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12339182&tsum=d13a92a72d724f9c80a1ae12998e7559
 #EXTINF:-1,BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=16075095&tsum=68bbfc6e1d59555b29a7bddfc7e205e5
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18441759&tsum=f84f53f05f78ec70cf7cd91dea0b5fb1
 #EXTINF:-1,SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18261879&tsum=3366323ef9c4530de380483dbf6b4e04
-
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15655852&tsum=51156646f20afecf8b0c2725aa17da25
 
