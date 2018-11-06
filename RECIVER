@@ -18,6 +18,21 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
+#EXTINF:-1,FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,&PRIVE HD
@@ -187,22 +202,22 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1,FOX MOVIES ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=10460793&tsum=6647fce67b34a724020a1e69b16fba3c
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=15406894&tsum=7d8fd8afeac9479003c76286c6371144
 #EXTINF:-1,FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=17140889&tsum=c3d31cc21685db8042d27fa5022dfe3d
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13054610&tsum=6e80bbd1760e824b3d5206a5d4fa17fd
 #EXTINF:-1,HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=16976832&tsum=1f8603e8d5bec4619537df6a3253dc7e
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=18520607&tsum=e51f1d5c083cba3cee51431feeb313f4
 #EXTINF:-1,CINEMAX
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10194737&tsum=5bfe78f957e27bf6c2b099896fa518ec
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=13460952&tsum=ed2481d894cfc00861a7b0d8696db5e3
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13980930&tsum=d1d56f00822ea341a8840d0f491f12fa
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=15140776&tsum=a9f050a96f6fc8c898a948770bb34b2c
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=16228124&tsum=477a16655cbbfd6848a27af31cde7fca
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=17993867&tsum=2d22c777576427516e36a7402939155b
 #EXTINF:-1,BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=12339182&tsum=d13a92a72d724f9c80a1ae12998e7559
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=13621483&tsum=6bc83d981a5abca139eca78cbfb1aa9d
 #EXTINF:-1,BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18441759&tsum=f84f53f05f78ec70cf7cd91dea0b5fb1
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18387641&tsum=a4b778052bd4a4fe0a344696e8e2c0a4
 #EXTINF:-1,SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15655852&tsum=51156646f20afecf8b0c2725aa17da25
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=12107896&tsum=0ee9eb6241b0e888c46f624ca514e0d6
 
