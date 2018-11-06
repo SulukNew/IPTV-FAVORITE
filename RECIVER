@@ -36,12 +36,14 @@ http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c4
 #EXTINF:-1,SONY PIX FHD
 http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
-#EXTINF:-1,FOX SPORT 1 [True] 
-http://180.183.53.229:9981/stream/channelid/654276182?ticket=c3324fbf0693baced85e28766171b1b024266e22&profile=pass
-#EXTINF:-1,FOX SPORT 2 [True]
-http://180.183.53.229:9981/stream/channelid/1067136145?ticket=6c2776dd5d1f13e7443425dcc4e22035d11b457c&profile=pass
-#EXTINF:-1,FOX SPORT 3 [True]
-http://180.183.53.229:9981/stream/channelid/1199508432?ticket=131ea070b271d292570eea770d4dc17568293c5c&profile=pass
+#EXTINF:-1,FOX-SPORTS-HD [VT]
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX 2 [Asia]
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,FOX 3 [Asia]
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,FOX SP.3 HD [TW]
+http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 
 #EXTINF:-1,SONY ESPN FHD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
@@ -130,8 +132,6 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:-1,CCTV 5+
 http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
-#EXTINF:-1,FOX 3 HD (TW)
-http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 
 #EXTINF:-1,BeIN Sports 1 HD
 http://163.172.211.229:8000/live/beinsp/beinap/763.ts
