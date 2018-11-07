@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️",SULUK INTRO
 http://bit.ly/2MMn4Uf
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SULUK YNWA
+https://bit.ly/2NX1Jny
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",LFC TV
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/440.ts
@@ -13,9 +15,48 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",TR : Turkish Bein Sports 1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2127.ts
 
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Star Sports 1
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/115.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 1 HD
+http://51.15.3.71:8000/live/albi322/kanale666/98.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 2 HD
+http://51.15.3.71:8000/live/albi322/kanale666/99.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 3 HD
+http://51.15.3.71:8000/live/albi322/kanale666/100.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 4 HD
+http://51.15.3.71:8000/live/albi322/kanale666/101.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 5 HD
+http://51.15.3.71:8000/live/albi322/kanale666/102.ts
+
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 1 HR
+http://51.15.3.71:8000/live/albi322/kanale666/90.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 2 HR
+http://51.15.3.71:8000/live/albi322/kanale666/91.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 3 HR
+http://51.15.3.71:8000/live/albi322/kanale666/92.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 4 HR
+http://51.15.3.71:8000/live/albi322/kanale666/93.ts
+
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 1
+http://51.15.3.71:8000/live/albi322/kanale666/94.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 2
+http://51.15.3.71:8000/live/albi322/kanale666/95.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 3
+http://51.15.3.71:8000/live/albi322/kanale666/96.ts
+#EXTVLCOPT:http-user-agent=98sdhucl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 4
+http://51.15.3.71:8000/live/albi322/kanale666/97.ts
+
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Eir Sports1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts
@@ -32,6 +73,8 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/88.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport Klub 3 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/89.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SPORTS",PT_SPORT_TV_1_HD
+http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/29.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport TV2 [PT]
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/8.ts
@@ -48,7 +91,15 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/4.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Fox Sports 3 HD NL
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3.ts
-
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Fox Sports 4 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Fox Sports 5 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Ten Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2564.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PTV Sports
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/147.ts
@@ -61,4 +112,26 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/93.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sky Sport 3 HD Italy
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/10.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sky Sport 24 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/11.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sky Sport 2 HD Deutch Germany
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/59.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sky Bundesliga HD1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/60.ts
+
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/351.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/352.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 4 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
 
