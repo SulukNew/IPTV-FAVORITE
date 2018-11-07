@@ -63,15 +63,6 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Eir Sports2
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/850.ts
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport Klub 1 HD
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/87.ts
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport Klub 2 HD
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/88.ts
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport Klub 3 HD
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/89.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport TV1 [PT]
 http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/29.ts
