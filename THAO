@@ -239,6 +239,23 @@ http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",RO_DIGI_Sport_4_HD
 http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/37.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 1 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 2 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/292.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 3 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 4 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 5 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 6 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 7 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 8 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/298.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",beINSPORTS-1HD-Fr
 http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/50.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",beINSPORTS-2HD-Fr
