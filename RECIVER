@@ -202,16 +202,16 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1,FOX MOVIES ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=10024962&tsum=44b666922197a20b8f3c47a9f12dee4e
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18941732&tsum=2bcbb27635cd1350ca40fe71373f8f8d
 #EXTINF:-1,FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=15897129&tsum=76b8ba9b7ca2a64f9b739081c4275b43
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=10719404&tsum=32aa14a3d1ce678c22c8a13833bf07ea
 #EXTINF:-1,HBO HITZ
 http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12269380&tsum=ce5bf714cd8cefee065540f5ac84b57b
 #EXTINF:-1,CINEMAX
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=17994424&tsum=3778f2f48d2c976b4ad41631debad033
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=16619990&tsum=20b0218c742f4c4f8b431f58066c4447
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13641896&tsum=bc9faf2e4ce82304fc77d2cee4b77081 
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=18548279&tsum=90bfa6b0891496fbae8d1d69d7589637
 #EXTINF:-1,BEIN 2 TRUE VISION
 http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=11548016&tsum=81464977043496ea3a3c10a5b4189bd2
 #EXTINF:-1,BEIN 3 TRUE VISION
