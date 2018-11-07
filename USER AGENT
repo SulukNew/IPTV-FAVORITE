@@ -12,7 +12,7 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/440.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Sports USA
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",TR : Turkish Bein Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",TR: Bein Sports 1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2127.ts
 
 #EXTVLCOPT:http-user-agent=98sdhucl
