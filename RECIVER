@@ -201,26 +201,25 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 #EXTINF:-1,FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1,FOX HD
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/4.ts
-#EXTINF:-1,Cinemax HD
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2053.ts
-#EXTINF:-1,Fox Movies Premium HD
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2.ts
-#EXTINF:-1,Fox Action Movies HD
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/3.ts
+#EXTINF:-1,FOX MOVIES ACTION
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=10024962&tsum=44b666922197a20b8f3c47a9f12dee4e
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=15897129&tsum=76b8ba9b7ca2a64f9b739081c4275b43
+#EXTINF:-1,HBO HITZ
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12269380&tsum=ce5bf714cd8cefee065540f5ac84b57b
+#EXTINF:-1,CINEMAX
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=17994424&tsum=3778f2f48d2c976b4ad41631debad033
 
-#EXTINF:-1,Skynet Sport 1
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2010.ts
-#EXTINF:-1,Skynet Sport 2
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2011.ts
-#EXTINF:-1,Skynet Sport 3
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2012.ts
-#EXTINF:-1,Skynet Sport 4
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2013.ts
-#EXTINF:-1,Skynet Sport 5
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2014.ts
-#EXTINF:-1,Skynet Sport 6
-http://iwakpeyek.dnsquu.com:8118/live/21NNfEAxMa/PUU0pL4MI9/2015.ts
+#EXTINF:-1,BEIN 1 TRUE VISION
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=13641896&tsum=bc9faf2e4ce82304fc77d2cee4b77081 
+#EXTINF:-1,BEIN 2 TRUE VISION
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=11548016&tsum=81464977043496ea3a3c10a5b4189bd2
+#EXTINF:-1,BEIN 3 TRUE VISION
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=11575586&tsum=d588daef3ef00110edc1a41519a2b10e
+#EXTINF:-1,BEIN 4 TRUE VISION
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18086136&tsum=d1f9a3e1bb87cc08b26533c61d5cb793
+#EXTINF:-1,SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15631089&tsum=0352918ed9ec6c6e62e8a2d866182131
+
 
 
