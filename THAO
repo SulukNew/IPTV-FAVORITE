@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️",JUST INFO
-http://bit.ly/2SK80pm
+https://uce616604be653315d3e6582e02e.dl.dropboxusercontent.com/cd/0/get/AVHf6WMUG8FpHaFwWpUDMoCr6set9AfE1dEwe1NbP8SgtZxiBSwNKTB0giJwGeYnFH8f2Zat1vWwVkU_vxKrmZu47GHyI-6ORZ6RYpu8CV8lu5KorxcWnoaH1TGvIw-_Fr9uNuvBEj9FyGRO3yCzc2tuF7nTpAlQ-3MXRbYsGZIAsL9cRVfZvyyZfFUwaO3pDzA/file?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️",SULUK INTRO
-http://bit.ly/2MMn4Uf
+https://ucdea283366decafb19f638397b4.dl.dropboxusercontent.com/cd/0/get/AVHyQBjYM-4oeGQ4qjhoTIqAuI8eKFNDgOv_eo_XaKWLcPKLiPSAW9mvFxQWcVx1wE9gH0-Qo0n3h00654EEqDCr0GeOY60aWIZALD1Dh8oA3ysR1y7BCpftpOiVbaW3aCafSD0rPWuYPUexdMfbJMyHdscBvvzHXcTUau-Qok-wQ5GxcohGLAHAIwJvk9Dasz4/file?dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",INTRO UCL
-https://bit.ly/2NUDl5P
+https://uce1d66e7846e3bb4c68a81151c4.dl.dropboxusercontent.com/cd/0/get/AVG3s4gyRoBYhZ0QAIHLAc_qf-855Is0T0R53jVh7foOwdn5WuJrBMh6R-kz6oal-W_tncgjealnoTj1y2ARqdwF1Wh39_D3PC08VWMVei4h9gXS7b-Ej9RztarTc08zRvFDuehJxhjZy4qjetyaRyLKi62MZ5w8p6CveChIm4A14qQUH0TzeF7B2h6wo79VUrY/file?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",i CONCERT HD
@@ -18,7 +18,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",HBO TRANSVISION
-http://bit.ly/SulukHBO2
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIE
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIES ACTION HTV
@@ -165,7 +165,7 @@ http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc78
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI HD
-http://bit.do/SulukRCTI
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",MNC
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",INEWS
