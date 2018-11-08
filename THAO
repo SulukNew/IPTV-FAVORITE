@@ -356,23 +356,24 @@ http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/193.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18941732&tsum=2bcbb27635cd1350ca40fe71373f8f8d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=10719404&tsum=32aa14a3d1ce678c22c8a13833bf07ea
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=12269380&tsum=ce5bf714cd8cefee065540f5ac84b57b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",CINEMAX
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=16619990&tsum=20b0218c742f4c4f8b431f58066c4447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",FOX MOVIES ACTION
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=12366048&tsum=9dd6efdf5d611eab52e218856725137b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",FOX MOVIES PREMIUM
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=18926697&tsum=044f3c719b4e985262c5f5df94f2b38a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",HBO HITZ
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=10954717&tsum=1347058ff0d7ac7c0376cc10683f78d4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",CINEMAX
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10305619&tsum=c0a7944dbc3abc7093d6ccead1e93fe6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=18548279&tsum=90bfa6b0891496fbae8d1d69d7589637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=11548016&tsum=81464977043496ea3a3c10a5b4189bd2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=11575586&tsum=d588daef3ef00110edc1a41519a2b10e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=18086136&tsum=d1f9a3e1bb87cc08b26533c61d5cb793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY️",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15631089&tsum=0352918ed9ec6c6e62e8a2d866182131
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12852798&tsum=11e40623ecb08edb7503be821ea722b6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 2 TRUE VISION
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=13650594&tsum=b4a4bfdb1c7c333a7ca22fca75e347e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 3 TRUE VISION
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=11055771&tsum=89d5c4ca3b7b716c9a31d3331ce89410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 4 TRUE VISION
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=12338181&tsum=b037bb393420b2d89f09eadff22cd1d8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18374118&tsum=d4b401c84cae392296d5f1a16afc635b
 
