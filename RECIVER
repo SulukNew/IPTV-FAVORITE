@@ -148,30 +148,30 @@ http://46.40.5.99:8000/arena_4_high
 #EXTINF:-1,CCTV 5+
 http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
 
-#EXTINF:-1,BeinSPORTS 1HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/1.ts
-#EXTINF:-1,BeinSPORTS 2HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/2.ts
-#EXTINF:-1,BeinSPORTS 3HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/3.ts
-#EXTINF:-1,BeinSPORTS 4HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/4.ts
-#EXTINF:-1,BeinSPORTS 5HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/5.ts
-#EXTINF:-1,BeinSPORTS 6HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/6.ts
-#EXTINF:-1,BeinSPORTS 7HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/7.ts
-#EXTINF:-1,BeinSPORTS 8HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/8.ts
-#EXTINF:-1,BeinSPORTS 9HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/9.ts
-#EXTINF:-1,BeinSPORTS 10HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/10.ts
-#EXTINF:-1,BeinSPORTS 11HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/11.ts
-#EXTINF:-1,BeinSPORTS 12HD [ AR ]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/12.ts
+#EXTINF:-1,beIN 1 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/21.ts
+#EXTINF:-1,beIN 2 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/22.ts
+#EXTINF:-1,beIN 3 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/23.ts
+#EXTINF:-1,beIN 4 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/24.ts
+#EXTINF:-1,beIN 5 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/25.ts
+#EXTINF:-1,beIN 6 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/26.ts
+#EXTINF:-1,beIN 7 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/27.ts
+#EXTINF:-1,beIN 8 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/28.ts
+#EXTINF:-1,beIN 9 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/29.ts
+#EXTINF:-1,beIN 10 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/30.ts
+#EXTINF:-1,beIN 11 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/31.ts
+#EXTINF:-1,beIN 12 HD
+http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/32.ts
 
 #EXTINF:-1,Super SPORT 1 HD
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/48.ts
@@ -214,7 +214,7 @@ http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10305619&tsum=c0a7944dbc3abc70
 #EXTINF:-1,BEIN 1 TRUE VISION
 http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12852798&tsum=11e40623ecb08edb7503be821ea722b6
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=13650594&tsum=b4a4bfdb1c7c333a7ca22fca75e347e
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=13598427&tsum=e174e86417f0bdc6ba2c657dd9b19029
 #EXTINF:-1,BEIN 3 TRUE VISION
 http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=11055771&tsum=89d5c4ca3b7b716c9a31d3331ce89410
 #EXTINF:-1,BEIN 4 TRUE VISION
