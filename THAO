@@ -263,7 +263,6 @@ http://appleiptv.com:8080/live/ferruh@/turkbro!/16.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",UK: EUROSPORTS 1 HD
 http://appleiptv.com:8080/live/ferruh@/turkbro!/17.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 1 HD
 http://173.249.53.3:8000/live/itgrtest/grtest1/291.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 2 HD
@@ -280,6 +279,27 @@ http://173.249.53.3:8000/live/itgrtest/grtest1/296.ts
 http://173.249.53.3:8000/live/itgrtest/grtest1/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",[GR] OTE SPORT 8 HD
 http://173.249.53.3:8000/live/itgrtest/grtest1/298.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD1
+http://topiptv.net:5890/55555/55555/11141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD2
+http://topiptv.net:5890/55555/55555/11142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD3
+http://topiptv.net:5890/55555/55555/11143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD4
+http://topiptv.net:5890/55555/55555/11144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD5
+http://topiptv.net:5890/55555/55555/11145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD6
+http://topiptv.net:5890/55555/55555/11146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD7
+http://topiptv.net:5890/55555/55555/12501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD8
+http://topiptv.net:5890/55555/55555/11934
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD9
+http://topiptv.net:5890/55555/55555/11929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD10
+http://topiptv.net:5890/55555/55555/11928
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: MOTOR SPORT TV
 http://appleiptv.com:8080/live/ferruh@/turkbro!/4.ts
@@ -300,7 +320,6 @@ http://appleiptv.com:8080/live/ferruh@/turkbro!/6220.ts
 http://appleiptv.com:8080/live/ferruh@/turkbro!/6219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",USA: TSN 5
 http://appleiptv.com:8080/live/ferruh@/turkbro!/6218.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",TR: BeIN Sport 1
 http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/1084.ts
