@@ -201,23 +201,22 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 #EXTINF:-1,FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1,FOX MOVIES ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=12366048&tsum=9dd6efdf5d611eab52e218856725137b
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=18926697&tsum=044f3c719b4e985262c5f5df94f2b38a
-#EXTINF:-1,HBO HITZ
-http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=10954717&tsum=1347058ff0d7ac7c0376cc10683f78d4
-#EXTINF:-1,CINEMAX
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10305619&tsum=c0a7944dbc3abc7093d6ccead1e93fe6
-
-
-#EXTINF:-1,BEIN 1 TRUE VISION
-http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=12852798&tsum=11e40623ecb08edb7503be821ea722b6
-#EXTINF:-1,BEIN 2 TRUE VISION
-http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=13598427&tsum=e174e86417f0bdc6ba2c657dd9b19029
-#EXTINF:-1,BEIN 3 TRUE VISION
-http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=11055771&tsum=89d5c4ca3b7b716c9a31d3331ce89410
-#EXTINF:-1,BEIN 4 TRUE VISION
-http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=12338181&tsum=b037bb393420b2d89f09eadff22cd1d8
+#EXTINF:-1,BEIN 1 HD [TRUEVIS]
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=13359783&tsum=6e81f685ac8b6b13e5e5ad9ff14285f9
+#EXTINF:-1,BEIN 2 HD [TRUEVIS]
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a8179e9812bee9a057269
+#EXTINF:-1,BEIN 3 HD [TRUEVIS]
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=10484473&tsum=c23614d3d6b63718ef03f2d5ac7b4210
+#EXTINF:-1,BEIN 4 HD [TRUEVIS]
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=13411863&tsum=826b1706c7c4b8eb3ed4f92e12ff0b71
 #EXTINF:-1,SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18374118&tsum=d4b401c84cae392296d5f1a16afc635b
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16005943&tsum=82e4028edf830c2594402898b869da52
+
+#EXTINF:-1,HBO HD
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=12796556&tsum=891d1d6ebadabf1a0b9f6ae67a9adffc
+#EXTINF:-1,HBO HITS HD
+http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=10389882&tsum=2cbc31b429b1a1282a6599fde20a9d9b
+#EXTINF:-1,FOX MOVIE HD
+http://50.7.161.82:8278//Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
+#EXTINF:-1,CINEMAX
+http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=16775926&tsum=0faf51acb07124ac7917a0bc6dcce95b
