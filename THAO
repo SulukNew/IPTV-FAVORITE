@@ -49,7 +49,6 @@ http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY PIX FHD
 http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX-SPORTS-HD [VT]
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX 2 [Asia]
@@ -301,10 +300,10 @@ http://topiptv.net:5890/55555/55555/11929
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Beout Q Sports HD10
 http://topiptv.net:5890/55555/55555/11928
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: MOTOR SPORT TV
-http://appleiptv.com:8080/live/ferruh@/turkbro!/4.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: PREMIER SPORT
-http://appleiptv.com:8080/live/ferruh@/turkbro!/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",SKY Sport Moto GP
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/1932.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",SKY Sport F1
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/1931.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: RACING UK
 http://appleiptv.com:8080/live/ferruh@/turkbro!/1.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK: SETANTA SPORTS
@@ -336,36 +335,31 @@ http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/738.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",DE: SKY SPORT 2 HD
 http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/739.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OSN Ten Cricket HD
-http://194.88.107.101:6204/live/jian/jian/11004.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OSN Sports Action 1 HD
-http://194.88.107.101:6204/live/jian/jian/13449.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",OSN Sports Action 2 HD
-http://194.88.107.101:6204/live/jian/jian/13448.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky BT Sports Extra 1
-http://194.88.107.101:6204/live/jian/jian/8581.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky BT Sports Extra 2
-http://194.88.107.101:6204/live/jian/jian/8579.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky BT Sports Extra 3
-http://194.88.107.101:6204/live/jian/jian/8578.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Box Office HD
-http://194.88.107.101:6204/live/jian/jian/11115.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Main Event HD
-http://194.88.107.101:6204/live/jian/jian/8517.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Cricket HD
-http://194.88.107.101:6204/live/jian/jian/8516.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Action HD
-http://194.88.107.101:6204/live/jian/jian/8515.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Golf HD
-http://194.88.107.101:6204/live/jian/jian/8514.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports Premier League HD
-http://194.88.107.101:6204/live/jian/jian/8513.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports F1 HD
-http://194.88.107.101:6204/live/jian/jian/8512.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Uk- Sky Sports MixHD
-http://194.88.107.101:6204/live/jian/jian/8511.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",UK- Sky Sports Arena HD
-http://194.88.107.101:6204/live/jian/jian/9059.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Sky Calcio 1 HD
+http://173.249.53.3:8000/live/Itatest/Testita/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Sky Calcio 2 HD
+http://173.249.53.3:8000/live/Itatest/Testita/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",  Sky Calcio 3 HD
+http://173.249.53.3:8000/live/Itatest/Testita/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",  Sky Calcio 4 HD
+http://173.249.53.3:8000/live/Itatest/Testita/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",  Sky Calcio 5 HD
+http://173.249.53.3:8000/live/Itatest/Testita/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",  Sky Calcio 6 HD
+http://173.249.53.3:8000/live/Itatest/Testita/201.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 1
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 2
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2011.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 3
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2012.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 4
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2013.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 5
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2014.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2",Skynet Sport 6
+http://iptv.elcodemedia.net:8118/live/syscomp/m4gnum83/2015.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",UK: CARTOON NETWORK
 http://appleiptv.com:8080/live/ferruh@/turkbro!/232.ts
