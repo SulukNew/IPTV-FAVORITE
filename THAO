@@ -414,3 +414,9 @@ http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=15301236&tsum=1b5a199e781ef
 http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=11184779&tsum=27cea16b6fb44fad64a53f30dddd880e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=10469341&tsum=05637c32d4b3e4144b57d5c0dad2772d
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",STAR SPORT SL1 SD
+http://62.210.141.96:8081/planetind1/starsportsselect1/chunks.m3u8?nimblesessionid=309210&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOCAyOjIwOjA2IFBNJmhhc2hfdmFsdWU9UkJvdlNmVDhzRlNZS2F4elZtYzFWZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",STAR SPORT SL2 SD
+http://62.210.141.96:8081/planetind1/starsportsselect2/chunks.m3u8?nimblesessionid=309210&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOCAyOjIwOjA2IFBNJmhhc2hfdmFsdWU9UkJvdlNmVDhzRlNZS2F4elZtYzFWZz09JnZhbGlkbWludXRlcz0y
