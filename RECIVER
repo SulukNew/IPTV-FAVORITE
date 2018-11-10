@@ -149,29 +149,29 @@ http://46.40.5.99:8000/arena_4_high
 http://50.7.73.90:8278/cctv5plus/playlist.m3u8?tid=mf808fb8c2fab17527469&ct=17828&tsum=7c992f95266e70471c9aa50bf6c68f00
 
 #EXTINF:-1,beIN 1 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/21.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/64.ts
 #EXTINF:-1,beIN 2 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/22.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/63.ts
 #EXTINF:-1,beIN 3 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/23.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/62.ts
 #EXTINF:-1,beIN 4 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/24.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/61.ts
 #EXTINF:-1,beIN 5 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/25.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/60.ts
 #EXTINF:-1,beIN 6 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/26.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/59.ts
 #EXTINF:-1,beIN 7 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/27.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/58.ts
 #EXTINF:-1,beIN 8 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/28.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/57.ts
 #EXTINF:-1,beIN 9 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/29.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/56.ts
 #EXTINF:-1,beIN 10 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/30.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/55.ts
 #EXTINF:-1,beIN 11 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/31.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/54.ts
 #EXTINF:-1,beIN 12 HD
-http://46.4.69.169:8000/live/watchapp90901230/watchapp234671/32.ts
+http://appleiptv.com:8080/live/ferruh@/turkbro!/53.ts
 
 #EXTINF:-1,Super SPORT 1 HD
 http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/48.ts
@@ -201,22 +201,22 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 #EXTINF:-1,FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1,BEIN 1 HD [TRUEVIS]
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=13359783&tsum=6e81f685ac8b6b13e5e5ad9ff14285f9
-#EXTINF:-1,BEIN 2 HD [TRUEVIS]
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a8179e9812bee9a057269
-#EXTINF:-1,BEIN 3 HD [TRUEVIS]
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=10484473&tsum=c23614d3d6b63718ef03f2d5ac7b4210
-#EXTINF:-1,BEIN 4 HD [TRUEVIS]
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=13411863&tsum=826b1706c7c4b8eb3ed4f92e12ff0b71
-#EXTINF:-1,SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=16005943&tsum=82e4028edf830c2594402898b869da52
-
 #EXTINF:-1,HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=12796556&tsum=891d1d6ebadabf1a0b9f6ae67a9adffc
-#EXTINF:-1,HBO HITS HD
-http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=10389882&tsum=2cbc31b429b1a1282a6599fde20a9d9b
-#EXTINF:-1,FOX MOVIE HD
-http://50.7.161.82:8278//Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
+http://5.79.87.234:8278//Hbohd/playlist.m3u8?tid=14283627&tsum=99a3d2aa9592190230c735f4c0441781 
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12870855&tsum=eeb57db98b5ac75a4263a1e758de6806
+#EXTINF:-1,HBO HITZ
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=15824586&tsum=27299b36046e4e1bbf22fc0f53ced328
 #EXTINF:-1,CINEMAX
-http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=16775926&tsum=0faf51acb07124ac7917a0bc6dcce95b
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=12263411&tsum=393c55f1da9fe845d8c1c052e64a1ab0
+
+#EXTINF:-1,BEIN 1 TRUE VISION
+http://212.8.243.195:8278/Baby1/playlist.m3u8?tid=11978074&tsum=10447465835861da6a605235b05f22f8
+#EXTINF:-1,BEIN 2 TRUE VISION
+http://212.8.243.195:8278/Baby2/playlist.m3u8?tid=10575982&tsum=099967c74710a013f23d15cb35986a17
+#EXTINF:-1,BEIN 3 TRUE VISION
+http://212.8.243.195:8278/Baby3/playlist.m3u8?tid=14928598&tsum=8962c67eea9264b0edca7bdaf15ba087
+#EXTINF:-1,BEIN 4 TRUE VISION
+http://212.8.243.195:8278/Baby4/playlist.m3u8?tid=16576428&tsum=0a23bc3578ba60e1b68193dc75b14e35
+#EXTINF:-1,SKYNET HD
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15003842&tsum=4d748cb82ec4248e461cd99cf8c026e4
