@@ -211,12 +211,13 @@ http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=16465000&tsum=8981106018a96b51
 http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10510323&tsum=b99fbe711c4d8486c5cc6df239163eb0
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=17981959&tsum=259ef88c1bbcc0ec8df29a27a0a2201a
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=17220983&tsum=b85a2990ab8f9bbe51463cc6b8600696
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=15390324&tsum=791ac84d04554591214e1cb9ffe64b2d
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=14267126&tsum=761fab698367db8bc177afec11b598c3
 #EXTINF:-1,BEIN 3 TRUE VISION
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=11367067&tsum=f1b08e7868ed65808ccac5f19dd9f50b
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=15301236&tsum=1b5a199e781ef2317ea0a98abc226da3
 #EXTINF:-1,BEIN 4 TRUE VISION
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=11884265&tsum=bfcf94b0d041b4a7513c198c600c5a27
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=11184779&tsum=27cea16b6fb44fad64a53f30dddd880e
 #EXTINF:-1,SKYNET HD
-http://50.7.161.82:8278/skynethd_pat/playlist.m3u8?tid=12128778&tsum=2e220cffb946fee14c0751afc62ba272
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=10469341&tsum=05637c32d4b3e4144b57d5c0dad2772d
+
