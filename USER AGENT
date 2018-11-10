@@ -15,48 +15,6 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",TR: Bein Sports 1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2127.ts
 
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 1 HD
-http://51.15.3.71:8000/live/albi322/kanale666/98.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 2 HD
-http://51.15.3.71:8000/live/albi322/kanale666/99.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 3 HD
-http://51.15.3.71:8000/live/albi322/kanale666/100.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 4 HD
-http://51.15.3.71:8000/live/albi322/kanale666/101.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",UK: Sky Sport 5 HD
-http://51.15.3.71:8000/live/albi322/kanale666/102.ts
-
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 1 HR
-http://51.15.3.71:8000/live/albi322/kanale666/90.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 2 HR
-http://51.15.3.71:8000/live/albi322/kanale666/91.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 3 HR
-http://51.15.3.71:8000/live/albi322/kanale666/92.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU: Arena Sport 4 HR
-http://51.15.3.71:8000/live/albi322/kanale666/93.ts
-
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 1
-http://51.15.3.71:8000/live/albi322/kanale666/94.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 2
-http://51.15.3.71:8000/live/albi322/kanale666/95.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 3
-http://51.15.3.71:8000/live/albi322/kanale666/96.ts
-#EXTVLCOPT:http-user-agent=324asd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX YU: SPORT KLUB 4
-http://51.15.3.71:8000/live/albi322/kanale666/97.ts
-
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Eir Sports1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts
@@ -121,6 +79,357 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/59.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sky Bundesliga HD1
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/60.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEINSPORT_1HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeIN_Sports_2HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1503.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeIN_Sports_3HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1502.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_4HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1501.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_5HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1500.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_6HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1499.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_7HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1498.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_8HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1497.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEINSPORT_9HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1496.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_SPORT_10HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1495.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",BEIN_SPORT_11HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6232.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",BEIN_SPORT_12HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6231.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_1HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7483.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_2HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7484.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_3HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7485.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_4HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7486.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_5HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7487.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_6HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7488.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BeOUT_7HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7489.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3373.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3372.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3371.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD4
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3370.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD5
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3369.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD6
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3368.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD7
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3367.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_FULLHD8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3366.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_9HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3365.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",AR:BEIN_10HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3364.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT1_FHD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7356.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT1_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7357.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT2_FHD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7358.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT2_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7359.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT3_FHD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7360.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT3_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7361.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT4_FHD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7362.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR/RMC_SPORT4_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_BEINFRANCE_3FHD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7183.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_BEINFRANCE_3HEVC
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6622.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_4_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6807.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_5_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6806.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_bein-sport-MAX_6_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6805.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_7_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6803.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_8_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6804.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_9_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6802.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FR_Bein-Sport-MAX_10_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6801.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: Sky Moto GP
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5747.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: SKY SPORT 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5752.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: SKY SPORT 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5751.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: Sky Sport 24
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5749.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: SKY SPORT 3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5750.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IT: SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/5753.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE_SKY- BUNDESLIGA1 _HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6861.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE: Sky Bundesliga1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4663.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4662.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4661.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 4 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4660.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 5 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4659.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 6 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4658.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 7 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4657.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 8 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4656.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",DE:SKY Bundesliga 9 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4655.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES:bein_sport_hd
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6151.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES:bein_sport_sd
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6152.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES_Bein-Liga_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3510.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES_Canal_Liga_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3506.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES_M.FORMULA_1_HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/3488.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES: Movistar F1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6349.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",ES: MOVISTAR MOTO GP
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6346.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6009.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6008.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6007.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6006.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6005.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 5
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6004.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: FOX SPORTS 6
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6003.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: Ziggo Sport
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6017.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT EXTRA 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6011.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT EXTRA 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT GOLF
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6012.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT RACING
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6013.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT SELECT
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6016.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: Ziggo Sport Select HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6015.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",NL: ZIGGO SPORT VOETBAL
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6014.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",TR:A SPOR HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4554.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony ESPN HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7583.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony Le PLEX
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7581.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony Six HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7574.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony Ten 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7573.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony Ten 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7572.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",IN: Sony Ten 3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7571.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PK: PTV Sports ( Asia Cup 2018)
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7625.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU:Arena Sport 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4993.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU:Arena Sport 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4992.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU:Arena Sport 3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4991.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU:Sport Klub 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4995.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",EX-YU:Sport Klub 2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/4994.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: AFN Sports 1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2907.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: BEIN SPORT
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2906.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: ESPN 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2917.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: ESPN 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2916.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: FOX SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2915.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: FOX SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2914.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: HBO
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2901.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: TSN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2912.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: TSN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2911.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: TSN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2910.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: TSN SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2909.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",US: TSN SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/2908.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",USA:_ESPN
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/8831.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",USA:_ESPN_U
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/8832.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PT:SPORT-TV-1-HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7319.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PT:SPORT-TV-2-HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7318.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PT:SPORT-TV-3-HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7229.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PT:SPORT-TV-4-HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7317.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",PT:SPORT-TV-5-HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7228.ts
 
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 1 HD
