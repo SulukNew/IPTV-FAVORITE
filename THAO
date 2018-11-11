@@ -182,30 +182,26 @@ http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 1 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 2 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 3 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 4 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 5 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 6 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 7 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 8 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 9 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 10 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 11 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/54.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN 12 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 1_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/753.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 2_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/754.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 3_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/755.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 4_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/756.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 5_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/757.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 6_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/758.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 7_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/759.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 8_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/760.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 9_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",beIN Sports 10_HD
+http://207.154.212.82:8080/live/beindulex/beindulex/752.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",UK: SKY SPORTS MAIN EVENT
 http://appleiptv.com:8080/live/ferruh@/turkbro!/38.ts
