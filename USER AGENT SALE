@@ -56,15 +56,6 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Eir Sports2
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/850.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport TV1 [PT]
-http://2.primatv.club:8080/live/mEINipTVHJR0/troe83vuIV/29.ts
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport TV2 [PT]
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/8.ts
-#EXTVLCOPT:http-user-agent=freeapppsss
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport TV3 [PT]
-http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/9.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 1 HD
 http://173.249.53.3:8000/live/itgrtest/grtest1/291.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 2 HD
