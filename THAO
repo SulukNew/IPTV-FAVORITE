@@ -39,9 +39,9 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY LE PLEX HD
-http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/02.m3u8
+http://125.17.129.7/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY PIX HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/02.m3u8
+http://125.17.129.12/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY LE PLEX FHD
@@ -61,17 +61,17 @@ http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&c
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY ESPN HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/02.m3u8
+http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY SIX HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/02.m3u8
+http://125.17.129.13/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 1 HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
+http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 2 HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/02.m3u8
+http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 3 HD
-http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/02.m3u8
+http://125.17.129.7/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",D SPORT HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/02.m3u8
+http://125.17.129.15/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY ESPN FHD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
