@@ -149,27 +149,30 @@ http://173.249.53.3:8000/live/itgrtest/grtest1/297.ts
 #EXTINF:-1,[GR] OTE SPORT 8 HD
 http://173.249.53.3:8000/live/itgrtest/grtest1/298.ts
 
-#EXTINF:-1,beIN Sports 1_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/753.ts
-#EXTINF:-1,beIN Sports 2_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/754.ts
-#EXTINF:-1,beIN Sports 3_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/755.ts
-#EXTINF:-1,beIN Sports 4_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/756.ts
-#EXTINF:-1,beIN Sports 5_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/757.ts
-#EXTINF:-1,beIN Sports 6_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/758.ts
-#EXTINF:-1,beIN Sports 7_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/759.ts
-#EXTINF:-1,beIN Sports 8_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/760.ts
-#EXTINF:-1,beIN Sports 9_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/751.ts
-#EXTINF:-1,beIN Sports 10_HD
-http://207.154.212.82:8080/live/beindulex/beindulex/752.ts
-
+#EXTINF:-1,BeIN Sports 1 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/502.ts
+#EXTINF:-1,BeIN Sports 2 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/503.ts
+#EXTINF:-1,BeIN Sports 3 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/504.ts
+#EXTINF:-1,BeIN Sports 4 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/505.ts
+#EXTINF:-1,BeIN Sports 5 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/506.ts
+#EXTINF:-1,BeIN Sports 6 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/507.ts
+#EXTINF:-1,BeIN Sports 7 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/508.ts
+#EXTINF:-1,BeIN Sports 8 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/509.ts
+#EXTINF:-1,BeIN Sports 9 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/510.ts
+#EXTINF:-1,BeIN Sports 10 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/511.ts
+#EXTINF:-1,BeIN Sports 11 HD [EN]
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/512.ts
+#EXTINF:-1,BeIN Sports 12 HD [EN]
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/513.ts
 
 #EXTINF:-1,Super SPORT 1 HD
 http://163.172.211.229:8000/live/sdsgal/orbit12/48.ts
@@ -200,22 +203,24 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1,HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=17567601&tsum=e2f24ee53fce2a2641b4a0c2109f6efb
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=18765136&tsum=a6393d735165cdb0e7845bca5cffca01
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=14563610&tsum=98f357e2da715a44b659e1c5f680b527
+#EXTINF:-1,FOX MOVIES ACTION
+http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=14386251&tsum=ec0315a0a934af041ab8623e5550473d
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=12960450&tsum=b916df67800e96ed9d03c63f8f660252
 #EXTINF:-1,HBO HITZ
-http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=18759714&tsum=9abd7aa4962d06f9f5c37783caa1ad3a
+http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=11350846&tsum=9280dd12863fbcb13c748ea52b636223
 #EXTINF:-1,CINEMAX
-http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10494818&tsum=0e8e480a1435227f289576ccbb0b7146
+http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=11764428&tsum=4b2189af3da5cf15729f3787f8e9bdcf
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=11201292&tsum=0286a6e5ae768c81e0120a3add6ff259
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=11692428&tsum=592e4de5911c0d81cdda19129947d6fb
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=16923479&tsum=3e4c3eb6d379f81633615a4d15c20215
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=13820404&tsum=0f7f4beab2f23f9696bfca236d047e78
 #EXTINF:-1,BEIN 3 TRUE VISION
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=15192192&tsum=73d73344635845e75230bdcbe84d0e2c
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=13072347&tsum=0846c6c69093dfd96c5dd438d789b730
 #EXTINF:-1,BEIN 4 TRUE VISION
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=18125335&tsum=d4d1e0154cbe543914acef138d6867df
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=15068624&tsum=285bc12a12caff24725a377c00688a76
 #EXTINF:-1,SKYNET HD
-http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=17029455&tsum=0407fe757e8e206bb54d468e43b58c12
+http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=13793155&tsum=2795d2151a7387e152e592654ae6ce73
 
