@@ -141,6 +141,16 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/88.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Sport Klub 3 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/89.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEINSPORT_1HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BeIN_Sports_2HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1503.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BeIN_Sports_3HD
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1502.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_4HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1501.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_5HD
