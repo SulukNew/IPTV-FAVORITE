@@ -44,10 +44,6 @@ http://125.17.129.7/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122644
 http://125.17.129.12/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY LE PLEX FHD
-http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY PIX FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",FOX-SPORTS-HD [VT]
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
@@ -72,19 +68,6 @@ http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226
 http://125.17.129.7/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",D SPORT HD
 http://125.17.129.15/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY ESPN FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY SIX FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 1 FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 2 FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",SONY TEN 3 FHD
-http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",D SPORT FHD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",True Sport HD1
 https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
@@ -359,22 +342,23 @@ http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2247.ts
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=12568359&tsum=3deec51aa21bc7ef820e7e3e708c9fe1
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=17567601&tsum=e2f24ee53fce2a2641b4a0c2109f6efb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",FOX MOVIES PREMIUM
-http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=14809411&tsum=922eea4357217bcce98607085e719e14
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=18765136&tsum=a6393d735165cdb0e7845bca5cffca01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",HBO HITZ
-http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=16465000&tsum=8981106018a96b51031ff1c1b0e99fcc
+http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=18759714&tsum=9abd7aa4962d06f9f5c37783caa1ad3a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",CINEMAX
-http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10510323&tsum=b99fbe711c4d8486c5cc6df239163eb0
+http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10494818&tsum=0e8e480a1435227f289576ccbb0b7146
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 1 TRUE VISION
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=17220983&tsum=b85a2990ab8f9bbe51463cc6b8600696
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=11201292&tsum=0286a6e5ae768c81e0120a3add6ff259
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 2 TRUE VISION
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=14267126&tsum=761fab698367db8bc177afec11b598c3
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=16923479&tsum=3e4c3eb6d379f81633615a4d15c20215
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 3 TRUE VISION
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=15301236&tsum=1b5a199e781ef2317ea0a98abc226da3
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=15192192&tsum=73d73344635845e75230bdcbe84d0e2c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",BEIN 4 TRUE VISION
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=11184779&tsum=27cea16b6fb44fad64a53f30dddd880e
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=18125335&tsum=d4d1e0154cbe543914acef138d6867df
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="TEMPORARY",SKYNET HD
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=10469341&tsum=05637c32d4b3e4144b57d5c0dad2772d
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=14838208&tsum=31e3d54145cbef082b68de73233f931f
+
 
