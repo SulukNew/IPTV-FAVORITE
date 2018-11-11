@@ -481,3 +481,42 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7317.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",PT:SPORT-TV-5-HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7228.ts
+
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES ACTION HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1657.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN:MOVIES_ACTION_2_HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1647.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES PREMIERE HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1652.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES PREMIERE 2 HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1653.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN:MOVIES_HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1646.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES BOX-OFFICE 1 HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1654.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES BOX-OFFICE 2 HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1655.ts
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES BOX-OFFICE 3 HD
+http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1656.ts
+
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/351.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/352.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
+#EXTVLCOPT:http-user-agent=freeapppsss
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 4 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
+
