@@ -530,3 +530,38 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 4 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
 
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN OutDoor HD
+http://linux-app.tv:6204/live/Atwa/Atwa/9030.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN H2 HD
+http://linux-app.tv:6204/live/Atwa/Atwa/11037.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN History HD
+http://linux-app.tv:6204/live/Atwa/Atwa/13029.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Travel HD
+http://linux-app.tv:6204/live/Atwa/Atwa/2697.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery Turbo Xtra
+http://linux-app.tv:6204/live/Atwa/Atwa/9025.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery HD
+http://linux-app.tv:6204/live/Atwa/Atwa/7701.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery Science HD
+http://linux-app.tv:6204/live/Atwa/Atwa/1162.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Animal Planet HD
+http://linux-app.tv:6204/live/Atwa/Atwa/2587.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat Geo HD
+http://linux-app.tv:6204/live/Atwa/Atwa/8999.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat Geo Wild HD
+http://linux-app.tv:6204/live/Atwa/Atwa/984.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.40.101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat People HD
+http://linux-app.tv:6204/live/Atwa/Atwa/2711.ts
+
+
