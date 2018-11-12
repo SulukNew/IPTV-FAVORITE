@@ -444,3 +444,17 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Movies 4 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY ESPN HD
+http://125.17.129.15/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY SIX HD
+http://125.17.129.15/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 1 HD
+http://125.17.129.15/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 2 HD
+http://125.17.129.15/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",SONY TEN 3 HD
+http://125.17.129.13/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",D SPORT HD
+http://125.17.129.15/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/03.m3u8
+
+
