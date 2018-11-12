@@ -182,30 +182,44 @@ http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 1 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/502.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 2 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/503.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 3 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/504.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 4 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/505.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 5 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/506.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 6 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/507.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 7 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/508.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 8 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/509.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 9 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/510.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 10 HD
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/511.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 11 HD [EN]
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/512.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",BeIN Sports 12 HD [EN]
-http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD
+http://m-iptv.net:6204/alaa/ismail/2568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport News HD
+http://m-iptv.net:6204/alaa/ismail/2567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD1
+http://m-iptv.net:6204/alaa/ismail/127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD2
+http://m-iptv.net:6204/alaa/ismail/128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD3
+http://m-iptv.net:6204/alaa/ismail/129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD4
+http://m-iptv.net:6204/alaa/ismail/130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD5
+http://m-iptv.net:6204/alaa/ismail/132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD6
+http://m-iptv.net:6204/alaa/ismail/133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD8
+http://m-iptv.net:6204/alaa/ismail/135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD7
+http://m-iptv.net:6204/alaa/ismail/134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD9
+http://m-iptv.net:6204/alaa/ismail/186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD10
+http://m-iptv.net:6204/alaa/ismail/187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD11 EN
+http://m-iptv.net:6204/alaa/ismail/188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD12 EN
+http://m-iptv.net:6204/alaa/ismail/189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD13 EN
+http://m-iptv.net:6204/alaa/ismail/1694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD14 FR
+http://m-iptv.net:6204/alaa/ismail/2555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD15 FR
+http://m-iptv.net:6204/alaa/ismail/4763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD16 FR
+http://m-iptv.net:6204/alaa/ismail/4762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",VIP: Bein Sport HD17 ES
+http://m-iptv.net:6204/alaa/ismail/4761
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1",UK: Sky Sports MIX HD
 http://173.249.53.3:8000/live/Diotv/Diotv/261.ts
