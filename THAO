@@ -132,6 +132,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA",J'Go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA",WARNER
+http://210.210.155.35/session/7538220a-e68c-11e8-b63d-c81f66f89318/uq2663/h/h233/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA",NAT GEO WILD
