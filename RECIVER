@@ -149,64 +149,59 @@ http://173.249.53.3:8000/live/itgrtest/grtest1/297.ts
 #EXTINF:-1,[GR] OTE SPORT 8 HD
 http://173.249.53.3:8000/live/itgrtest/grtest1/298.ts
 
-#EXTINF:-1,VIP: Bein Sport HD
-http://m-iptv.net:6204/alaa/ismail/2568
-#EXTINF:-1,VIP: Bein Sport News HD
-http://m-iptv.net:6204/alaa/ismail/2567
-#EXTINF:-1,VIP: Bein Sport HD1
-http://m-iptv.net:6204/alaa/ismail/127
-#EXTINF:-1,VIP: Bein Sport HD2
-http://m-iptv.net:6204/alaa/ismail/128
-#EXTINF:-1,VIP: Bein Sport HD3
-http://m-iptv.net:6204/alaa/ismail/129
-#EXTINF:-1,VIP: Bein Sport HD4
-http://m-iptv.net:6204/alaa/ismail/130
-#EXTINF:-1,VIP: Bein Sport HD5
-http://m-iptv.net:6204/alaa/ismail/132
-#EXTINF:-1,VIP: Bein Sport HD6
-http://m-iptv.net:6204/alaa/ismail/133
-#EXTINF:-1,VIP: Bein Sport HD8
-http://m-iptv.net:6204/alaa/ismail/135
-#EXTINF:-1,VIP: Bein Sport HD7
-http://m-iptv.net:6204/alaa/ismail/134
-#EXTINF:-1,VIP: Bein Sport HD9
-http://m-iptv.net:6204/alaa/ismail/186
-#EXTINF:-1,VIP: Bein Sport HD10
-http://m-iptv.net:6204/alaa/ismail/187
-#EXTINF:-1,VIP: Bein Sport HD11 EN
-http://m-iptv.net:6204/alaa/ismail/188
-#EXTINF:-1,VIP: Bein Sport HD12 EN
-http://m-iptv.net:6204/alaa/ismail/189
-#EXTINF:-1,VIP: Bein Sport HD13 EN
-http://m-iptv.net:6204/alaa/ismail/1694
-#EXTINF:-1,VIP: Bein Sport HD14 FR
-http://m-iptv.net:6204/alaa/ismail/2555
-#EXTINF:-1,VIP: Bein Sport HD15 FR
-http://m-iptv.net:6204/alaa/ismail/4763
-#EXTINF:-1,VIP: Bein Sport HD16 FR
-http://m-iptv.net:6204/alaa/ismail/4762
-#EXTINF:-1,VIP: Bein Sport HD17 ES
-http://m-iptv.net:6204/alaa/ismail/4761
+#EXTINF:-1,AR:BeINSports_HD1
+http://hall2mark.ddns.net:80/medoum1/medoum/6907
+#EXTINF:-1,AR:BeINSports_HD2
+http://hall2mark.ddns.net:80/medoum1/medoum/6906
+#EXTINF:-1,AR:BeINSports_HD3
+http://hall2mark.ddns.net:80/medoum1/medoum/6905
+#EXTINF:-1,AR:BeINSports_HD4
+http://hall2mark.ddns.net:80/medoum1/medoum/6904
+#EXTINF:-1,AR:BeINSports_HD5
+http://hall2mark.ddns.net:80/medoum1/medoum/6903
+#EXTINF:-1,AR:BeINSports_HD6
+http://hall2mark.ddns.net:80/medoum1/medoum/6902
+#EXTINF:-1,AR:BeINSports_HD7
+http://hall2mark.ddns.net:80/medoum1/medoum/6901
+#EXTINF:-1,AR:BeINSports_HD8
+http://hall2mark.ddns.net:80/medoum1/medoum/6900
+#EXTINF:-1,AR:BeINSports_HD9
+http://hall2mark.ddns.net:80/medoum1/medoum/6899
+#EXTINF:-1,AR:beINSPORTS_10HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6898
+#EXTINF:-1,AR:BEINSPORTS_11HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6897
 
-#EXTINF:-1,Super SPORT 1 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/48.ts
-#EXTINF:-1,Super SPORT 2 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/49.ts
-#EXTINF:-1,Super SPORT 3 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/50.ts
-#EXTINF:-1,Super SPORT 4 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/51.ts
-#EXTINF:-1,Super SPORT 5 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/52.ts
-
-#EXTINF:-1,Tring Sport 1 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/44.ts
-#EXTINF:-1,Tring Sport 2 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/45.ts
-#EXTINF:-1,Tring Sport 3 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/46.ts
-#EXTINF:-1,Tring Sport 4 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/47.ts
+#EXTINF:-1,UK: Sky sports MainEvents
+http://hall2mark.ddns.net:80/medoum1/medoum/2919
+#EXTINF:-1,UK: Sky sport Football HD
+http://hall2mark.ddns.net:80/medoum1/medoum/5593
+#EXTINF:-1,UK: Sky Sport Premier League HD
+http://hall2mark.ddns.net:80/medoum1/medoum/20853
+#EXTINF:-1,UK: Sky sport golf HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4105
+#EXTINF:-1,UK: Sky Sport Action HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2917
+#EXTINF:-1,UK: Sky sport Arena HD
+http://hall2mark.ddns.net:80/medoum1/medoum/5594
+#EXTINF:-1,UK: Sky sport F1 HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3046
+#EXTINF:-1,UK: Sky Sport Mix HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3041
+#EXTINF:-1,UK: Sky Sports News HQ.
+http://hall2mark.ddns.net:80/medoum1/medoum/3919
+#EXTINF:-1,UK: Sky Sports News HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4256
+#EXTINF:-1,UK: BT SPORTS 1 HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3035
+#EXTINF:-1,UK: BT SPORTS 2 HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3036
+#EXTINF:-1,UK: BT SPORTS 3 HD.
+http://hall2mark.ddns.net:80/medoum1/medoum/14820
+#EXTINF:-1,UK: BT SPORTS ESPN HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3958
+#EXTINF:-1,UK: BT SPORTS  Extra
+http://hall2mark.ddns.net:80/medoum1/medoum/3063
 
 #EXTINF:-1,NAT. GEO [INDO]
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
@@ -217,24 +212,24 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1,HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=14563610&tsum=98f357e2da715a44b659e1c5f680b527
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=16499124&tsum=cbbf084887352038e12c75e88f6e8441
 #EXTINF:-1,FOX MOVIES ACTION
-http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=14386251&tsum=ec0315a0a934af041ab8623e5550473d
+http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=15801644&tsum=5e29fa4f4557ee30aabcdabb47f1385c
 #EXTINF:-1,FOX MOVIE PREMIUM
-http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=12960450&tsum=b916df67800e96ed9d03c63f8f660252
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=14977343&tsum=4d3bc22e60e32342a3b8cb2dfc3e5baa
 #EXTINF:-1,HBO HITZ
-http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=11350846&tsum=9280dd12863fbcb13c748ea52b636223
+http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=14301510&tsum=c2bd1944e9cc1b509926c0ea5ce09ea6
 #EXTINF:-1,CINEMAX
-http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=11764428&tsum=4b2189af3da5cf15729f3787f8e9bdcf
+http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=16133637&tsum=b0beb9d79a896e9fb9d44a57b8178835
 
 #EXTINF:-1,BEIN 1 TRUE VISION
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=11692428&tsum=592e4de5911c0d81cdda19129947d6fb
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=13087764&tsum=088c0044818443b6b70cf8e63087797a
 #EXTINF:-1,BEIN 2 TRUE VISION
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=13820404&tsum=0f7f4beab2f23f9696bfca236d047e78
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=10706471&tsum=b38cd8ca3c910bc053691b5251e42fd3
 #EXTINF:-1,BEIN 3 TRUE VISION
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=13072347&tsum=0846c6c69093dfd96c5dd438d789b730
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=16915281&tsum=fda40f08f0bd819138a7f423424a95b5
 #EXTINF:-1,BEIN 4 TRUE VISION
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=15068624&tsum=285bc12a12caff24725a377c00688a76
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=15129387&tsum=3c415c79cbee2eff9a4bd4ccf62b28fe
 #EXTINF:-1,SKYNET HD
-http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=13793155&tsum=2795d2151a7387e152e592654ae6ce73
+http://190.2.153.35:8278/skynethd_pat/playlist.m3u8?tid=11379616&tsum=26a10e750fa921a1db1389f050fe6edf
 
