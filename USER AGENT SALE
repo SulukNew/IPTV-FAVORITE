@@ -555,115 +555,98 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 4 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
 
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN OutDoor HD
-http://linux-app.tv:6204/live/Atwa/Atwa/9030.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN H2 HD
-http://linux-app.tv:6204/live/Atwa/Atwa/11037.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN History HD
-http://linux-app.tv:6204/live/Atwa/Atwa/13029.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Travel HD
-http://linux-app.tv:6204/live/Atwa/Atwa/2697.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery Turbo Xtra
-http://linux-app.tv:6204/live/Atwa/Atwa/9025.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery HD
-http://linux-app.tv:6204/live/Atwa/Atwa/7701.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Discovery Science HD
-http://linux-app.tv:6204/live/Atwa/Atwa/1162.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Animal Planet HD
-http://linux-app.tv:6204/live/Atwa/Atwa/2587.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat Geo HD
-http://linux-app.tv:6204/live/Atwa/Atwa/8999.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat Geo Wild HD
-http://linux-app.tv:6204/live/Atwa/Atwa/984.ts
-#EXTVLCOPT:http-user-agent=Lavf/57.40.101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="SCIENCE",OSN Nat People HD
-http://linux-app.tv:6204/live/Atwa/Atwa/2711.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",ASTRO SUPERSPORT 1 HD
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",ASTRO SUPERSPORT 2 HD
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18622
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",ASTRO SUPERSPORT 3 HD
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18621
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",ASTRO SUPERSPORT 4 HD
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 1 INDO
+http://tvku.live:8888/0172416479/1131953454/728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 2 INDO
+http://tvku.live:8888/0172416479/1131953454/729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 3 INDO
+http://tvku.live:8888/0172416479/1131953454/730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 1
+http://tvku.live:8888/0172416479/1131953454/882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 2
+http://tvku.live:8888/0172416479/1131953454/892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 3
+http://tvku.live:8888/0172416479/1131953454/893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 4
+http://tvku.live:8888/0172416479/1131953454/894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 1
+http://tvku.live:8888/0172416479/1131953454/51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 2
+http://tvku.live:8888/0172416479/1131953454/102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 3
+http://tvku.live:8888/0172416479/1131953454/101
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX SPORTS 1 MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX SPORTS 2 MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX SPORTS 3 MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18587
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",SkyNet Sports HD
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/9113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",beIN Sports 1 TRUE VISION
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",beIN Sports 2 TRUE VISION
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",beIN Sports 3 TRUE VISION
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",beIN Sports 4 TRUE VISION
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8507
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",True Tennis HD TRUE VISION
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8502
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8081
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 1 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 2/Sky 2 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8079
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 3/Sky 3 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8078
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 4/Sky 4 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 5/Sky 5 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8076
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 6/Sky 6 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 7/Sky 7 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8074
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 8/Sky 8 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8073
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MySports 9/Sky 9 FHD CH
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8072
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 1
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 2
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8515
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 3
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 4
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8513
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 5
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports 6
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Skynet Sports Plus
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8517
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",RED HBO HD MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18561
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",SkyNet Fox Action Movies MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/9143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",MTV ASIA MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18573
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",NAT GEO ASIA HD MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",NAT GEO PEOPLE HD MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18570
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",NAT GEO WILD HD MY
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/18569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Movies HD
+http://tvku.live:8888/0172416479/1131953454/98
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Action Movies HD
+http://tvku.live:8888/0172416479/1131953454/99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Family Movies HD
+http://tvku.live:8888/0172416479/1131953454/100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Crime HD
+http://tvku.live:8888/0172416479/1131953454/763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Life HD
+http://tvku.live:8888/0172416479/1131953454/94
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX HD
+http://tvku.live:8888/0172416479/1131953454/95
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FX HD
+http://tvku.live:8888/0172416479/1131953454/776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Diva HD
+http://tvku.live:8888/0172416479/1131953454/841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO HD
+http://tvku.live:8888/0172416479/1131953454/210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Hits
+http://tvku.live:8888/0172416479/1131953454/591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Family
+http://tvku.live:8888/0172416479/1131953454/592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Signature
+http://tvku.live:8888/0172416479/1131953454/873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Red by HBO
+http://tvku.live:8888/0172416479/1131953454/874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Cinemax
+http://tvku.live:8888/0172416479/1131953454/796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO HD Backup
+http://tvku.live:8888/0172416479/1131953454/863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",LifeTime
+http://tvku.live:8888/0172416479/1131953454/866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Warner TV
+http://tvku.live:8888/0172416479/1131953454/865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Star Chinese Movies HD
+http://tvku.live:8888/0172416479/1131953454/780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Blue Ant Extreme
+http://tvku.live:8888/0172416479/1131953454/811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Waku Waku Japan
+http://tvku.live:8888/0172416479/1131953454/717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Syfy
+http://tvku.live:8888/0172416479/1131953454/538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HGTV
+http://tvku.live:8888/0172416479/1131953454/537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",AFC HD
+http://tvku.live:8888/0172416479/1131953454/807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic Channel HD
+http://tvku.live:8888/0172416479/1131953454/96
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic Wild HD
+http://tvku.live:8888/0172416479/1131953454/97
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic People
+http://tvku.live:8888/0172416479/1131953454/455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",History
+http://tvku.live:8888/0172416479/1131953454/718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Animal Planet HD
+http://tvku.live:8888/0172416479/1131953454/358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Channel HD
+http://tvku.live:8888/0172416479/1131953454/165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Asia
+http://tvku.live:8888/0172416479/1131953454/779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Science HD
+http://tvku.live:8888/0172416479/1131953454/408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Shed
+http://tvku.live:8888/0172416479/1131953454/333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Turbo
+http://tvku.live:8888/0172416479/1131953454/462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Crime Investigation
+http://tvku.live:8888/0172416479/1131953454/332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",CGTN
+http://tvku.live:8888/0172416479/1131953454/362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",GINX ESPORTS TV
+http://tvku.live:8888/0172416479/1131953454/532
 
