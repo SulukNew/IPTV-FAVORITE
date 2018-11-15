@@ -67,6 +67,31 @@ http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Le Plex
+http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Pix
+http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 1
+http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 2
+http://thop.in/THOPTV_APP/zgbsat-3221226077-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 3
+http://thop.in/THOPTV_APP/zgbsat-3221226330-02.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony SIX
+http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony ESPN
+http://thop.in/THOPTV_APP/zgbsat-3221226076-002.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",D Sport
+http://thop.in/THOPTV_APP/zgbsat-3221226484-002.m3u8
+
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Sports USA
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts
@@ -555,98 +580,61 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",Bein Movies 4 HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN H2 HD
+http://rb-group-server.com:25461/12341234/12341234/6325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN E! Entertainment HD
+http://rb-group-server.com:25461/12341234/12341234/6338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN History Channel HD
+http://rb-group-server.com:25461/12341234/12341234/6326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Crime & Investigation
+http://rb-group-server.com:25461/12341234/12341234/6324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Animal Planet HD
+http://rb-group-server.com:25461/12341234/12341234/6335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat Geo HD
+http://rb-group-server.com:25461/12341234/12341234/6334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Nat GEO Wild HD
+http://rb-group-server.com:25461/12341234/12341234/6333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN NAT GEO People HD
+http://rb-group-server.com:25461/12341234/12341234/6332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Family HD
+http://rb-group-server.com:25461/12341234/12341234/6328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Channel HD
+http://rb-group-server.com:25461/12341234/12341234/6331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Discovery Science HD
+http://rb-group-server.com:25461/12341234/12341234/6330
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 1 INDO
-http://tvku.live:8888/0172416479/1131953454/728
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 2 INDO
-http://tvku.live:8888/0172416479/1131953454/729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",BeIN Sport 3 INDO
-http://tvku.live:8888/0172416479/1131953454/730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 1
-http://tvku.live:8888/0172416479/1131953454/882
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 2
-http://tvku.live:8888/0172416479/1131953454/892
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 3
-http://tvku.live:8888/0172416479/1131953454/893
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Astro Supersport 4
-http://tvku.live:8888/0172416479/1131953454/894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 1
-http://tvku.live:8888/0172416479/1131953454/51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 2
-http://tvku.live:8888/0172416479/1131953454/102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Fox Sports 3
-http://tvku.live:8888/0172416479/1131953454/101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 1 HD
+http://rb-group-server.com:25461/12341234/12341234/2965
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 2 HD
+http://rb-group-server.com:25461/12341234/12341234/2964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 3 HD
+http://rb-group-server.com:25461/12341234/12341234/2963
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",beIN Movies 4 HD
+http://rb-group-server.com:25461/12341234/12341234/2962
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies HD
+http://rb-group-server.com:25461/12341234/12341234/5321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies  IZ HD
+http://rb-group-server.com:25461/12341234/12341234/5319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Movies Action HD
+http://rb-group-server.com:25461/12341234/12341234/5273
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 1 HD
+http://rb-group-server.com:25461/12341234/12341234/5331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 2 HD
+http://rb-group-server.com:25461/12341234/12341234/5330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 3 HD
+http://rb-group-server.com:25461/12341234/12341234/5329
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Movies HD
-http://tvku.live:8888/0172416479/1131953454/98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Action Movies HD
-http://tvku.live:8888/0172416479/1131953454/99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Family Movies HD
-http://tvku.live:8888/0172416479/1131953454/100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Crime HD
-http://tvku.live:8888/0172416479/1131953454/763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX Life HD
-http://tvku.live:8888/0172416479/1131953454/94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FOX HD
-http://tvku.live:8888/0172416479/1131953454/95
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",FX HD
-http://tvku.live:8888/0172416479/1131953454/776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Diva HD
-http://tvku.live:8888/0172416479/1131953454/841
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO HD
-http://tvku.live:8888/0172416479/1131953454/210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Hits
-http://tvku.live:8888/0172416479/1131953454/591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Family
-http://tvku.live:8888/0172416479/1131953454/592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO Signature
-http://tvku.live:8888/0172416479/1131953454/873
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Red by HBO
-http://tvku.live:8888/0172416479/1131953454/874
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Cinemax
-http://tvku.live:8888/0172416479/1131953454/796
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HBO HD Backup
-http://tvku.live:8888/0172416479/1131953454/863
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",LifeTime
-http://tvku.live:8888/0172416479/1131953454/866
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Warner TV
-http://tvku.live:8888/0172416479/1131953454/865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Star Chinese Movies HD
-http://tvku.live:8888/0172416479/1131953454/780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Blue Ant Extreme
-http://tvku.live:8888/0172416479/1131953454/811
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Waku Waku Japan
-http://tvku.live:8888/0172416479/1131953454/717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Syfy
-http://tvku.live:8888/0172416479/1131953454/538
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",HGTV
-http://tvku.live:8888/0172416479/1131953454/537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",AFC HD
-http://tvku.live:8888/0172416479/1131953454/807
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic Channel HD
-http://tvku.live:8888/0172416479/1131953454/96
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic Wild HD
-http://tvku.live:8888/0172416479/1131953454/97
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",National Geographic People
-http://tvku.live:8888/0172416479/1131953454/455
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",History
-http://tvku.live:8888/0172416479/1131953454/718
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Animal Planet HD
-http://tvku.live:8888/0172416479/1131953454/358
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Channel HD
-http://tvku.live:8888/0172416479/1131953454/165
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Asia
-http://tvku.live:8888/0172416479/1131953454/779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Science HD
-http://tvku.live:8888/0172416479/1131953454/408
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Shed
-http://tvku.live:8888/0172416479/1131953454/333
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Discovery Turbo
-http://tvku.live:8888/0172416479/1131953454/462
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",Crime Investigation
-http://tvku.live:8888/0172416479/1131953454/332
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",CGTN
-http://tvku.live:8888/0172416479/1131953454/362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",GINX ESPORTS TV
-http://tvku.live:8888/0172416479/1131953454/532
+#EXTINF:-1, MOVIES NOW
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies HD
+http://rb-group-server.com:25461/12341234/12341234/6375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 2H
+http://rb-group-server.com:25461/12341234/12341234/6340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies Action HD
+http://rb-group-server.com:25461/12341234/12341234/6369
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies Thriller HD
+http://rb-group-server.com:25461/12341234/12341234/6371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 007 HD
+http://rb-group-server.com:25461/12341234/12341234/6365
+
 
