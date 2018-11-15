@@ -106,32 +106,6 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Eir Sports2
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/850.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 1 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 2 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/292.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 3 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 4 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 5 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 6 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/296.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 7 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",[GR] OTE SPORT 8 HD
-http://173.249.53.3:8000/live/itgrtest/grtest1/298.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Tring Sport 1 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Tring Sport 2 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Tring Sport 3 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Tring Sport 4 HD
-http://163.172.211.229:8000/live/sdsgal/orbit12/47.ts
-
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Fox Sports 1 HD NL
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/5.ts
@@ -542,6 +516,78 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7317.ts
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7228.ts
 
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN NATGEO WILD  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/38.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES ACTION 
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/35.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES HD  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/36.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES THRILLER  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/114.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN BOX OFFICE 1  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/32.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN ON DEMAND  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/37.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES DRAMA  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/33.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES FESTIVAL  
+http://yacinetv1.ddns.net:8000/live/osn05/osn05/34.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",OSN MOVIES FIRST  
+http://yacinetv1.ddns.net:8000/live/osntv03/osntv03/112.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN SPORT NEWS HD   
+http://yacinetv1.ddns.net:8000/beinhd06/beinhd06/146
+
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 1  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/215
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 2  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/214
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 3  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/213
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 4  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/212
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 5  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/211
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 6  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/210
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 7  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/209
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 8  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/208
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 9  
+http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/207
+
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN MOVIES HD1  
+http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/19.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN MOVIES HD2  
+http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/20.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN MOVIES HD3  
+http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/21.ts
+#EXTVLCOPT:http-user-agent= yacinetv1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN MOVIES HD4  
+http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/22.ts
+
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES ACTION HD
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1657.ts
@@ -555,7 +601,7 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1652.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES PREMIERE 2 HD
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1653.ts
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN:MOVIES_HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES_HD
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1646.ts
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN: MOVIES BOX-OFFICE 1 HD
