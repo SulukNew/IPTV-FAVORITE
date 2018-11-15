@@ -67,12 +67,44 @@ http://iptv.didanurwanda.com/channel/live/cnn-indonesia-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8d67a1ebad7da3b6f845e369f5144308-1541429335-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8?token=e720abeeacbf5fd31832db7d88cf681c-1541429836-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",HBO-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8?token=c07fa89c22718fa5cbb837eaf786bd11-1541430134-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8?token=050fa661f332b90c47fbefb1bce34d3f-1541430628-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8?token=3af00c81cf38e7424bb6f1a2224bdf99-1541430327-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b032611aee0dd1c262644bf0e2cfcd5-1541430384-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",HBO TRANSVISION
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",FOX MOVIE
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",FOX MOVIES ACTION HTV
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",SONY MOVIES
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",CELESTIAL MOVIES [Indo]
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Le Plex
 http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",Sony Pix
 http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",MOVIES NOW
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rmHrQtcD/L8.png" group-title="SULUK 2️",Sony TEN 1
 http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
@@ -195,10 +227,10 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1496.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_10HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1495.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_11HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_11HD [EN]
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6232.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_12HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_12HD [EN]
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6231.ts
 
@@ -670,8 +702,6 @@ http://rb-group-server.com:25461/12341234/12341234/5330
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",BeIN Box Office 3 HD
 http://rb-group-server.com:25461/12341234/12341234/5329
 
-#EXTINF:-1, MOVIES NOW
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies HD
 http://rb-group-server.com:25461/12341234/12341234/6375
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 2H
