@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,SULUK INTRO
+http://bit.ly/2MMn4Uf
+#EXTINF:-1,SULUK YNWA
+https://bit.ly/2NX1Jny
+#EXTINF:-1,HBO HD
+http://bit.ly/SulukHBO2
+#EXTINF:-1,FOX MOVIE HTV
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,FOX MOVIES ACTION HTV
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1,FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX MOVIES [AR]
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+
+#EXTINF:-1,FOX-SPORTS-HD [VT]
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX 2 [Asia]
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,FOX 3 [Asia]
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,FOX SP.3 HD [TW]
+http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
+
+#EXTINF:-1,AR:BeINSports_HD1
+http://hall2mark.ddns.net:80/medoum1/medoum/6907
+#EXTINF:-1,AR:BeINSports_HD2
+http://hall2mark.ddns.net:80/medoum1/medoum/6906
+#EXTINF:-1,AR:BeINSports_HD3
+http://hall2mark.ddns.net:80/medoum1/medoum/6905
+#EXTINF:-1,AR:BeINSports_HD4
+http://hall2mark.ddns.net:80/medoum1/medoum/6904
+#EXTINF:-1,AR:BeINSports_HD5
+http://hall2mark.ddns.net:80/medoum1/medoum/6903
+#EXTINF:-1,AR:BeINSports_HD6
+http://hall2mark.ddns.net:80/medoum1/medoum/6902
+#EXTINF:-1,AR:BeINSports_HD7
+http://hall2mark.ddns.net:80/medoum1/medoum/6901
+#EXTINF:-1,AR:BeINSports_HD8
+http://hall2mark.ddns.net:80/medoum1/medoum/6900
+#EXTINF:-1,AR:BeINSports_HD9
+http://hall2mark.ddns.net:80/medoum1/medoum/6899
+#EXTINF:-1,AR:beINSPORTS_10HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6898
+#EXTINF:-1,AR:BEINSPORTS_11HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6897
+
+#EXTINF:-1,MATCH FOOTBALL 1
+http://persik.by/stream/3602/287583/33.m3u8
+#EXTINF:-1,MATCH FOOTBALL 2
+http://persik.by/stream/3602/287583/10217.m3u8
+#EXTINF:-1,MATCH FOOTBALL 3
+http://persik.by/stream/3602/287583/10218.m3u8
+#EXTINF:-1,MATCH FOOTBALL 1 HD
+http://persik.by/stream/3602/287583/10266.m3u8
+#EXTINF:-1,MATCH FOOTBALL 2 HD
+http://persik.by/stream/3602/287583/10267.m3u8
+#EXTINF:-1,MATCH FOOTBALL 3 HD
+http://persik.by/stream/3602/287583/10268.m3u8
+#EXTINF:-1,MATCH ARENA
+http://persik.by/stream/3602/287583/261.m3u8
+#EXTINF:-1,MATCH
+http://persik.by/stream/3602/287583/276.m3u8
+#EXTINF:-1,MATCH
+http://persik.by/stream/3602/287583/1077.m3u8
+#EXTINF:-1,Extreme Sports
+http://persik.by/stream/3602/287583/99.m3u8
+#EXTINF:-1,FOOTBALL
+http://persik.by/stream/176/296165/10294.m3u8
+#EXTINF:-1,MATCH ARENA
+http://persik.by/stream/176/296165/261.m3u8
