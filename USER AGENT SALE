@@ -82,7 +82,7 @@ http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b03261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX",AXN-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",HBO TRANSVISION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",HBO TRANSVISION
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK 1",FOX MOVIE
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
@@ -233,6 +233,21 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6232.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_12HD [EN]
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6231.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 1 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31173.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE Sport 2 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31172.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 3 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31171.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 5 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31169.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 6 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31168.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 7 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31167.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 8 HD
+http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31166.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BeOUT_1HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
