@@ -595,32 +595,32 @@ http://yacinetv1.ddns.net:8000/live/osntv03/osntv03/112.ts
 http://yacinetv1.ddns.net:8000/beinhd06/beinhd06/146
 
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 1  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 1  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/215
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 2  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 2  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/214
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 3  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 3  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/213
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 4  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 4  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/212
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 5  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 5  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/211
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 6  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 6  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/210
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 7  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 7  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/209
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 8  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 8  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/208
 #EXTVLCOPT:http-user-agent= yacinetv1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beout Q HD 9  
-http://yacinetv1.ddns.net:8000/beinhd00/beinhd00/207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",beIN HD 9  
+http://yacinetv1.ddns.net:8000/beinhd11/beinhd11/207
 
 #EXTVLCOPT:http-user-agent= yacinetv1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV",BEIN MOVIES HD1  
