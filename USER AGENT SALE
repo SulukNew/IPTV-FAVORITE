@@ -728,20 +728,20 @@ http://rb-group-server.com:25461/12341234/12341234/6371
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="RELAX",OSN Movies 007 HD
 http://rb-group-server.com:25461/12341234/12341234/6365
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",MY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",BIZNET KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",MIAO MI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",CARTOON NETWORK
 http://persik.by/stream/2944/263250/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59SG1TZ8/IPTV-KIDS.png" group-title="KIDS",DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY",GINX ESPORTS TV
 http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/532
