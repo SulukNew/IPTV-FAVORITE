@@ -126,7 +126,7 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",CINEMA WORLD [Indo Text]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",CINEMA WORLD [Indo Text]
 http://local2.bloggue.work/uq2663/h/h04/01.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
@@ -221,6 +221,98 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",MK TV
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",MALEO CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KLIK MUSIK
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",TV BMW
+http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",FAKTA TV
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DMI CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DIAMOND TV
+http://stream1.ninmedia.tv/live/xmedia-dtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",STAR BRIDGE TV
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",INSPIRA TV
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",AREK TV
+ttp://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",NU CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="NINMEDIA♥",DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",FIRST MEDIA INFO
+http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",MIX TV
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",J'Go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",WARNER
+http://210.210.155.35/session/7538220a-e68c-11e8-b63d-c81f66f89318/uq2663/h/h233/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",NAT GEO WILD
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w151342808_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",DISCOVERY INVESTIGATION
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",DISCOVERY SCIENCE
+http://125.17.129.14/wh7f454c46tw1688194317_2007272607/PLTV/88888888/224/3221225778/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",ANIMAL PLANET
+http://161.0.157.9/PLTV/88888888/224/3221226253/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",AXN [indo]
+http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",BERITA 1 WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8d67a1ebad7da3b6f845e369f5144308-1541429335-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8?token=e720abeeacbf5fd31832db7d88cf681c-1541429836-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8?token=c07fa89c22718fa5cbb837eaf786bd11-1541430134-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX MOVIES HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8?token=050fa661f332b90c47fbefb1bce34d3f-1541430628-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8?token=3af00c81cf38e7424bb6f1a2224bdf99-1541430327-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b032611aee0dd1c262644bf0e2cfcd5-1541430384-5be054bd0ebc0599b32143b7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",CARTOON NETWORK
+http://persik.by/stream/2944/263250/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",DISNEY XD
+http://primestreams.tv:826/live/MeRcury061559/083726956ws3/1672.m3u8
 
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="SULUK IPTV️",Bein Sports USA
