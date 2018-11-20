@@ -409,31 +409,28 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1503.ts
 http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1502.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_4HD
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1501.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_5HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1500.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_6HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1499.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_7HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1498.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_8HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1497.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEINSPORT_9HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1496.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",AR:BEIN_SPORT_10HD
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/1495.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_11HD [EN]
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6232.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",BEIN_SPORT_12HD [EN]
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/6231.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD1
+http://hall2mark.ddns.net:80/medoum1/medoum/6907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD2
+http://hall2mark.ddns.net:80/medoum1/medoum/6906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD3
+http://hall2mark.ddns.net:80/medoum1/medoum/6905
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD4
+http://hall2mark.ddns.net:80/medoum1/medoum/6904
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD5
+http://hall2mark.ddns.net:80/medoum1/medoum/6903
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD6
+http://hall2mark.ddns.net:80/medoum1/medoum/6902
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD7
+http://hall2mark.ddns.net:80/medoum1/medoum/6901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD8
+http://hall2mark.ddns.net:80/medoum1/medoum/6900
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_HD9
+http://hall2mark.ddns.net:80/medoum1/medoum/6899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_10HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_11HD
+http://hall2mark.ddns.net:80/medoum1/medoum/6897
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS",GR: OTE SPORT 1 HD
 http://78.oscarcanli.com:8080/live/iptvhdmitr_100_64/sB7syj8kdH/31173.ts
