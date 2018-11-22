@@ -513,25 +513,41 @@ http://hall2mark.ddns.net:80/medoum1/medoum/6898
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",AR: BeIN Sports_11HD
 http://hall2mark.ddns.net:80/medoum1/medoum/6897
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Super SPORT 1 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Super SPORT 2 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Super SPORT 3 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Super SPORT 4 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Super SPORT 5 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",FOX SPORTS 1 ASIA
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/8189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",FOX SPORTS 2 ASIA
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/8188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",FOX SPORTS 3 ASIA
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/8187
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Tring Sport 1 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Tring Sport 2 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Tring Sport 3 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Tring Sport 4 HD
-http://163.172.211.229:8000/live/apollo11/adtgffasrropt/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",TSN 1 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",TSN 2 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",TSN 3 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",TSN 4 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",TSN 5 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/560
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",Alb: Supersport Multi
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/8451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: Supersport 1 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: Supersport 2 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: Supersport 3 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: Supersport 4 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: Supersport 5 HD
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/2669
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: SuperSport Kosova HD1
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",ALB: SuperSport Kosova HD2
+http://tv.hdtv4u.cc:2052/kjrcJRZ1G6/RBrUvhW7Mb/1965
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",AR:Bein Sports 1 HD
 http://iptv.ndasat.com:88/555155895930609/555155895930609/5192
@@ -632,24 +648,6 @@ http://iptv.ndasat.com:88/555155895930609/555155895930609/1556
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",FR:RMC Sport 4
 http://iptv.ndasat.com:88/555155895930609/555155895930609/1612
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 1
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 2
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 3
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 4
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 5
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 6
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 7
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR: OTE SPORT 8
-http://miamiiptv.dynns.com:8080/karadayi/karadayi/35767
-
-#EXTM3U
 #EXTVLCOPT:http-user-agent= yacinetv1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV♥",OSN NATGEO WILD  
 http://yacinetv1.ddns.net:8000/live/osn05/osn05/38.ts
@@ -721,10 +719,4 @@ http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/21.ts
 #EXTVLCOPT:http-user-agent= yacinetv1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/GpSPNjVR/YACINE.png" group-title="YACINE TV♥",BEIN MOVIES HD4  
 http://yacinetv1.ddns.net:8000/live/beinmovies40/beinmovies40/22.ts
-
-
-
-
-
-
 
