@@ -385,21 +385,56 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZqs4JrL/L10.png" group-title="FIRST MEDIA♥",BERITA 1 WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS-HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8d67a1ebad7da3b6f845e369f5144308-1541429335-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS 2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS 2
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8?token=e720abeeacbf5fd31832db7d88cf681c-1541429836-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO-HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PM HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8?token=c07fa89c22718fa5cbb837eaf786bd11-1541430134-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX MOVIES HD
+#EXTINF:0 tvg-id="FOXmovies.svn" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PC HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8?token=050fa661f332b90c47fbefb1bce34d3f-1541430628-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8?token=3af00c81cf38e7424bb6f1a2224bdf99-1541430327-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-HD
+#EXTINF:0 tvg-id="fox-crime" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b032611aee0dd1c262644bf0e2cfcd5-1541430384-5be054bd0ebc0599b32143b7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN-HD
+#EXTINF:0 tvg-id="axn.pt" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
-
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO
+http://58.186.149.250:8889/udp/225.1.2.232:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",MAX by HBO
+http://58.186.149.250:8889/udp/225.1.2.86:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",RED by HBO
+http://58.186.149.250:8889/udp/225.1.1.89:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXMOVIE
+http://58.186.149.250:8889/udp/225.1.2.238:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXLIFE
+http://58.186.149.250:8889/udp/225.1.2.236:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX
+http://58.186.149.250:8889/udp/225.1.1.52:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",WARNER TV
+http://58.186.149.250:8889/udp/225.1.1.139:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",GEM
+http://58.186.149.250:8889/udp/225.1.1.17:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN
+http://58.186.149.250:8889/udp/225.1.2.224:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",KIX
+http://58.186.149.250:8889/udp/225.1.2.144:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion TV
+http://stream-03.ix7.dailymotion.com/48/dm/3/x3m6nld/live-4.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion and Life Style
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Top Model
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Destination
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion For Men
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b4700000_t64MTA4MHA==.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Runway
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FASHION MIDNIGHT 18+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",JASMIN TV 18+
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",MY KIDS
