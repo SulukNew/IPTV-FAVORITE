@@ -231,13 +231,10 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",CINEMA WORLD [Indo Text]
 http://local2.bloggue.work/uq2663/h/h04/01.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Le Plex
-http://thop.in/THOPTV_APP/zgbsat-3221226446-002.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Pix
-http://thop.in/THOPTV_APP/zgbsat-3221226486-002.m3u8
+#EXTINF:0 tvg-id="SonyLePlex.in" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Le Plex
+http://useetv.me:8000/live/Zalkepotv/6zLhjSWBXV/81.ts
+#EXTINF:0 tvg-id="SonyPIX.in" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",Sony Pix
+http://useetv.me:8000/live/Zalkepotv/6zLhjSWBXV/82.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",DISCOVERY CH. HD
@@ -251,18 +248,15 @@ http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 1
-http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 2
-http://thop.in/THOPTV_APP/zgbsat-3221226077-002.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 3
-http://thop.in/THOPTV_APP/zgbsat-3221226330-02.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony SIX
-http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
+#EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 1
+http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 2
+http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="TenCricket.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 3
+http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+
+#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony SIX
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony ESPN
 http://thop.in/THOPTV_APP/zgbsat-3221226076-002.m3u8
